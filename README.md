@@ -13,3 +13,7 @@ A collection of awesome things that use or support MapLibre!
 
 ## Other Official Projects
 - [MapLibre Demotiles](https://github.com/maplibre/demotiles)
+
+## Projects Supporting MapLibre
+
+- [react-map-gl](https://visgl.github.io/react-map-gl/docs)
