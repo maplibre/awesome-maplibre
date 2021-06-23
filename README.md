@@ -24,4 +24,4 @@ https://visgl.github.io/react-map-gl/docs/get-started/get-started#using-with-a-m
 
 ### Angular
 
-https://github.com/maplibre/ngx-maplibre-gl
+https://github.com/maplibre/ngx-maplibre-gl with demo at https://maplibre.org/ngx-maplibre-gl/
