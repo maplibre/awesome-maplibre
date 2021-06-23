@@ -15,3 +15,13 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 ## Other Official Projects
 - [MapLibre Demotiles](https://github.com/maplibre/demotiles) - A simple, XYZ MVT tileset for demonstration projects.
+
+## Bindings
+
+### React
+
+https://visgl.github.io/react-map-gl/docs/get-started/get-started#using-with-a-mapbox-gl-fork
+
+### Angular
+
+https://github.com/maplibre/ngx-maplibre-gl
