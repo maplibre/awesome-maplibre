@@ -30,3 +30,7 @@ https://github.com/maplibre/ngx-maplibre-gl with demo at https://maplibre.org/ng
 
 - [H3J / H3T](https://github.com/INSPIDE/h3j-h3t) - Light [H3](https://h3geo.org/) data formats for client side geometry generation and rendering using MapLibreGL
 - [Gauge Legend](https://github.com/AbelVM/gauge_legend) - Dynamic gauge legend for MapLibre
+
+## Users
+
+- [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
