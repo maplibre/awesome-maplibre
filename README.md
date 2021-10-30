@@ -34,3 +34,4 @@ https://github.com/maplibre/ngx-maplibre-gl with demo at https://maplibre.org/ng
 ## Users
 
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
+- [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel. Migrated to [Maplibre](https://github.com/IsraelHikingMap/Site/issues/1532).
