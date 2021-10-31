@@ -32,8 +32,8 @@ https://github.com/m0nac0/flutter-maplibre-gl
 
 ## Other Plugins
 
-- [H3J / H3T](https://github.com/INSPIDE/h3j-h3t) - Light [H3](https://h3geo.org/) data formats for client side geometry generation and rendering using MapLibreGL
-- [Gauge Legend](https://github.com/AbelVM/gauge_legend) - Dynamic gauge legend for MapLibre
+- [H3J / H3T](https://github.com/INSPIDE/h3j-h3t) - Light [H3](https://h3geo.org/) data formats for client side geometry generation and rendering using MapLibre GL JS
+- [Gauge Legend](https://github.com/AbelVM/gauge_legend) - Dynamic gauge legend for MapLibre GL JS
 - [maplibre-preload](https://github.com/AbelVM/maplibre-preload) - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibre GL JS.
 
 ## Users
