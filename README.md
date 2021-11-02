@@ -42,3 +42,4 @@ https://github.com/m0nac0/flutter-maplibre-gl
 - [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel. Migrated to [Maplibre](https://github.com/IsraelHikingMap/Site/issues/1532).
 - [OpenStreetMap Americana Style](https://github.com/ZeLonewolf/openstreetmap-americana#openstreetmap-americana-style) - A quintessentially American map style, powered by [MapLibre](https://github.com/ZeLonewolf/openstreetmap-americana#technology-stack)
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
+- NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
