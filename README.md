@@ -22,6 +22,8 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 https://visgl.github.io/react-map-gl/docs/get-started/get-started#using-with-a-mapbox-gl-fork
 
+https://github.com/mapcomponents/react-map-components-maplibre with demos at https://www.mapcomponents.org/ and https://mapcomponents.github.io/react-map-components-maplibre
+
 ### Angular
 
 https://github.com/maplibre/ngx-maplibre-gl with demo at https://maplibre.org/ngx-maplibre-gl/
