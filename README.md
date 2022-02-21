@@ -49,3 +49,4 @@ https://github.com/m0nac0/flutter-maplibre-gl
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre GL Native.
+- [Windguru weather forecast maps](https://www.windguru.cz/map/) - showing different map types (wind, temperature, clouds, etc...) with wind animation and time-based visualization.
