@@ -39,6 +39,7 @@ https://github.com/m0nac0/flutter-maplibre-gl
 - [maplibre-preload](https://github.com/AbelVM/maplibre-preload) - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibre GL JS.
 - [maplibre-gl-basemaps](https://github.com/ka7eh/maplibre-gl-basemaps) - A plugin for switching between raster basemaps.
 - [maplibre-gl-vector-text-protocol](https://github.com/jimmyrocks/maplibre-gl-vector-text-protocol) - Supports `CSV`, `TSV`, `Topojson`, `KML`, `GPX`, and `TCX` formats using the addProtocol feature.
+- [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 
 ## Users
 
