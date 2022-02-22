@@ -41,6 +41,10 @@ https://github.com/m0nac0/flutter-maplibre-gl
 - [maplibre-gl-vector-text-protocol](https://github.com/jimmyrocks/maplibre-gl-vector-text-protocol) - Supports `CSV`, `TSV`, `Topojson`, `KML`, `GPX`, and `TCX` formats using the addProtocol feature.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 
+## Utilities
+
+- [SDF Glyph Tool](https://github.com/protomaps/sdf-glyph-tool) - web app to convert font files into SDF glyph ranges for use in MapLibre GL.
+
 ## Users
 
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
