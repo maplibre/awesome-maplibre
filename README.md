@@ -45,12 +45,12 @@ https://github.com/m0nac0/flutter-maplibre-gl
 ## Utilities
 
 - [SDF Glyph Tool](https://github.com/protomaps/sdf-glyph-tool) - web app to convert font files into SDF glyph ranges for use in MapLibre GL.
-- [MapLibre Storytelling](https://github.com/digidem/maplibre-storytelling) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
 
 ## Users
 
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
 - [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel. Migrated to [Maplibre](https://github.com/IsraelHikingMap/Site/issues/1532).
+- [MapLibre Storytelling](https://github.com/digidem/maplibre-storytelling) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
 - [OpenStreetMap Americana Style](https://github.com/ZeLonewolf/openstreetmap-americana#openstreetmap-americana-style) - A quintessentially American map style, powered by [MapLibre](https://github.com/ZeLonewolf/openstreetmap-americana#technology-stack)
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
