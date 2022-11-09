@@ -45,6 +45,7 @@ https://github.com/m0nac0/flutter-maplibre-gl
 ## Utilities
 
 - [SDF Glyph Tool](https://github.com/protomaps/sdf-glyph-tool) - web app to convert font files into SDF glyph ranges for use in MapLibre GL.
+- [MapLibre Storytelling](https://github.com/digidem/maplibre-storytelling) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
 
 ## Users
 
