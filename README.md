@@ -44,7 +44,7 @@ https://github.com/m0nac0/flutter-maplibre-gl
 
 ## Utilities
 
-- [SDF Glyph Tool](https://github.com/protomaps/sdf-glyph-tool) - web app to convert font files into SDF glyph ranges for use in MapLibre GL.
+- [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre GL.
 
 ## Users
 
