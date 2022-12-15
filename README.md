@@ -41,6 +41,7 @@ https://github.com/m0nac0/flutter-maplibre-gl
 - [maplibre-gl-vector-text-protocol](https://github.com/jimmyrocks/maplibre-gl-vector-text-protocol) - Supports `CSV`, `TSV`, `Topojson`, `KML`, `GPX`, and `TCX` formats using the addProtocol feature.
 - [PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/master/js) - A library that uses addProtocol to read [PMTiles](https://github.com/protomaps/PMTiles), a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
+- [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 
 ## Utilities
 
