@@ -7,11 +7,11 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 ## Official Rendering Projects
 
 - [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) - A map SDK for rendering maps on the Web.
-- [MapLibre GL Native](https://github.com/maplibre/maplibre-gl-native) - A maps SDK for rendering maps on devices, in apps, and on the server.
+- [MapLibre Native](https://github.com/maplibre/maplibre-gl-native) - A maps SDK for rendering maps on devices, in apps, and on the server.
 
 ## Official Plugins for Renderers
 
-- [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - A plugin for rendering Maplibre styles in [Leaflet](https://leafletjs.com).
+- [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - A plugin for rendering MapLibre styles in [Leaflet](https://leafletjs.com).
 
 ## Other Official Projects
 - [MapLibre Demotiles](https://github.com/maplibre/demotiles) - A simple, XYZ MVT tileset for demonstration projects.
@@ -42,20 +42,20 @@ https://github.com/m0nac0/flutter-maplibre-gl
 - [PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/master/js) - A library that uses addProtocol to read [PMTiles](https://github.com/protomaps/PMTiles), a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 - [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
-- [maplibre-contour](https://github.com/onthegomap/maplibre-contour) - Renders contour lines from raster DEM tiles in Maplibre GL JS.
+- [maplibre-contour](https://github.com/onthegomap/maplibre-contour) - Renders contour lines from raster DEM tiles in MapLibre GL JS.
 
 ## Utilities
 
-- [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre GL.
+- [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre.
 
 ## Users
 
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
-- [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel. Migrated to [Maplibre](https://github.com/IsraelHikingMap/Site/issues/1532).
+- [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel. Migrated to [MapLibre](https://github.com/IsraelHikingMap/Site/issues/1532).
 - [MapLibre Storytelling](https://github.com/digidem/maplibre-storymap) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
 - [OpenStreetMap Americana Style](https://github.com/ZeLonewolf/openstreetmap-americana#openstreetmap-americana-style) - A quintessentially American map style, powered by [MapLibre](https://github.com/ZeLonewolf/openstreetmap-americana#technology-stack)
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
-- [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre GL Native.
+- [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
 - [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
