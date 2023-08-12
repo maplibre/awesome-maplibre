@@ -32,6 +32,10 @@ https://github.com/maplibre/ngx-maplibre-gl with demo at https://maplibre.org/ng
 
 https://github.com/m0nac0/flutter-maplibre-gl
 
+### Svelte
+
+[sveltekit-maplibre-boilerplate](https://github.com/watergis/sveltekit-maplibre-boilerplate) - A preconfigured template repository to easily start developing a maplibre application in svelte/sveltekit.
+
 ## Other Plugins
 
 - [H3J / H3T](https://github.com/INSPIDE/h3j-h3t) - Light [H3](https://h3geo.org/) data formats for client side geometry generation and rendering using MapLibre GL JS
@@ -44,6 +48,7 @@ https://github.com/m0nac0/flutter-maplibre-gl
 - [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 - [maplibre-contour](https://github.com/onthegomap/maplibre-contour) - Renders contour lines from raster DEM tiles in MapLibre GL JS.
 - [Terra Draw](https://www.github.com/JamesLMilner/terra-draw) - The library has a MapLibre GL JS adapter to provide drawing and geometry editing functionality to the map
+- [svelte-maplibre-components](https://github.com/watergis/svelte-maplibre-components) - A set of maplibre plugins to integrate with svelte/sveltekit. The respository consists of various useful plugins such as export plugin, legend plugin, measure plugin, attribute table plugin, tour plugin, etc.
 
 ## Utilities
 
