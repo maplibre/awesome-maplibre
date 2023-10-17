@@ -28,6 +28,10 @@ https://github.com/mapcomponents/react-map-components-maplibre with demos at htt
 
 https://github.com/maplibre/ngx-maplibre-gl with demo at https://maplibre.org/ngx-maplibre-gl/
 
+### Vue
+
+https://github.com/razorness/vue-maplibre-gl
+
 ### Flutter
 
 https://github.com/m0nac0/flutter-maplibre-gl
