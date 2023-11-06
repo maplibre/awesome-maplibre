@@ -53,6 +53,8 @@ https://github.com/m0nac0/flutter-maplibre-gl
 - [maplibre-contour](https://github.com/onthegomap/maplibre-contour) - Renders contour lines from raster DEM tiles in MapLibre GL JS.
 - [Terra Draw](https://www.github.com/JamesLMilner/terra-draw) - The library has a MapLibre GL JS adapter to provide drawing and geometry editing functionality to the map
 - [svelte-maplibre-components](https://github.com/watergis/svelte-maplibre-components) - A set of maplibre plugins to integrate with svelte/sveltekit. The respository consists of various useful plugins such as export plugin, legend plugin, measure plugin, attribute table plugin, tour plugin, etc.
+- [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity) - A plugin to switch layer like Leaflet.control.layers, and update opacities. [demo](https://mug-jp.github.io/maplibre-gl-opacity/)
+- [maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
 
 ## Utilities
 
