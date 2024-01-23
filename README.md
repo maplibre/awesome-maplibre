@@ -42,9 +42,8 @@ https://github.com/m0nac0/flutter-maplibre-gl
 
 ### Python
 
-* [GitHub](https://github.com/eodaGmbH/py-maplibregl)
-* [Docs](https://eodagmbh.github.io/py-maplibregl/)
-* [Examples](https://eodagmbh.github.io/py-maplibregl/examples/road_safety/)
+[MapLibre for Python](https://github.com/eodaGmbH/py-maplibregl) with docs at [eodagmbh.github.io/py-maplibregl/](https://eodagmbh.github.io/py-maplibregl/)
+and examples at [eodagmbh.github.io/py-maplibregl/examples/](https://eodagmbh.github.io/py-maplibregl/examples/road_safety/)
 
 ## Other Plugins
 
