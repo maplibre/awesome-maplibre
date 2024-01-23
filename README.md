@@ -40,6 +40,12 @@ https://github.com/m0nac0/flutter-maplibre-gl
 
 [sveltekit-maplibre-boilerplate](https://github.com/watergis/sveltekit-maplibre-boilerplate) - A preconfigured template repository to easily start developing a maplibre application in svelte/sveltekit.
 
+### Python
+
+* [GitHub](https://github.com/eodaGmbH/py-maplibregl)
+* [Docs](https://eodagmbh.github.io/py-maplibregl/)
+* [Examples](https://eodagmbh.github.io/py-maplibregl/examples/road_safety/)
+
 ## Other Plugins
 
 - [H3J / H3T](https://github.com/INSPIDE/h3j-h3t) - Light [H3](https://h3geo.org/) data formats for client side geometry generation and rendering using MapLibre GL JS
