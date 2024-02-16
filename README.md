@@ -65,6 +65,8 @@ and examples at [eodagmbh.github.io/py-maplibregl/examples/](https://eodagmbh.gi
 
 - [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre.
 
+- [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
+
 ## Users
 
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
