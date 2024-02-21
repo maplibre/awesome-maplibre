@@ -78,3 +78,4 @@ and examples at [eodagmbh.github.io/py-maplibregl/examples/](https://eodagmbh.gi
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
 - [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
+- [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
