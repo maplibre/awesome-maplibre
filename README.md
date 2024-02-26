@@ -67,6 +67,9 @@ and examples at [eodagmbh.github.io/py-maplibregl/examples/](https://eodagmbh.gi
 
 - [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
 
+- [MapBlockly](https://mapblockly.github.io/) - MapBlockly is a simple and fun way to learn and build Map with Blockly using MapLibre.
+- [MapInventor](https://mapinventor.github.io/) - MapInventor is the visual language built on top of MapBlockly.
+
 ## Users
 
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
