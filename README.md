@@ -61,6 +61,7 @@ and examples at [eodagmbh.github.io/py-maplibregl/examples/](https://eodagmbh.gi
 - [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity) - A plugin to switch layer like Leaflet.control.layers, and update opacities. [demo](https://mug-jp.github.io/maplibre-gl-opacity/)
 - [maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
 - [L7-maplibre-gl](https://github.com/antvis/l7) - Adds large-scale WebGL-powered geospatial data visualization framework to maplibre-gl.[demo](https://l7.antv.antgroup.com/examples/map/map/#maplibre)
+- [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
 ## Utilities
 
 - [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre.
