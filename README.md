@@ -71,6 +71,12 @@ and examples at [eodagmbh.github.io/py-maplibregl/examples/](https://eodagmbh.gi
 - [MapBlockly](https://mapblockly.github.io/) - MapBlockly is a simple and fun way to learn and build Map with Blockly using MapLibre.
 - [MapInventor](https://mapinventor.github.io/) - MapInventor is the visual language built on top of MapBlockly.
 
+## Sprites
+
+- [Spreet](https://github.com/flother/spreet) - Spreet is a command-line tool that creates a spritesheet (aka texture atlas) from a directory of SVG images.
+- [Figmasset](https://github.com/stamen/figmasset) - Figmasset is a tool to facilitate bulk-loading assets from Figma into a JavaScript application.
+- [Sprite One](https://www.npmjs.com/package/@unvt/sprite-one) - Generate sprite image and json without Mapnik.
+
 ## Users
 
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
