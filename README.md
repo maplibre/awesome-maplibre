@@ -4,46 +4,55 @@
 
 A collection of awesome things that use or support [MapLibre](https://maplibre.org)!
 
-## Official Rendering Projects
+## Official Projects
+
+### Offical Rendering Projects
 
 - [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) - A map SDK for rendering maps on the Web.
 - [MapLibre Native](https://github.com/maplibre/maplibre-gl-native) - A maps SDK for rendering maps on devices, in apps, and on the server.
 
-## Official Plugins for Renderers
+### Other Official Projects
 
+- [MapLibre style specification](https://github.com/maplibre/maplibre-style-spec) - The MapLibre Style Specification, a JSON-based format for styling maps.
+- [Maputnik](https://github.com/maplibre/maputnik) - A visual style editor for MapLibre GL JS. Hosted at [maplibre.org/maputnik](https://maplibre.org/maputnik)
 - [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - A plugin for rendering MapLibre styles in [Leaflet](https://leafletjs.com).
-
-## Other Official Projects
 - [MapLibre Demotiles](https://github.com/maplibre/demotiles) - A simple, XYZ MVT tileset for demonstration projects.
+- [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server, supports tile generation and mbtiles tooling.
+- [MapLibre RS](https://github.com/maplibre/maplibre-rs) - Experimental map rendering library written in Rust.
+- [MapLibre Plugins for Android](https://github.com/maplibre/maplibre-plugins-android) - A collection of plugins for MapLibre on Android.
+- [MapLibre Navigation SDK for Android](https://github.com/maplibre/maplibre-navigation-android)
+- [MapLibre GL Directions](https://github.com/maplibre/maplibre-gl-directions) - A plugin to show routing directions on a MapLibre GL JS map
 
 ## Bindings
 
-### React
-
-https://visgl.github.io/react-map-gl/docs/get-started/get-started#using-with-a-mapbox-gl-fork
-
-https://github.com/mapcomponents/react-map-components-maplibre with demos at https://www.mapcomponents.org/ and https://mapcomponents.github.io/react-map-components-maplibre
-
 ### Angular
 
-https://github.com/maplibre/ngx-maplibre-gl with demo at https://maplibre.org/ngx-maplibre-gl/
-
-### Vue
-
-https://github.com/razorness/vue-maplibre-gl
+- [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding with hosted demos at [maplibre.org/ngx-maplibre-gl/demo](https://maplibre.org/ngx-maplibre-gl/demo/)
 
 ### Flutter
 
-https://github.com/m0nac0/flutter-maplibre-gl
-
-### Svelte
-
-[sveltekit-maplibre-boilerplate](https://github.com/watergis/sveltekit-maplibre-boilerplate) - A preconfigured template repository to easily start developing a maplibre application in svelte/sveltekit.
+- [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) - Bindings for Flutter on Android, iOS and Web, on pub.dev at [pub.dev/packages/maplibre_gl](https://pub.dev/packages/maplibre_gl)
 
 ### Python
 
-[MapLibre for Python](https://github.com/eodaGmbH/py-maplibregl) with docs at [eodagmbh.github.io/py-maplibregl/](https://eodagmbh.github.io/py-maplibregl/)
-and examples at [eodagmbh.github.io/py-maplibregl/examples/](https://eodagmbh.github.io/py-maplibregl/examples/road_safety/)
+- [py-maplibregl](https://github.com/eodaGmbH/py-maplibregl) - Python bindings for MapLibre GL JS with docs [eodagmbh.github.io/py-maplibregl](https://eodagmbh.github.io/py-maplibregl/) and examples [eodagmbh.github.io/py-maplibregl/examples/road_safety](https://eodagmbh.github.io/py-maplibregl/examples/road_safety/).
+
+### Qt
+
+- [maplibre-native-qt](https://github.com/maplibre/maplibre-native-qt) - MapLibre Native Qt bindings and Qt Location MapLibre Plugin
+
+### React
+
+- [react-map-gl](https://visgl.github.io/react-map-gl/docs/get-started#using-with-a-compatible-fork)
+- [react-map-components-maplibre](https://github.com/mapcomponents/react-map-components-maplibre) - A React component framework for declarative GIS application development with demos in their [showcase](https://catalogue.mapcomponents.org/) and [docs](https://mapcomponents.github.io/react-map-components-maplibre)
+
+### Svelte
+
+- [sveltekit-maplibre-boilerplate](https://github.com/watergis/sveltekit-maplibre-boilerplate) - A preconfigured template repository develop a MapLibre application in svelte/sveltekit.
+
+### Vue
+
+- [vue-maplibre-gl](https://github.com/razorness/vue-maplibre-gl) - Vue 3 plugin for maplibre-gl-js
 
 ## Other Plugins
 
@@ -62,12 +71,11 @@ and examples at [eodagmbh.github.io/py-maplibregl/examples/](https://eodagmbh.gi
 - [maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
 - [L7-maplibre-gl](https://github.com/antvis/l7) - Adds large-scale WebGL-powered geospatial data visualization framework to maplibre-gl.[demo](https://l7.antv.antgroup.com/examples/map/map/#maplibre)
 - [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
+
 ## Utilities
 
 - [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre.
-
-- [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
-
+- [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) - Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
 - [MapBlockly](https://mapblockly.github.io/) - MapBlockly is a simple and fun way to learn and build Map with Blockly using MapLibre.
 - [MapInventor](https://mapinventor.github.io/) - MapInventor is the visual language built on top of MapBlockly.
 
