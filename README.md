@@ -36,6 +36,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 ### Python
 
 - [py-maplibregl](https://github.com/eodaGmbH/py-maplibregl) - Python bindings for MapLibre GL JS with docs [eodagmbh.github.io/py-maplibregl](https://eodagmbh.github.io/py-maplibregl/) and examples [eodagmbh.github.io/py-maplibregl/examples/road_safety](https://eodagmbh.github.io/py-maplibregl/examples/road_safety/).
+- [leafmap](https://github.com/opengeos/leafmap/) - A python package that supports the MapLibre mapping backend with docs [leafmap.org](https://leafmap.org) and examples [leafmap.org/maplibre/overview](https://leafmap.org/maplibre/overview)
 
 ### Qt
 
