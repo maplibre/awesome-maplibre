@@ -72,6 +72,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
 - [L7-maplibre-gl](https://github.com/antvis/l7) - Adds large-scale WebGL-powered geospatial data visualization framework to maplibre-gl.[demo](https://l7.antv.antgroup.com/examples/map/map/#maplibre)
 - [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
+- [Allmaps Maplibre](https://github.com/allmaps/allmaps/tree/main/packages/maplibre) - A package for displaying georeferenced [IIIF](https://iiif.io/) images by loading [Georeference Annotations](https://preview.iiif.io/api/georef/extension/georef/) and using WebGL to transform and overlay the images on their correct geographical position.
 
 ## Utilities
 
