@@ -53,7 +53,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 ### Vue
 
-- [vue-maplibre-gl](https://github.com/razorness/vue-maplibre-gl) - Vue 3 plugin for maplibre-gl-js
+- [@indoorequal/vue-maplibre-gl](https://github.com/indoorequal/vue-maplibre-gl) - Vue 3 plugin for maplibre-gl-js
 
 ## Other Plugins
 
