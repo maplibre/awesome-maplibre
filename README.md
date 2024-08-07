@@ -73,6 +73,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [L7-maplibre-gl](https://github.com/antvis/l7) - Adds large-scale WebGL-powered geospatial data visualization framework to maplibre-gl.[demo](https://l7.antv.antgroup.com/examples/map/map/#maplibre)
 - [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
 - [Allmaps Maplibre](https://github.com/allmaps/allmaps/tree/main/packages/maplibre) - A package for displaying georeferenced [IIIF](https://iiif.io/) images by loading [Georeference Annotations](https://preview.iiif.io/api/georef/extension/georef/) and using WebGL to transform and overlay the images on their correct geographical position.
+- [maplibre-gl-dates](https://github.com/OpenHistoricalMap/maplibre-gl-dates/) – Filters a time-enabled map by date. Optimized for OpenHistoricalMap vector tiles.
 
 ## Utilities
 
@@ -101,3 +102,4 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
 - [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
 - [Queering the Map](https://www.queeringthemap.com) ([Code](https://github.com/radical-data/queering-the-map)) - A crowd-sourced platform for anonymously pinning queer experiences on a global map.
+- [OpenHistoricalMap](https://www.openhistoricalmap.org/) – collaborative project to map the history of the world in detail, powered by MapLibre with maplibre-gl-leaflet
