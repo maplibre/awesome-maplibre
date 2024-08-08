@@ -82,6 +82,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [MapBlockly](https://mapblockly.github.io/) - MapBlockly is a simple and fun way to learn and build Map with Blockly using MapLibre.
 - [MapInventor](https://mapinventor.github.io/) - MapInventor is the visual language built on top of MapBlockly.
 - [Theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Js Web app. [demo](https://maplibre-theme.pentatrion.com/)
+- [MapLibre VSCode Extension](https://github.com/Kanahiro/maplibre-vscode-extension) - VSCode Extension for viewing/editing MapLibre Style.
 
 ## Sprites
 
