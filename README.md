@@ -75,6 +75,16 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [Allmaps Maplibre](https://github.com/allmaps/allmaps/tree/main/packages/maplibre) - A package for displaying georeferenced [IIIF](https://iiif.io/) images by loading [Georeference Annotations](https://preview.iiif.io/api/georef/extension/georef/) and using WebGL to transform and overlay the images on their correct geographical position.
 - [maplibre-gl-dates](https://github.com/OpenHistoricalMap/maplibre-gl-dates/) – Filters a time-enabled map by date. Optimized for OpenHistoricalMap vector tiles.
 
+## Map/Tile Providers
+
+- [Esri](https://developers.arcgis.com/maplibre-gl-js/)
+- [Geofabrik](https://www.geofabrik.de/maps/vectortiles.html)
+- [JawgMaps](https://www.jawg.io/)
+- [MapTiler](https://www.maptiler.com/)
+- [OSM Americana Community Vector Tile Server](https://tile.ourmap.us/)
+- [Protomaps](https://protomaps.com/)
+- [Stadia Maps](https://stadiamaps.com/)
+
 ## Utilities
 
 - [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre.
