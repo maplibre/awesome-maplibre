@@ -79,6 +79,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 - [Esri](https://developers.arcgis.com/maplibre-gl-js/)
 - [Geofabrik](https://www.geofabrik.de/maps/vectortiles.html)
+- [Geoapify](https://www.geoapify.com/map-tiles/)
 - [JawgMaps](https://www.jawg.io/)
 - [MapTiler](https://www.maptiler.com/)
 - [OSM Americana Community Vector Tile Server](https://tile.ourmap.us/)
