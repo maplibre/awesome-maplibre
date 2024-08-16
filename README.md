@@ -77,14 +77,22 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 ## Map/Tile Providers
 
+- [**Amazon Location Services**](https://aws.amazon.com/location/)
+- [**Azure Maps**](https://azure.microsoft.com/en-us/products/azure-maps)
 - [Esri](https://developers.arcgis.com/maplibre-gl-js/)
 - [Geofabrik](https://www.geofabrik.de/maps/vectortiles.html)
 - [Geoapify](https://www.geoapify.com/map-tiles/)
-- [JawgMaps](https://www.jawg.io/)
+- [HERE](https://www.here.com/docs/bundle/vector-tile-api-developer-guide/page/README.html)
+- [**JawgMaps**](https://www.jawg.io/)
+- [Mapbox](https://www.mapbox.com/)
 - [MapTiler](https://www.maptiler.com/)
+- [Mierune](https://www.mierune.co.jp/?lang=en)
 - [OSM Americana Community Vector Tile Server](https://tile.ourmap.us/)
 - [Protomaps](https://protomaps.com/)
 - [Stadia Maps](https://stadiamaps.com/)
+- [TomTom](https://www.tomtom.com/products/maps/)
+
+**In bold**: Members of the [MapLibre Sponsorship Program](https://maplibre.org/sponsors/)
 
 ## Utilities
 
