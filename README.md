@@ -25,11 +25,8 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 ## Bindings
 
-### Angular
 
-- [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding with hosted demos at [maplibre.org/ngx-maplibre-gl/demo](https://maplibre.org/ngx-maplibre-gl/demo/)
-
-### Flutter
+### Flutter (Dart)
 
 - [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) - Bindings for Flutter on Android, iOS and Web, on pub.dev at [pub.dev/packages/maplibre_gl](https://pub.dev/packages/maplibre_gl)
 
@@ -37,23 +34,32 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 - [py-maplibregl](https://github.com/eodaGmbH/py-maplibregl) - Python bindings for MapLibre GL JS with docs [eodagmbh.github.io/py-maplibregl](https://eodagmbh.github.io/py-maplibregl/) and examples [eodagmbh.github.io/py-maplibregl/examples/road_safety](https://eodagmbh.github.io/py-maplibregl/examples/road_safety/).
 - [leafmap](https://github.com/opengeos/leafmap/) - A python package that supports the MapLibre mapping backend with docs [leafmap.org](https://leafmap.org) and examples [leafmap.org/maplibre/overview](https://leafmap.org/maplibre/overview)
+- [plotly.py](https://plotly.com/python/maps/) - Create analytical geospatial figures with MapLibre GL JS in python.
 
-### Qt
+### Qt (C++)
 
 - [maplibre-native-qt](https://github.com/maplibre/maplibre-native-qt) - MapLibre Native Qt bindings and Qt Location MapLibre Plugin
 
-### React
+### JavaScript
+
+#### Angular
+
+- [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding with hosted demos at [maplibre.org/ngx-maplibre-gl/demo](https://maplibre.org/ngx-maplibre-gl/demo/)
+
+#### React
 
 - [react-map-gl](https://visgl.github.io/react-map-gl/docs/get-started#using-with-a-compatible-fork)
 - [react-map-components-maplibre](https://github.com/mapcomponents/react-map-components-maplibre) - A React component framework for declarative GIS application development with demos in their [showcase](https://catalogue.mapcomponents.org/) and [docs](https://mapcomponents.github.io/react-map-components-maplibre)
 
-### Svelte
+#### Svelte
 
 - [sveltekit-maplibre-boilerplate](https://github.com/watergis/sveltekit-maplibre-boilerplate) - A preconfigured template repository develop a MapLibre application in svelte/sveltekit.
 
-### Vue
-
+#### Vue
 - [@indoorequal/vue-maplibre-gl](https://github.com/indoorequal/vue-maplibre-gl) - Vue 3 plugin for maplibre-gl-js
+
+#### Vanilla JS
+- [plotly.js](https://plotly.com/javascript/maps/) - Create analytical geospatial figures with MapLibre GL JS in javascript.
 
 ## Other Plugins
 
