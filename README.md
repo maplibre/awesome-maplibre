@@ -130,3 +130,5 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
 - [Queering the Map](https://www.queeringthemap.com) ([Code](https://github.com/radical-data/queering-the-map)) - A crowd-sourced platform for anonymously pinning queer experiences on a global map.
 - [OpenHistoricalMap](https://www.openhistoricalmap.org/) – collaborative project to map the history of the world in detail, powered by MapLibre with maplibre-gl-leaflet
+- [Famxplor](https://famxplor.com/), interactive world map of activities for family vacations, powered by MapLibre with [Svelte MapLibre](https://github.com/dimfeld/svelte-maplibre)
+- 
