@@ -50,6 +50,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 - [react-map-gl](https://visgl.github.io/react-map-gl/docs/get-started#using-with-a-compatible-fork)
 - [react-map-components-maplibre](https://github.com/mapcomponents/react-map-components-maplibre) - A React component framework for declarative GIS application development with demos in their [showcase](https://catalogue.mapcomponents.org/) and [docs](https://mapcomponents.github.io/react-map-components-maplibre)
+- [maplibre-react-components](https://maplibre-react-components.pentatrion.com/) - Lightweight MapLibre only binding for React.
 
 #### Svelte
 
