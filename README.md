@@ -45,7 +45,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 #### [Angular](https://angular.dev/)
 
 - 🕶️📚[ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding with hosted demos at [maplibre.org/ngx-maplibre-gl/demo](https://maplibre.org/ngx-maplibre-gl/demo/)
-- 📚[angular-mapboxgl-directive](https://github.com/Naimikan/angular-mapboxgl-directive) - Provides an [AngularJS](https://angularjs.org/) directive.
+- 📚[~~angular-mapboxgl-directive~~](https://github.com/Naimikan/angular-mapboxgl-directive) ~~- Provides an [AngularJS](https://angularjs.org/) directive.~~ archived Jun 10, 2023
 
 #### [Astro](https://astro.build)
 
@@ -83,7 +83,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 #### [VueJS](https://vuejs.org/)
 
 - 🕶️[@indoorequal/vue-maplibre-gl](https://github.com/indoorequal/vue-maplibre-gl) - Vue 3 plugin for maplibre-gl-js
-- 📚[vue-maplibre-gl](https://github.com/razorness/vue-maplibre-gl) - Provide a  integration.
+- 📚[~~vue-maplibre-gl~~](https://github.com/razorness/vue-maplibre-gl) ~~- Provide a  integration.~~ related discussion : https://github.com/maplibre/awesome-maplibre/pull/46
 
 #### [Webtoolkit](https://www.webtoolkit.eu/wt)
 
@@ -97,10 +97,10 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 - 📚[any-routing](https://github.com/marucjmar/any-routing) - A modular plugin for calculating routes.
 - 🕶️[Gauge Legend](https://github.com/AbelVM/gauge_legend) - Dynamic gauge legend for MapLibre GL JS
-- 📚[mapbox-gl-accessibility](https://github.com/mapbox/mapbox-gl-accessibility/) - Integrates with ARIA-compatible screen readers for users with visual impairments.
-- 📚[mapbox-gl-boundaries](https://github.com/mapbox/mapbox-gl-boundaries) - Enables users to show/hide disputed borders.
+- 📚[~~mapbox-gl-accessibility~~](https://github.com/mapbox/mapbox-gl-accessibility/) ~~- Integrates with ARIA-compatible screen readers for users with visual impairments.~~ archived since Sep 22, 2022
+- 📚[~~mapbox-gl-boundaries~~](https://github.com/mapbox/mapbox-gl-boundaries) ~~- Enables users to show/hide disputed borders.~~ archived since Jan 25, 2019
 - 📚[mapbox-gl-controls](https://github.com/bravecow/mapbox-gl-controls) - Adds controls for a ruler, style inspector, localization, and style switcher.
-- 📚[mapbox-gl-directions](https://github.com/mapbox/mapbox-gl-directions) - Adds a control to allow users to plot driving, walking, and cycling directions on the map.
+- 📚[~~mapbox-gl-directions~~](https://github.com/mapbox/mapbox-gl-directions) ~~- Adds a control to allow users to plot driving, walking, and cycling directions on the map.~~ replaced by `MapLibre GL Directions`
 - 📚[mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) - Adds support for drawing and editing features on maps.
 - 📚[mapbox-gl-elevation](https://github.com/watergis/mapbox-gl-elevation) - Adds a control to retrieve altitude from terrain RGB tilesets.
 - 📚[mapbox-gl-geocoder](https://github.com/mapbox/mapbox-gl-geocoder) - Adds a geocoder control.
@@ -114,7 +114,6 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - 📚🕶️[maplibre-gl-basemaps](https://github.com/ka7eh/maplibre-gl-basemaps) - A plugin for switching between raster basemaps.
 - 📚[maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
 - 📚[maplibre-gl-export](https://github.com/watergis/maplibre-gl-export) - Adds a control that exports the map as a PDF or images such as PNG, JPEG and SVG.
-- 📚[maplibre-gl-measures ]()
 - 📚🕶️[maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 - 📚🕶️[maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity) - A plugin to switch layer like Leaflet.control.layers, and update opacities. [demo](https://mug-jp.github.io/maplibre-gl-opacity/)
 - 📚🕶️[maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
@@ -145,7 +144,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - 📚[mapbox-gl-ogc-feature-collection](https://github.com/mkeller3/mapbox-gl-ogc-feature-collection) - A small package for requesting geojson from an OGC Feature API endpoint to serve tiles in MapBox/MapLibre.
 - 📚[maplibre-google-maps](https://github.com/traccar/maplibre-google-maps) - A library for integrating Google Maps as raster layers into MapLibre GL JS. It uses the new Google Map Tiles API.
 - 🕶️[ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
-- 🕶️📚[PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/main/js) - A library that uses addProtocol to read [PMTiles](https://github.com/protomaps/PMTiles), a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
+- 🕶️📚[PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/main/js) - A library that uses addProtocol to read PMTIles. a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
 
 ## Utility Libraries
 
@@ -162,7 +161,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 ## Development Tools Plugins
 
 - 📚[mapbox-gl-framerate](https://github.com/mapbox/mapbox-gl-framerate) - A frame rate control to evaluate map rendering performance.
-- 📚[mapbox-gl-js-mock](https://github.com/mapbox/mapbox-gl-js-mock) - A [mock](https://en.wikipedia.org/wiki/Mock_object) of Mapbox GL JS.
+- 📚[~~mapbox-gl-js-mock~~](https://github.com/mapbox/mapbox-gl-js-mock) ~~- A [mock](https://en.wikipedia.org/wiki/Mock_object) of Mapbox GL JS.~~ Archived Sep 1, 2022.
 - 📚[mapbox-gl-fps](https://github.com/MazeMap/mapbox-gl-fps) - A frames-per-seconds GUI control and measurer with statistic report output.
 - 📚[maplibre-gl-inspect](https://github.com/acalcutt/maplibre-gl-inspect) - Adds an inspect control to view vector source features and properties.
 
