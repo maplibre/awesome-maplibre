@@ -42,6 +42,8 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 ### JavaScript
 
+<!-- >JAVASCRIPT-BINDINGS -->
+
 #### [Angular](https://angular.dev/)
 
 - 🕶️📚[ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding with hosted demos at [maplibre.org/ngx-maplibre-gl/demo](https://maplibre.org/ngx-maplibre-gl/demo/)
@@ -92,7 +94,10 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 #### Vanilla JS
 - 🕶️[plotly.js](https://plotly.com/javascript/maps/) - Create analytical geospatial figures with MapLibre GL JS in javascript.
 
+<!-- <JAVASCRIPT-BINDINGS -->
 
+
+<!-- >JAVASCRIPT-PLUGINS -->
 ## User Interface Plugins
 
 - 📚[any-routing](https://github.com/marucjmar/any-routing) - A modular plugin for calculating routes.
@@ -164,6 +169,9 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - 📚[~~mapbox-gl-js-mock~~](https://github.com/mapbox/mapbox-gl-js-mock) ~~- A [mock](https://en.wikipedia.org/wiki/Mock_object) of Mapbox GL JS.~~ Archived Sep 1, 2022.
 - 📚[mapbox-gl-fps](https://github.com/MazeMap/mapbox-gl-fps) - A frames-per-seconds GUI control and measurer with statistic report output.
 - 📚[maplibre-gl-inspect](https://github.com/acalcutt/maplibre-gl-inspect) - Adds an inspect control to view vector source features and properties.
+
+<!-- <JAVASCRIPT-PLUGINS -->
+
 
 ## Map/Tile Providers
 

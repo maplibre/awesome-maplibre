@@ -1,0 +1,61 @@
+name: Sync content with MapLibre website
+on:
+  push:
+    branches: [main]
+
+jobs:
+  create-pr-if-changed:
+    name: Create Pull Request if plugins list has changed
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout partial MapLibre repo
+        uses: actions/checkout@v4
+        with:
+          repository: maplibre/maplibre-gl-js
+          path: partial-repo
+          sparse-checkout: docs/plugins.md
+          sparse-checkout-cone-mode: false
+
+      - name: checkout awesome MapLibre repo
+        uses: actions/checkout@v4
+        with:
+          path: awesome
+
+      - name: extract
+        continue-on-error: true
+        run: |
+          node awesome/extract-js-plugins.mjs
+
+      - name: Check if plugins.new.md exists
+        id: check_file
+        run: |
+          if [ -f "plugins.new.md" ]; then
+            echo "FILE_UPDATED=true" >> $GITHUB_ENV
+          else
+            echo "FILE_UPDATED=false" >> $GITHUB_ENV
+          fi
+
+      - name: checkout complete MapLibre repo
+        if: ${{ env.FILE_UPDATED == 'true' }}
+        uses: actions/checkout@v4
+        with:
+          repository: maplibre/maplibre-gl-js
+          path: complete-repo
+
+      - name: copy updated plugins.md
+        if: ${{ env.FILE_UPDATED == 'true' }}
+        run: |
+          cp plugins.new.md complete-repo/docs/plugins.md
+
+      - name: Create PR
+        if: ${{ env.FILE_UPDATED == 'true' }}
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.TARGET_REPO_PAT }}
+          path: complete-repo
+          branch: doc/sync
+          branch-suffix: timestamp
+          base: main
+          commit-message: "[doc] update plugins page"
+          title: "[doc] auto-sync plugins page from awesome MapLibre"
+          body: "This pull request was automatically created by GitHub Actions."
