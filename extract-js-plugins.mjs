@@ -22,7 +22,9 @@ const groups = Object.fromEntries(
   Array.from(matches).map(([, key, content]) => [key, content])
 );
 
-const nextPluginsContent = `# Plugins
+const nextPluginsContent = `<!-- Do not edit. This file is generated from Awesome MapLibre -->
+
+# Plugins
 
 ${groups["JAVASCRIPT-PLUGINS"] ?? ""}
 
