@@ -4,8 +4,9 @@ These scripts are used in a github action to sync Awesome MapLibre links with th
 
 This script extract some content from a reference file (README.md), replace extracts into a template file and print on the standard output. 
 
-```
-Usage: extract.mjs reference-file template-file
+```bash
+# Usage: extract.mjs reference-file template-file
+node scripts/extract.mjs README.md scripts/plugins.template.md 
 ```
 
 you need to define some boundaries in your reference file with
