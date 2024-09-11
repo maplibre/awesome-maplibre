@@ -42,7 +42,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 ### JavaScript
 
-<!-- >JAVASCRIPT-BINDINGS -->
+<!-- [JAVASCRIPT-BINDINGS]:BEGIN -->
 
 #### [Angular](https://angular.dev/)
 
@@ -92,10 +92,10 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 #### Vanilla JS
 - 🕶️[plotly.js](https://plotly.com/javascript/maps/) - Create analytical geospatial figures with MapLibre GL JS in javascript.
 
-<!-- <JAVASCRIPT-BINDINGS -->
+<!-- [JAVASCRIPT-BINDINGS]:END -->
 
 
-<!-- >JAVASCRIPT-PLUGINS -->
+<!-- [JAVASCRIPT-PLUGINS]:BEGIN -->
 ## User Interface Plugins
 
 - 📚[any-routing](https://github.com/marucjmar/any-routing) - A modular plugin for calculating routes.
@@ -164,7 +164,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - 📚[mapbox-gl-fps](https://github.com/MazeMap/mapbox-gl-fps) - A frames-per-seconds GUI control and measurer with statistic report output.
 - 📚[maplibre-gl-inspect](https://github.com/acalcutt/maplibre-gl-inspect) - Adds an inspect control to view vector source features and properties.
 
-<!-- <JAVASCRIPT-PLUGINS -->
+<!-- [JAVASCRIPT-PLUGINS]:END -->
 
 
 ## Map/Tile Providers

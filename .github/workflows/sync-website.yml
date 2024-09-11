@@ -21,34 +21,32 @@ jobs:
         with:
           path: awesome
 
-      - name: extract
-        continue-on-error: true
-        run: |
-          node awesome/extract-js-plugins.mjs
+      - name: generate plugins.md
+        run: node awesome/scripts/extract.mjs awesome/README.md awesome/scripts/plugins.template.md > plugins.new.md
 
-      - name: Check if plugins.new.md exists
+      - name: Check if plugins.md content has changed
         id: check_file
         run: |
-          if [ -f "plugins.new.md" ]; then
-            echo "FILE_UPDATED=true" >> $GITHUB_ENV
+          if diff partial-repo/docs/plugins.md plugins.new.md > /dev/null; then
+            echo "FILE_UPDATED=0" >> $GITHUB_ENV
           else
-            echo "FILE_UPDATED=false" >> $GITHUB_ENV
+            echo "FILE_UPDATED=1" >> $GITHUB_ENV
           fi
 
       - name: checkout complete MapLibre repo
-        if: ${{ env.FILE_UPDATED == 'true' }}
+        if: ${{ env.FILE_UPDATED == '1' }}
         uses: actions/checkout@v4
         with:
           repository: maplibre/maplibre-gl-js
           path: complete-repo
 
       - name: copy updated plugins.md
-        if: ${{ env.FILE_UPDATED == 'true' }}
+        if: ${{ env.FILE_UPDATED == '1' }}
         run: |
           cp plugins.new.md complete-repo/docs/plugins.md
 
       - name: Create PR
-        if: ${{ env.FILE_UPDATED == 'true' }}
+        if: ${{ env.FILE_UPDATED == '1' }}
         uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.TARGET_REPO_PAT }}
