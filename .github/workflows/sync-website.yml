@@ -2,7 +2,8 @@ name: Sync content with MapLibre website
 on:
   push:
     branches: [main]
-
+  workflow_dispatch:
+  
 jobs:
   create-pr-if-changed:
     name: Create Pull Request if plugins list has changed
