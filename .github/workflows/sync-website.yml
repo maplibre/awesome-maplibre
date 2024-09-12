@@ -55,5 +55,5 @@ jobs:
           branch-suffix: timestamp
           base: main
           commit-message: "[doc] update plugins page"
-          title: "[doc] auto-sync plugins page from awesome MapLibre"
+          title: "[doc] auto-sync plugins page from maplibre-gl"
           body: "This pull request was automatically created by GitHub Actions."
