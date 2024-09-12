@@ -22,13 +22,13 @@ let templateContent = await readFile(templatePath, { encoding: "utf-8" });
 const contentPlaceholdersRE = /<!--\s*\[([-a-zA-Z]+)\]\s*-->/g;
 const placeholderMatches = templateContent.matchAll(contentPlaceholdersRE);
 
-Array.from(placeholderMatches).forEach(([pattern, placeholder]) => {
-  if (!groups[placeholder]) {
+for (let [placeholder, identifier] of placeholderMatches) {
+  if (!groups[identifier]) {
     throw new Error(
-      `Referenced placeholder ${placeholder} is not present in reference file.`
+      `Referenced identifier ${identifier} is not present in reference file.`
     );
   }
-  templateContent = templateContent.replace(pattern, groups[placeholder]);
-});
+  templateContent = templateContent.replace(placeholder, groups[identifier]);
+}
 
 console.log(templateContent);
