@@ -1,7 +1,5 @@
 name: Sync content with MapLibre website
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
   
 jobs:
@@ -50,7 +48,7 @@ jobs:
         if: ${{ env.FILE_UPDATED == '1' }}
         uses: peter-evans/create-pull-request@v7
         with:
-          token: ${{ secrets.TARGET_REPO_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           path: complete-repo
           branch: doc/sync
           branch-suffix: timestamp
