@@ -151,7 +151,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [expression-jamsession](https://github.com/mapbox/expression-jamsession/) - Converts [Mapbox Studio formulas](https://www.mapbox.com/help/studio-manual-styles/#use-a-formula) into [expressions](https://maplibre.org/maplibre-style-spec/expressions/).
 - [mapbox-choropleth](https://github.com/stevage/mapbox-choropleth) - Create a choropleth layer from a CSV source and a geometry source.
 - [mapbox-gl-layer-groups](https://github.com/mapbox/mapbox-gl-layer-groups) - Manages layer groups.
-- [mapbox-gl-sync-move](https://github.com/mapbox/mapbox-gl-sync-move) - Syncs movement between two maps.
+- [mapbox-gl-sync-move](https://github.com/mapbox/mapbox-gl-sync-move) - Syncs movement between multiple maps.
 - [mapbox-gl-utils](https://github.com/stevage/map-gl-utils) - Manage layers, sources, and properties with syntactic sugar and convenience functions.
 - [maplibregl-mapbox-request-transformer](https://github.com/rowanwins/maplibregl-mapbox-request-transformer) - This library provides a request transforming function enabling the consumption of MapboxGL Styles in MapLibreGL.
 - [maplibregl-theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Web app. [Theme customizer](https://maplibre-theme.pentatrion.com/)
