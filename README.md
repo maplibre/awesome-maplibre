@@ -79,7 +79,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 - [sveltekit-maplibre-boilerplate](https://github.com/watergis/sveltekit-maplibre-boilerplate) - A preconfigured template repository develop a MapLibre application in svelte/sveltekit.
 - [svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Provides a Svelte integration.
-- [svelte-maplibre-components](https://github.com/watergis/svelte-maplibre-components) - A set of maplibre plugins to integrate with svelte/sveltekit. The respository consists of various useful plugins such as export plugin, legend plugin, measure plugin, attribute table plugin, tour plugin, etc.
+- [svelte-maplibre-components](https://github.com/watergis/svelte-maplibre-components) - A set of maplibre plugins to integrate with svelte/sveltekit. The repository consists of various useful plugins such as export plugin, legend plugin, measure plugin, attribute table plugin, tour plugin, etc.
 
 #### [VueJS](https://vuejs.org/)
 
