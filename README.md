@@ -115,7 +115,6 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 - [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity) - A plugin to switch layer like Leaflet.control.layers, and update opacities. [demo](https://mug-jp.github.io/maplibre-gl-opacity/)
 - [maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
-
 - [route-snapper](https://github.com/dabreegster/route_snapper) - Draw routes and areas snapped to roads.
 - [Terra Draw](https://www.github.com/JamesLMilner/terra-draw) - The library has a MapLibre GL JS adapter to provide drawing and geometry editing functionality to the map
 
