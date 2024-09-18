@@ -106,20 +106,25 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [mapbox-gl-infobox](https://github.com/el/infobox-control) - Adds a control to display an infobox or a gradient.
 - [mapbox-gl-legend](https://github.com/watergis/mapbox-gl-legend) - Adds a control that shows a legend generated from the map style.
 - [mapbox-gl-valhalla](https://github.com/watergis/mapbox-gl-valhalla) - Adds a control to provide isochrone features from valhalla server.
-- [mapbox.photon](https://github.com/watergis/mapbox.photon) - Adds a control to provide a geocoding feature from Photon API.
 - [mapboxgl-minimap](https://github.com/aesqe/mapboxgl-minimap) - Adds a control to show a miniature overview of the current map.
 - [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
 - [maplibre-preload](https://github.com/AbelVM/maplibre-preload) - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibre GL JS.
 - [maplibre-gl-basemaps](https://github.com/ka7eh/maplibre-gl-basemaps) - A plugin for switching between raster basemaps.
 - [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
 - [maplibre-gl-export](https://github.com/watergis/maplibre-gl-export) - Adds a control that exports the map as a PDF or images such as PNG, JPEG and SVG.
-- [maplibre-gl-geocoder](https://github.com/maplibre/maplibre-gl-geocoder) - Adds a geocoder control.
 - [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 - [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity) - A plugin to switch layer like Leaflet.control.layers, and update opacities. [demo](https://mug-jp.github.io/maplibre-gl-opacity/)
 - [maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
-- [maplibre-search-box](https://github.com/stadiamaps/maplibre-search-box) - Adds a control for searching for places using Stadia Maps.
+
 - [route-snapper](https://github.com/dabreegster/route_snapper) - Draw routes and areas snapped to roads.
 - [Terra Draw](https://www.github.com/JamesLMilner/terra-draw) - The library has a MapLibre GL JS adapter to provide drawing and geometry editing functionality to the map
+
+## Geocoding & Search Plugins
+- [mapbox.photon](https://github.com/watergis/mapbox.photon) - Adds a control to provide a geocoding feature from Photon API.
+- [maplibre-gl-geocoder](https://github.com/maplibre/maplibre-gl-geocoder) - Adds a geocoder control.
+- [maplibre-search-box](https://github.com/stadiamaps/maplibre-search-box) - Adds a control for searching for places using Stadia Maps.
+- [maptiler-geocoding-control](https://github.com/maptiler/maptiler-geocoding-control) - Adds a geocoding control for searching for places using MapTiler API. [docs](https://docs.maptiler.com/sdk-js/modules/geocoding/)
+
 
 ## Map Rendering Plugins
 
