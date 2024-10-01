@@ -40,6 +40,10 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 - [maplibre-native-qt](https://github.com/maplibre/maplibre-native-qt) - MapLibre Native Qt bindings and Qt Location MapLibre Plugin
 
+### R
+
+- [mapgl](https://github.com/walkerke/mapgl) - R bindings for MapLibre GL JS with docs at [walker-data.com/mapgl](https://walker-data.com/mapgl)
+
 ### JavaScript
 
 <!-- [JAVASCRIPT-BINDINGS]:BEGIN -->
