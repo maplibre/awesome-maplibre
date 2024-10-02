@@ -184,6 +184,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [Mapbox](https://www.mapbox.com/)
 - [MapTiler](https://www.maptiler.com/)
 - [Mierune](https://www.mierune.co.jp/?lang=en)
+- [OpenFreeMap](https://openfreemap.org/)
 - [OSM Americana Community Vector Tile Server](https://tile.ourmap.us/)
 - [Protomaps](https://protomaps.com/)
 - [Stadia Maps](https://stadiamaps.com/)
