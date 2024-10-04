@@ -20,6 +20,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server, supports tile generation and mbtiles tooling.
 - [MapLibre RS](https://github.com/maplibre/maplibre-rs) - Experimental map rendering library written in Rust.
 - [MapLibre Plugins for Android](https://github.com/maplibre/maplibre-plugins-android) - A collection of plugins for MapLibre on Android.
+- [MapLibre SwiftUI DSL](https://github.com/maplibre/swiftui-dsl) - A Swift package bridging the gap between MapLibre Native and SwiftUI with MapKit-like ease of use.
 - [MapLibre Navigation SDK for Android](https://github.com/maplibre/maplibre-navigation-android)
 - [MapLibre GL Directions](https://github.com/maplibre/maplibre-gl-directions) - A plugin to show routing directions on a MapLibre GL JS map
 
@@ -205,6 +206,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [Theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Js Web app. [demo](https://maplibre-theme.pentatrion.com/)
 - [MapLibre VSCode Extension](https://github.com/Kanahiro/maplibre-vscode-extension) - VSCode Extension for viewing/editing MapLibre Style.
 - [chiitiler](https://github.com/Kanahiro/chiitiler) - chiitiler - "Tiny MapLibre Server" is alternative to TileserverGL, designed to runs on serverless infrastructures. [demo](https://spatialty-io.github.io/chiitiler-demo/)
+- [SDF Font Tools](https://github.com/stadiamaps/sdf_font_tools) - A CLI tool for generating SDF fontstacks from fonts (similar to FontMaker), as well as crates which let you build fontstacks on the fly (used in MapLibre Martin).
 
 ## Sprites
 
