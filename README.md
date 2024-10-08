@@ -222,7 +222,7 @@ are designated with a ✅, and hosted projects with a 💙.
 
 **In bold**: Members of the [MapLibre Sponsorship Program](https://maplibre.org/sponsors/)
 
-## Map Tile generation
+## Map Tile Generators
 
 - 💙 [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server, supports tile generation and mbtiles tooling.
 - [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) - Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
