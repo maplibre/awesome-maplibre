@@ -4,31 +4,64 @@
 
 A collection of awesome things that use or support [MapLibre](https://maplibre.org)!
 
-## Official Projects
+MapLibre [Core projects](https://github.com/maplibre/maplibre/blob/main/PROJECT_TIERS.md)
+are designated with a ✅, and hosted projects with a 💙.
 
-### Offical Rendering Projects
 
-- [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) - A map SDK for rendering maps on the Web.
-- [MapLibre Native](https://github.com/maplibre/maplibre-gl-native) - A maps SDK for rendering maps on devices, in apps, and on the server.
+## Map Rendering
 
-### Other Official Projects
+- ✅ [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) - A map SDK for rendering maps on the Web.
+- ✅ [MapLibre Native](https://github.com/maplibre/maplibre-gl-native) - A maps SDK for rendering maps on devices, in apps, and on the server.
+- 💙 [MapLibre RS](https://github.com/maplibre/maplibre-rs) - Experimental map rendering library written in Rust.
+- ✅ [MapLibre Plugins for Android](https://github.com/maplibre/maplibre-plugins-android) - A collection of plugins for MapLibre on Android; the annotation plugin is a core project.
 
-- [MapLibre style specification](https://github.com/maplibre/maplibre-style-spec) - The MapLibre Style Specification, a JSON-based format for styling maps.
-- [Maputnik](https://github.com/maplibre/maputnik) - A visual style editor for MapLibre GL JS. Hosted at [maplibre.org/maputnik](https://maplibre.org/maputnik)
-- [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - A plugin for rendering MapLibre styles in [Leaflet](https://leafletjs.com).
-- [MapLibre Demotiles](https://github.com/maplibre/demotiles) - A simple, XYZ MVT tileset for demonstration projects.
-- [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server, supports tile generation and mbtiles tooling.
-- [MapLibre RS](https://github.com/maplibre/maplibre-rs) - Experimental map rendering library written in Rust.
-- [MapLibre Plugins for Android](https://github.com/maplibre/maplibre-plugins-android) - A collection of plugins for MapLibre on Android.
-- [MapLibre Navigation SDK for Android](https://github.com/maplibre/maplibre-navigation-android)
-- [MapLibre GL Directions](https://github.com/maplibre/maplibre-gl-directions) - A plugin to show routing directions on a MapLibre GL JS map
+## Map Styling
+
+- ✅ [MapLibre style specification](https://github.com/maplibre/maplibre-style-spec) - The MapLibre Style Specification, a JSON-based format for styling maps.
+
+### Style Editors
+
+- 💙 [Maputnik](https://github.com/maplibre/maputnik) - A visual style editor for MapLibre GL JS. Hosted at [maplibre.org/maputnik](https://maplibre.org/maputnik)
+- [Theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Js Web app. [demo](https://maplibre-theme.pentatrion.com/)
+- [MapLibre VSCode Extension](https://github.com/Kanahiro/maplibre-vscode-extension) - VSCode Extension for viewing/editing MapLibre Style.
+
+### Font Glyph Generation
+
+- 💙 [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre.
+- [SDF Font Tools](https://github.com/stadiamaps/sdf_font_tools) - A CLI tool for generating SDF fontstacks from fonts (similar to FontMaker), as well as crates which let you build fontstacks on the fly (used in MapLibre Martin).
+
+### Sprite Generation
+
+- [Spreet](https://github.com/flother/spreet) - Spreet is a command-line tool that creates a spritesheet (aka texture atlas) from a directory of SVG images.
+- [Figmasset](https://github.com/stamen/figmasset) - Figmasset is a tool to facilitate bulk-loading assets from Figma into a JavaScript application.
+- [Sprite One](https://www.npmjs.com/package/@unvt/sprite-one) - Generate sprite image and json without Mapnik.
+
+## Navigation & Directions
+
+- 💙 [MapLibre Navigation SDK for iOS](https://github.com/maplibre/maplibre-navigation-ios) - Turn-by-turn navigation built on MapLibre; a FOSS fork of Mapbox Navigation
+- 💙 [MapLibre Navigation SDK for Android](https://github.com/maplibre/maplibre-navigation-android) - Turn-by-turn navigation built on MapLibre; a FOSS fork of Mapbox Navigation
+- 💙 [MapLibre GL Directions](https://github.com/maplibre/maplibre-gl-directions) - A plugin to show routing directions on a MapLibre GL JS map
+- [Ferrostar](https://github.com/stadiamaps/ferrostar) - A turn-by-turn navigation SDK built from the ground up using MapLibre on iOS, Android, and the web.
 
 ## Bindings
 
+### Flutter
 
-### Flutter (Dart)
+- 💙 [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) - Bindings for Flutter on Android, iOS and Web, on pub.dev at [pub.dev/packages/maplibre_gl](https://pub.dev/packages/maplibre_gl)
+- [flutter-maplibre](https://github.com/josxha/flutter-maplibre) - A fresh, modern take on Flutter bindings for MapLibre Native.
 
-- [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) - Bindings for Flutter on Android, iOS and Web, on pub.dev at [pub.dev/packages/maplibre_gl](https://pub.dev/packages/maplibre_gl)
+### React Native
+
+- 💙 [MapLibre React Native](https://github.com/maplibre/maplibre-react-native) - A MapLibre module for React Native (including Expo support).
+
+### SwiftUI
+
+- 💙 [MapLibre SwiftUI DSL](https://github.com/maplibre/swiftui-dsl) - A Swift package bridging the gap between MapLibre Native and SwiftUI with MapKit-like ease of use.
+
+### Jetpack Compose
+
+- [Ramani Maps](https://github.com/ramani-maps/ramani-maps) - A Jetpack Compose library to manipulate maps on Android.
+- [MapLibre Compose Playground](https://github.com/Rallista/maplibre-compose-playground) - A Jetpack Compose library that takes inspiration from Ramani, but leans towards API similarity with the SwiftUI DSL and de-emphasizes drawing/editing.
 
 ### Python
 
@@ -38,7 +71,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 ### Qt (C++)
 
-- [maplibre-native-qt](https://github.com/maplibre/maplibre-native-qt) - MapLibre Native Qt bindings and Qt Location MapLibre Plugin
+- 💙 [maplibre-native-qt](https://github.com/maplibre/maplibre-native-qt) - MapLibre Native Qt bindings and Qt Location MapLibre Plugin
 
 ### R
 
@@ -50,7 +83,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 #### [Angular](https://angular.dev/)
 
-- [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding with hosted demos at [maplibre.org/ngx-maplibre-gl/demo](https://maplibre.org/ngx-maplibre-gl/demo/)
+- 💙 [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding with hosted demos at [maplibre.org/ngx-maplibre-gl/demo](https://maplibre.org/ngx-maplibre-gl/demo/)
 
 #### [Astro](https://astro.build)
 
@@ -94,6 +127,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [wtMapbox](https://github.com/yvanvds/wtMapbox) - Provides a Webtoolkit integration.
 
 #### Vanilla JS
+
 - [plotly.js](https://plotly.com/javascript/maps/) - Create analytical geospatial figures with MapLibre GL JS in javascript.
 
 <!-- [JAVASCRIPT-BINDINGS]:END -->
@@ -102,6 +136,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 <!-- [JAVASCRIPT-PLUGINS]:BEGIN -->
 ## User Interface Plugins
 
+- 💙 [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
 - [any-routing](https://github.com/marucjmar/any-routing) - A modular plugin for calculating routes.
 - [Gauge Legend](https://github.com/AbelVM/gauge_legend) - Dynamic gauge legend for MapLibre GL JS
 - [mapbox-gl-controls](https://github.com/bravecow/mapbox-gl-controls) - Adds controls for a ruler, style inspector, localization, and style switcher.
@@ -114,7 +149,6 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
 - [maplibre-preload](https://github.com/AbelVM/maplibre-preload) - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibre GL JS.
 - [maplibre-gl-basemaps](https://github.com/ka7eh/maplibre-gl-basemaps) - A plugin for switching between raster basemaps.
-- [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
 - [maplibre-gl-export](https://github.com/watergis/maplibre-gl-export) - Adds a control that exports the map as a PDF or images such as PNG, JPEG and SVG.
 - [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 - [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity) - A plugin to switch layer like Leaflet.control.layers, and update opacities. [demo](https://mug-jp.github.io/maplibre-gl-opacity/)
@@ -125,13 +159,14 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 ## Geocoding & Search Plugins
 - [mapbox.photon](https://github.com/watergis/mapbox.photon) - Adds a control to provide a geocoding feature from Photon API.
-- [maplibre-gl-geocoder](https://github.com/maplibre/maplibre-gl-geocoder) - Adds a geocoder control.
+- 💙 [maplibre-gl-geocoder](https://github.com/maplibre/maplibre-gl-geocoder) - Adds a geocoder control.
 - [maplibre-search-box](https://github.com/stadiamaps/maplibre-search-box) - Adds a control for searching for places using Stadia Maps.
 - [maptiler-geocoding-control](https://github.com/maptiler/maptiler-geocoding-control) - Adds a geocoding control for searching for places using MapTiler API. [docs](https://docs.maptiler.com/sdk-js/modules/geocoding/)
 
 
 ## Map Rendering Plugins
 
+- 💙 [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - A plugin for rendering MapLibre styles in [Leaflet](https://leafletjs.com).
 - [deck.gl](https://github.com/visgl/deck.gl) - Adds advanced WebGL visualization layers.
 - [flowmap.blue](https://github.com/ilyabo/flowmap.blue) - Render a geographic flow map visualization from a spreadsheet published on Google Sheets.
 - [H3J / H3T](https://github.com/INSPIDE/h3j-h3t) - Light [H3](https://h3geo.org/) data formats for client side geometry generation and rendering using MapLibre GL JS
@@ -178,6 +213,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 ## Map/Tile Providers
 
+- 💙 [MapLibre Demotiles](https://github.com/maplibre/demotiles) - A simple, XYZ MVT tileset for demonstration projects.
 - [**Amazon Location Services**](https://aws.amazon.com/location/)
 - [**Azure Maps**](https://azure.microsoft.com/en-us/products/azure-maps)
 - [Esri](https://developers.arcgis.com/maplibre-gl-js/)
@@ -187,7 +223,7 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 - [**JawgMaps**](https://www.jawg.io/)
 - [Mapbox](https://www.mapbox.com/)
 - [MapTiler](https://www.maptiler.com/)
-- [Mierune](https://www.mierune.co.jp/?lang=en)
+- [**Mierune**](https://www.mierune.co.jp/?lang=en)
 - [OpenFreeMap](https://openfreemap.org/)
 - [OSM Americana Community Vector Tile Server](https://tile.ourmap.us/)
 - [Protomaps](https://protomaps.com/)
@@ -196,21 +232,18 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 
 **In bold**: Members of the [MapLibre Sponsorship Program](https://maplibre.org/sponsors/)
 
+## Tile Servers
+
+- 💙 [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server, supports tile generation and mbtiles tooling.
+- [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) - Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
+- [chiitiler](https://github.com/Kanahiro/chiitiler) - chiitiler - "Tiny MapLibre Server" is alternative to Tileserver GL, designed to runs on serverless infrastructures. [demo](https://spatialty-io.github.io/chiitiler-demo/)
+- [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side rasterizing with MapLibre GL native.
+
 ## Utilities
 
-- [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre.
-- [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) - Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
 - [MapBlockly](https://mapblockly.github.io/) - MapBlockly is a simple and fun way to learn and build Map with Blockly using MapLibre.
 - [MapInventor](https://mapinventor.github.io/) - MapInventor is the visual language built on top of MapBlockly.
-- [Theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Js Web app. [demo](https://maplibre-theme.pentatrion.com/)
-- [MapLibre VSCode Extension](https://github.com/Kanahiro/maplibre-vscode-extension) - VSCode Extension for viewing/editing MapLibre Style.
-- [chiitiler](https://github.com/Kanahiro/chiitiler) - chiitiler - "Tiny MapLibre Server" is alternative to TileserverGL, designed to runs on serverless infrastructures. [demo](https://spatialty-io.github.io/chiitiler-demo/)
-
-## Sprites
-
-- [Spreet](https://github.com/flother/spreet) - Spreet is a command-line tool that creates a spritesheet (aka texture atlas) from a directory of SVG images.
-- [Figmasset](https://github.com/stamen/figmasset) - Figmasset is a tool to facilitate bulk-loading assets from Figma into a JavaScript application.
-- [Sprite One](https://www.npmjs.com/package/@unvt/sprite-one) - Generate sprite image and json without Mapnik.
+- [Overpass Ultra](https://overpass-ultra.us/) - A mashup between the Overpass API and MapLibre styling.
 
 ## Users
 
