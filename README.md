@@ -48,6 +48,7 @@ are designated with a ✅, and hosted projects with a 💙.
 ### Flutter
 
 - 💙 [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) - Bindings for Flutter on Android, iOS and Web, on pub.dev at [pub.dev/packages/maplibre_gl](https://pub.dev/packages/maplibre_gl)
+- [flutter-maplibre](https://github.com/josxha/flutter-maplibre) - A fresh, modern take on Flutter bindings for MapLibre Native.
 
 ### React Native
 
