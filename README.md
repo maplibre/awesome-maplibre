@@ -45,13 +45,22 @@ are designated with a ✅, and hosted projects with a 💙.
 
 ## Bindings
 
-###  Mobile
+### Flutter
 
 - 💙 [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) - Bindings for Flutter on Android, iOS and Web, on pub.dev at [pub.dev/packages/maplibre_gl](https://pub.dev/packages/maplibre_gl)
+
+### React Native
+
 - 💙 [MapLibre React Native](https://github.com/maplibre/maplibre-react-native) - A MapLibre module for React Native (including Expo support).
+
+### SwiftUI
+
 - 💙 [MapLibre SwiftUI DSL](https://github.com/maplibre/swiftui-dsl) - A Swift package bridging the gap between MapLibre Native and SwiftUI with MapKit-like ease of use.
+
+### Jetpack Compose
+
 - [Ramani Maps](https://github.com/ramani-maps/ramani-maps) - A Jetpack Compose library to manipulate maps on Android.
-- [MapLibre Compose Playground](https://github.com/Rallista/maplibre-compose-playground) - A Jetpack Compose library that takes inspiration from Ramani, but leans towards API similarity with the SwiftUI DSL and de-emphasizes drawing/editing .
+- [MapLibre Compose Playground](https://github.com/Rallista/maplibre-compose-playground) - A Jetpack Compose library that takes inspiration from Ramani, but leans towards API similarity with the SwiftUI DSL and de-emphasizes drawing/editing.
 
 ### Python
 
@@ -126,6 +135,7 @@ are designated with a ✅, and hosted projects with a 💙.
 <!-- [JAVASCRIPT-PLUGINS]:BEGIN -->
 ## User Interface Plugins
 
+- 💙 [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
 - [any-routing](https://github.com/marucjmar/any-routing) - A modular plugin for calculating routes.
 - [Gauge Legend](https://github.com/AbelVM/gauge_legend) - Dynamic gauge legend for MapLibre GL JS
 - [mapbox-gl-controls](https://github.com/bravecow/mapbox-gl-controls) - Adds controls for a ruler, style inspector, localization, and style switcher.
@@ -138,7 +148,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
 - [maplibre-preload](https://github.com/AbelVM/maplibre-preload) - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibre GL JS.
 - [maplibre-gl-basemaps](https://github.com/ka7eh/maplibre-gl-basemaps) - A plugin for switching between raster basemaps.
-- 💙 [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
 - [maplibre-gl-export](https://github.com/watergis/maplibre-gl-export) - Adds a control that exports the map as a PDF or images such as PNG, JPEG and SVG.
 - [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 - [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity) - A plugin to switch layer like Leaflet.control.layers, and update opacities. [demo](https://mug-jp.github.io/maplibre-gl-opacity/)
@@ -156,6 +165,7 @@ are designated with a ✅, and hosted projects with a 💙.
 
 ## Map Rendering Plugins
 
+- 💙 [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - A plugin for rendering MapLibre styles in [Leaflet](https://leafletjs.com).
 - [deck.gl](https://github.com/visgl/deck.gl) - Adds advanced WebGL visualization layers.
 - [flowmap.blue](https://github.com/ilyabo/flowmap.blue) - Render a geographic flow map visualization from a spreadsheet published on Google Sheets.
 - [H3J / H3T](https://github.com/INSPIDE/h3j-h3t) - Light [H3](https://h3geo.org/) data formats for client side geometry generation and rendering using MapLibre GL JS
@@ -166,7 +176,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-contour](https://github.com/onthegomap/maplibre-contour) - Renders contour lines from raster DEM tiles in MapLibre GL JS.
 - [maplibre-gl-dates](https://github.com/OpenHistoricalMap/maplibre-gl-dates/) – Filters a time-enabled map by date. Optimized for OpenHistoricalMap vector tiles.
 - [maplibre-gl-vector-text-protocol](https://github.com/jimmyrocks/maplibre-gl-vector-text-protocol) - Supports `CSV`, `TSV`, `Topojson`, `KML`, `GPX`, and `TCX` formats using the addProtocol feature.
-- 💙 [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - A plugin for rendering MapLibre styles in [Leaflet](https://leafletjs.com).
 
 
 ## Layer Types Plugins
@@ -203,6 +212,7 @@ are designated with a ✅, and hosted projects with a 💙.
 
 ## Map/Tile Providers
 
+- 💙 [MapLibre Demotiles](https://github.com/maplibre/demotiles) - A simple, XYZ MVT tileset for demonstration projects.
 - [**Amazon Location Services**](https://aws.amazon.com/location/)
 - [**Azure Maps**](https://azure.microsoft.com/en-us/products/azure-maps)
 - [Esri](https://developers.arcgis.com/maplibre-gl-js/)
@@ -211,7 +221,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - [HERE](https://www.here.com/docs/bundle/vector-tile-api-developer-guide/page/README.html)
 - [**JawgMaps**](https://www.jawg.io/)
 - [Mapbox](https://www.mapbox.com/)
-- 💙 [MapLibre Demotiles](https://github.com/maplibre/demotiles) - A simple, XYZ MVT tileset for demonstration projects.
 - [MapTiler](https://www.maptiler.com/)
 - [**Mierune**](https://www.mierune.co.jp/?lang=en)
 - [OpenFreeMap](https://openfreemap.org/)
@@ -222,11 +231,12 @@ are designated with a ✅, and hosted projects with a 💙.
 
 **In bold**: Members of the [MapLibre Sponsorship Program](https://maplibre.org/sponsors/)
 
-## Map Tile Generators
+## Tile Servers
 
 - 💙 [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server, supports tile generation and mbtiles tooling.
 - [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) - Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
-- [chiitiler](https://github.com/Kanahiro/chiitiler) - chiitiler - "Tiny MapLibre Server" is alternative to TileserverGL, designed to runs on serverless infrastructures. [demo](https://spatialty-io.github.io/chiitiler-demo/)
+- [chiitiler](https://github.com/Kanahiro/chiitiler) - chiitiler - "Tiny MapLibre Server" is alternative to Tileserver GL, designed to runs on serverless infrastructures. [demo](https://spatialty-io.github.io/chiitiler-demo/)
+- [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side rasterizing with MapLibre GL native.
 
 ## Utilities
 
