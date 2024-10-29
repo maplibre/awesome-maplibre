@@ -243,8 +243,8 @@ are designated with a ✅, and hosted projects with a 💙.
 
 - [MapBlockly](https://mapblockly.github.io/) - MapBlockly is a simple and fun way to learn and build Map with Blockly using MapLibre.
 - [MapInventor](https://mapinventor.github.io/) - MapInventor is the visual language built on top of MapBlockly.
-- [Overpass Ultra](https://overpass-ultra.us/) - A mashup between the Overpass API and MapLibre styling.
-
+- [Ultra](https://overpass-ultra.us/) - A web-based IDE for making maps with MapLibre, supporting a variety of query & file types such as Overpass, ohsome, GeoJSON, KML, and more. [docs](https://overpass-ultra.us/docs)
+  
 ## Users
 
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
