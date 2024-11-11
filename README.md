@@ -229,6 +229,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Protomaps](https://protomaps.com/)
 - [Stadia Maps](https://stadiamaps.com/)
 - [TomTom](https://www.tomtom.com/products/maps/)
+- [Tracestrack Maps](https://tracestrack.com/)
 
 **In bold**: Members of the [MapLibre Sponsorship Program](https://maplibre.org/sponsors/)
 
