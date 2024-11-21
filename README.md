@@ -140,13 +140,13 @@ are designated with a ✅, and hosted projects with a 💙.
 - [any-routing](https://github.com/marucjmar/any-routing) - A modular plugin for calculating routes.
 - [Gauge Legend](https://github.com/AbelVM/gauge_legend) - Dynamic gauge legend for MapLibre GL JS
 - [mapbox-gl-controls](https://github.com/bravecow/mapbox-gl-controls) - Adds controls for a ruler, style inspector, localization, and style switcher.
-- [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) - Adds support for drawing and editing features on maps.
 - [mapbox-gl-elevation](https://github.com/watergis/mapbox-gl-elevation) - Adds a control to retrieve altitude from terrain RGB tilesets.
 - [mapbox-gl-infobox](https://github.com/el/infobox-control) - Adds a control to display an infobox or a gradient.
 - [mapbox-gl-legend](https://github.com/watergis/mapbox-gl-legend) - Adds a control that shows a legend generated from the map style.
 - [mapbox-gl-valhalla](https://github.com/watergis/mapbox-gl-valhalla) - Adds a control to provide isochrone features from valhalla server.
 - [mapboxgl-minimap](https://github.com/aesqe/mapboxgl-minimap) - Adds a control to show a miniature overview of the current map.
 - [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
+- [maplibre-gl-draw](https://github.com/birkskyum/maplibre-gl-draw) - Adds support for drawing and editing features on maps.
 - [maplibre-geoman](https://github.com/geoman-io/maplibre-geoman) - Plugin for drawing and editing geometry layers. [demo](https://geoman.io/demo/maplibre) 
 - [maplibre-preload](https://github.com/AbelVM/maplibre-preload) - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibre GL JS.
 - [maplibre-gl-basemaps](https://github.com/ka7eh/maplibre-gl-basemaps) - A plugin for switching between raster basemaps.
