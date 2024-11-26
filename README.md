@@ -63,6 +63,11 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Ramani Maps](https://github.com/ramani-maps/ramani-maps) - A Jetpack Compose library to manipulate maps on Android.
 - [MapLibre Compose Playground](https://github.com/Rallista/maplibre-compose-playground) - A Jetpack Compose library that takes inspiration from Ramani, but leans towards API similarity with the SwiftUI DSL and de-emphasizes drawing/editing.
 
+### Compose Multiplatform
+
+- [MapLibre Compose](https://github.com/sargunv/maplibre-compose) - a Compose Multiplatform library to add interactive vector tile maps to your Android and iOS app.
+- [SKAMIR Maps](https://github.com/skamirmaps/skamirmaps) - Kotlin Multiplatform wrapper for MapLibre Native
+
 ### Python
 
 - [py-maplibregl](https://github.com/eodaGmbH/py-maplibregl) - Python bindings for MapLibre GL JS with docs [eodagmbh.github.io/py-maplibregl](https://eodagmbh.github.io/py-maplibregl/) and examples [eodagmbh.github.io/py-maplibregl/examples/road_safety](https://eodagmbh.github.io/py-maplibregl/examples/road_safety/).
