@@ -203,6 +203,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibregl-theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Web app. [Theme customizer](https://maplibre-theme.pentatrion.com/)
 - [simplespec-to-gl-style](https://github.com/mapbox/simplespec-to-gl-style) - Converts GeoJSON styles with [simplestyle-spec](https://github.com/mapbox/simplestyle-spec/) to a MapLibre GL Style.
 - [turf](https://turfjs.org/) - provides advanced geospatial analysis tools.
+- [Maperture](https://github.com/stamen/maperture) - A web application for comparing webmap styles.
 
 ## Development Tools Plugins
 
