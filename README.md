@@ -123,7 +123,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [sveltekit-maplibre-boilerplate](https://github.com/watergis/sveltekit-maplibre-boilerplate) - A preconfigured template repository develop a MapLibre application in svelte/sveltekit.
 - [svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Provides a Svelte integration.
 - [svelte-maplibre-components](https://github.com/watergis/svelte-maplibre-components) - A set of maplibre plugins to integrate with svelte/sveltekit. The repository consists of various useful plugins such as export plugin, legend plugin, measure plugin, attribute table plugin, tour plugin, etc.
-- [svelte-maplibre-gl](https://github.com/MIERUNE/svelte-maplibre-gl) - Svelte (v5) component wrapping MapLibre GL JS to provide declarative control for GL JS throungh familiar API.
+- [svelte-maplibre-gl](https://github.com/MIERUNE/svelte-maplibre-gl) - Svelte (v5) component wrapping MapLibre GL JS to provide declarative handling of GL JS throungh familiar API.
 
 #### [VueJS](https://vuejs.org/)
 
