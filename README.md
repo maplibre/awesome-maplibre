@@ -128,6 +128,7 @@ are designated with a ✅, and hosted projects with a 💙.
 #### [VueJS](https://vuejs.org/)
 
 - [@indoorequal/vue-maplibre-gl](https://github.com/indoorequal/vue-maplibre-gl) - Vue 3 plugin for maplibre-gl-js
+- [LibreGL](https://github.com/themustafaomar/libregl) - A powerful Vue library for Maplibre with an intuitive API, and a collection of highly customizable components.
 
 #### [Webtoolkit](https://www.webtoolkit.eu/wt)
 
