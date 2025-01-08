@@ -1,0 +1,17 @@
+name: CI
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  spell-check:
+    name: Spell Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: wget https://raw.githubusercontent.com/maplibre/maplibre-gl-js/refs/heads/main/.cspell.json
+      - run: npx cspell
