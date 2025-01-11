@@ -53,7 +53,6 @@ are designated with a ✅, and hosted projects with a 💙.
 ### React Native
 
 - 💙 [MapLibre React Native](https://github.com/maplibre/maplibre-react-native) - A MapLibre module for React Native (including Expo support).
-- [Expo MapLibre native + web demo](https://github.com/Jaza/expo-maplibre-native-plus-web-demo) - Demo Expo app using [maplibre-react-native](https://github.com/maplibre/maplibre-react-native) for native, and falling back to [react-map-gl](https://github.com/visgl/react-map-gl) with [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) for web.
 
 ### SwiftUI
 
@@ -280,3 +279,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [StreetComplete](https://streetcomplete.app) — Easy to use mobile OpenStreetMap editor used for mapping in the field
 - [Cartes](https://cartes.app) — French alternative to Google Maps based on a fully open source stack
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
+
+## Demos / Examples
+
+- [Expo MapLibre native + web demo](https://github.com/Jaza/expo-maplibre-native-plus-web-demo) - Demo Expo app using [maplibre-react-native](https://github.com/maplibre/maplibre-react-native) for native, and falling back to [react-map-gl](https://github.com/visgl/react-map-gl) with [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) for web.
