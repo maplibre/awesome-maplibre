@@ -280,6 +280,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [StreetComplete](https://streetcomplete.app) — Easy to use mobile OpenStreetMap editor used for mapping in the field
 - [Cartes](https://cartes.app) — French alternative to Google Maps based on a fully open source stack
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
+- [Herb Atlas](https://herbatlas.fyi) ([Code](https://github.com/tinykite/herb-atlas)) - Collaborative project mapping medicinal herb farms with a focus on sustainable + regenerative practices.
 
 ## Demos / Examples
 
