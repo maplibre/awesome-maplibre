@@ -70,7 +70,7 @@ are designated with a ✅, and hosted projects with a 💙.
 
 ### Python
 
-- [py-maplibregl](https://github.com/eodaGmbH/py-maplibregl) - Python bindings for MapLibre GL JS with docs [eodagmbh.github.io/py-maplibregl](https://eodagmbh.github.io/py-maplibregl/) and examples [eodagmbh.github.io/py-maplibregl/examples/road_safety](https://eodagmbh.github.io/py-maplibregl/examples/road_safety/).
+- [py-maplibregl](https://github.com/eodaGmbH/py-maplibregl) - Python bindings for MapLibre GL JS with docs [eoda-dev.github.io/py-maplibregl](https://eoda-dev.github.io/py-maplibregl/) and examples [eoda-dev.github.io/py-maplibregl/examples/road_safety](https://eoda-dev.github.io/py-maplibregl/examples/road_safety/).
 - [leafmap](https://github.com/opengeos/leafmap/) - A python package that supports the MapLibre mapping backend with docs [leafmap.org](https://leafmap.org) and examples [leafmap.org/maplibre/overview](https://leafmap.org/maplibre/overview)
 - [plotly.py](https://plotly.com/python/maps/) - Create analytical geospatial figures with MapLibre GL JS in python.
 
