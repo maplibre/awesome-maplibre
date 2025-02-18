@@ -283,7 +283,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
 - [Herb Atlas](https://herbatlas.fyi) ([Code](https://github.com/tinykite/herb-atlas)) - Collaborative project mapping medicinal herb farms with a focus on sustainable + regenerative practices.
 - [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
-- [Mapforge](https://mapforge.org) - Map vector layer editor with live collaboration and sharing. Uses MapLibre GL JS.
+- [Mapforge](https://mapforge.org) - Open Source map vector layer editor with live collaboration and sharing. Uses MapLibre GL JS.
 
 ## Demos / Examples
 
