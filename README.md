@@ -155,7 +155,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-valhalla](https://github.com/watergis/mapbox-gl-valhalla) - Adds a control to provide isochrone features from valhalla server.
 - [mapboxgl-minimap](https://github.com/aesqe/mapboxgl-minimap) - Adds a control to show a miniature overview of the current map.
 - [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
-- [maplibre-geoman](https://github.com/geoman-io/maplibre-geoman) - Plugin for drawing and editing geometry layers. [demo](https://geoman.io/demo/maplibre) 
+- [maplibre-geoman](https://github.com/geoman-io/maplibre-geoman) - Plugin for drawing and editing geometry layers. [demo](https://geoman.io/demo/maplibre)
 - [maplibre-preload](https://github.com/AbelVM/maplibre-preload) - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibre GL JS.
 - [maplibre-gl-basemaps](https://github.com/ka7eh/maplibre-gl-basemaps) - A plugin for switching between raster basemaps.
 - [maplibre-gl-export](https://github.com/watergis/maplibre-gl-export) - Adds a control that exports the map as a PDF or images such as PNG, JPEG and SVG.
@@ -246,7 +246,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Stadia Maps](https://stadiamaps.com/)
 - [TomTom](https://www.tomtom.com/products/maps/)
 - [Tracestrack Maps](https://tracestrack.com/)
-- [Versatiles](https://versatiles.org/) - Free vector tile provider based on the [shortbread](https://shortbread-tiles.org/) specification 
+- [Versatiles](https://versatiles.org/) - Free vector tile provider based on the [shortbread](https://shortbread-tiles.org/) specification
 
 **In bold**: Members of the [MapLibre Sponsorship Program](https://maplibre.org/sponsors/)
 
@@ -257,6 +257,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [chiitiler](https://github.com/Kanahiro/chiitiler) - chiitiler - "Tiny MapLibre Server" is alternative to Tileserver GL, designed to runs on serverless infrastructures. [demo](https://spatialty-io.github.io/chiitiler-demo/)
 - [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side rasterizing with MapLibre GL native.
 - [Versatiles](https://versatiles.org/) - [Node](https://github.com/versatiles-org/node-versatiles-server) and [Rust](https://github.com/versatiles-org/versatiles-rs) implementation of the versatiles tile server
+- [mvt server](https://github.com/mvt-proj/mvt-rs/tree/main) A simple and high-speed vector tile server (and more) developed in Rust, using the Salvo web framework.
 
 ## Utilities
 
@@ -265,7 +266,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Ultra](https://overpass-ultra.us/) - A web-based IDE for making maps with MapLibre, supporting a variety of query & file types such as Overpass, ohsome, GeoJSON, KML, and more. [docs](https://overpass-ultra.us/docs)
 - [Libre-studio](https://github.com/BleenIT/libre-studio) - A web-based management layer for Maplibre Martin, allowing the management of map sources, sprites and font glyphs, for ready-to-use custom maps.
 - [Mapforge](https://mapforge.org) - Open Source map vector layer editor with live collaboration and sharing. Uses MapLibre GL JS.
-  
+
 ## Users
 
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
