@@ -112,8 +112,7 @@ are designated with a ✅, and hosted projects with a 💙.
 
 #### [React](https://react.dev/)
 
-- [react-maplibre](https://visgl.github.io/react-maplibre/) - Design specifically for MapLibre, this package is planned to supersede react-map-gl.
-- [react-map-gl](https://visgl.github.io/react-map-gl/docs/get-started#using-with-a-compatible-fork)
+- [react-map-gl](https://visgl.github.io/react-map-gl/docs/get-started#using-with-a-compatible-fork) - A suite of React components for mapbox-gl, maplibre-gl or compatible libraries
 - [react-map-components-maplibre](https://github.com/mapcomponents/react-map-components-maplibre) - A React component framework for declarative GIS application development with demos in their [showcase](https://catalogue.mapcomponents.org/) and [docs](https://mapcomponents.github.io/react-map-components-maplibre)
 - [maplibre-react-components](https://maplibre-react-components.pentatrion.com/) - Lightweight MapLibre only binding for React.
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - Provides a React integration.
