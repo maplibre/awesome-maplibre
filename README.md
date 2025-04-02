@@ -183,13 +183,13 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-language](https://github.com/mapbox/mapbox-gl-language/) - Automatically localizes the map into the user’s language.
 - [mapbox-gl-rtl-text](https://github.com/mapbox/mapbox-gl-rtl-text) - Adds right-to-left text support.
 - [mapbox-gl-traffic](https://github.com/mapbox/mapbox-gl-traffic) - Hide and show traffic layers on your map with an optional toggle button.
+- [maplibre-adiff-viewer](https://github.com/OSMCha/maplibre-adiff-viewer/) – Visualizes OpenStreetMap augmented diffs.
 - [maplibre-contour](https://github.com/onthegomap/maplibre-contour) - Renders contour lines from raster DEM tiles in MapLibre GL JS.
 - [maplibre-gl-dates](https://github.com/OpenHistoricalMap/maplibre-gl-dates/) – Filters a time-enabled map by date. Optimized for OpenHistoricalMap vector tiles.
 - [maplibre-gl-vector-text-protocol](https://github.com/jimmyrocks/maplibre-gl-vector-text-protocol) - Supports `CSV`, `TSV`, `Topojson`, `KML`, `GPX`, and `TCX` formats using the addProtocol feature.
 - [geogrid-maplibre-gl](https://github.com/falseinput/geogrid-maplibre-gl) - Renders customizable graticule (geographic grid).
 - [maplibre-gleo](https://gitlab.com/IvanSanchez/maplibre-gleo) - Adds symbols using the "gleo" WebGL map rendering library.
 - [maplibre-contourmap](https://github.com/AbelVM/maplibre-contourmap) - Renders contour lines from vector sources in MapLibre GL JS. [demo](https://abelvm.github.io/maplibre-contourmap/example/)
-
 
 ## Layer Types Plugins
 
