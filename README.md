@@ -198,6 +198,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-esri-sources](https://github.com/frontiersi/mapbox-gl-esri-sources) - A library for making it easier to use Esri services in MapLibre GL JS. Supports Esri Map Services (dynamic & tiled), Esri Vector Tile Services & Esri Vector Basemap Styles.
 - [mapbox-gl-flatgeobuf](https://github.com/rowanwins/mapbox-gl-flatgeobuf) - A library for retrieving features from FlatGeobuf file using a tiled approach. Compatible with MapLibre GL JS and Mapbox GL JS.
 - [mapbox-gl-ogc-feature-collection](https://github.com/mkeller3/mapbox-gl-ogc-feature-collection) - A small package for requesting geojson from an OGC Feature API endpoint to serve tiles in MapBox/MapLibre.
+- [maplibre-cog-protocol](https://github.com/geomatico/maplibre-cog-protocol) - Custom protocol to load Cloud Optimized GeoTIFFs (COG) in Maplibre GL JS.
 - [maplibre-google-maps](https://github.com/traccar/maplibre-google-maps) - A library for integrating Google Maps as raster layers into MapLibre GL JS. It uses the new Google Map Tiles API.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 - [PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/main/js) - A library that uses addProtocol to read PMTIles. a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
