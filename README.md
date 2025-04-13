@@ -183,6 +183,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [L7-maplibre-gl](https://github.com/antvis/l7) - Adds large-scale WebGL-powered geospatial data visualization framework to maplibre-gl.[demo](https://l7.antv.antgroup.com/examples/map/map/#maplibre)
 - [mapbox-gl-language](https://github.com/mapbox/mapbox-gl-language/) - Automatically localizes the map into the user’s language.
 - [mapbox-gl-rtl-text](https://github.com/mapbox/mapbox-gl-rtl-text) - Adds right-to-left text support.
+- [maplibre-gl-complex-text](https://github.com/wipfli/maplibre-gl-complex-text) - Adds support for some complex scripts including Khmer and Devanagari.
 - [mapbox-gl-traffic](https://github.com/mapbox/mapbox-gl-traffic) - Hide and show traffic layers on your map with an optional toggle button.
 - [maplibre-contour](https://github.com/onthegomap/maplibre-contour) - Renders contour lines from raster DEM tiles in MapLibre GL JS.
 - [maplibre-gl-dates](https://github.com/OpenHistoricalMap/maplibre-gl-dates/) – Filters a time-enabled map by date. Optimized for OpenHistoricalMap vector tiles.
