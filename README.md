@@ -166,7 +166,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibregl-minimap](https://github.com/JabSYsEmb/maplibregl-minimap) - Customizable minimap Control for maplibregl.
 - [maplibre-gl-style-flipper](https://github.com/geoglify/maplibre-gl-style-flipper) - A custom control to switch between different map styles in MapLibre GL JS.
 - [maplibre-google-streetview](https://github.com/rezw4n/maplibre-google-streetview) - Plugin that integrates Google Street View into any MapLibre map.
-- [maplibre-three-plugin](https://github.com/dvt3d/maplibre-three-plugin) - A bridge plugin that cleverly connects MapLibre GL JS with Three.js, enabling developers to implement 3D rendering and animation on maps.
+
 
 ## Geocoding & Search Plugins
 - [mapbox.photon](https://github.com/watergis/mapbox.photon) - Adds a control to provide a geocoding feature from Photon API.
@@ -192,6 +192,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [geogrid-maplibre-gl](https://github.com/falseinput/geogrid-maplibre-gl) - Renders customizable graticule (geographic grid).
 - [maplibre-gleo](https://gitlab.com/IvanSanchez/maplibre-gleo) - Adds symbols using the "gleo" WebGL map rendering library.
 - [maplibre-contourmap](https://github.com/AbelVM/maplibre-contourmap) - Renders contour lines from vector sources in MapLibre GL JS. [demo](https://abelvm.github.io/maplibre-contourmap/example/)
+- [maplibre-three-plugin](https://github.com/dvt3d/maplibre-three-plugin) - A bridge plugin that cleverly connects MapLibre GL JS with Three.js, enabling developers to implement 3D rendering and animation on maps.
 
 
 ## Layer Types Plugins
