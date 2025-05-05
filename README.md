@@ -248,6 +248,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Protomaps](https://protomaps.com/)
 - [Stadia Maps](https://stadiamaps.com/)
 - [TomTom](https://www.tomtom.com/products/maps/)
+- [Tuiles en Liberté](https://tuiles.enliberte.fr/)
 - [Tracestrack Maps](https://tracestrack.com/)
 - [Versatiles](https://versatiles.org/) - Free vector tile provider based on the [shortbread](https://shortbread-tiles.org/) specification
 
