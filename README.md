@@ -259,7 +259,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server, supports tile generation and mbtiles tooling.
 - [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) - Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
 - [chiitiler](https://github.com/Kanahiro/chiitiler) - chiitiler - "Tiny MapLibre Server" is alternative to Tileserver GL, designed to runs on serverless infrastructures. [demo](https://spatialty-io.github.io/chiitiler-demo/)
-- [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side rasterizing with MapLibre GL native.
+- [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side raster creation with MapLibre GL native.
 - [Versatiles](https://versatiles.org/) - [Node](https://github.com/versatiles-org/node-versatiles-server) and [Rust](https://github.com/versatiles-org/versatiles-rs) implementation of the versatiles tile server
 - [mvt server](https://github.com/mvt-proj/mvt-rs/tree/main) A simple and high-speed vector tile server (and more) developed in Rust, using the Salvo web framework.
 
