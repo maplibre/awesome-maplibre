@@ -219,6 +219,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [turf](https://turfjs.org/) - provides advanced geospatial analysis tools.
 - [Maperture](https://github.com/stamen/maperture) - A web application for comparing webmap styles.
 - [geojson-map-fit-mercator](https://github.com/tjdavey/geojson-map-fit-mercator) - Finds the optimal bearing, zoom and center point for fitting a set of GeoJSON features in a Mapbox GL or MapLibre GL viewport. [demo](https://tristandavey.com/geojson-map-fit-mercator/)
+- [maplibre-legend](https://github.com/mvt-proj/maplibre-legend) - Legends generator from a style.json developed in Rust. [crate](https://crates.io/crates/maplibre-legend)
 
 ## Development Tools Plugins
 
