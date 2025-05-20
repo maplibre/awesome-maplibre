@@ -58,14 +58,11 @@ are designated with a ✅, and hosted projects with a 💙.
 
 - 💙 [MapLibre SwiftUI DSL](https://github.com/maplibre/swiftui-dsl) - A Swift package bridging the gap between MapLibre Native and SwiftUI with MapKit-like ease of use.
 
-### Jetpack Compose
+### Jetpack Compose or Compose Multiplatform
 
+- 💙 [MapLibre Compose](https://github.com/sargunv/maplibre-compose) - a Compose Multiplatform library to add interactive vector tile maps to your Android and iOS app.
 - [Ramani Maps](https://github.com/ramani-maps/ramani-maps) - A Jetpack Compose library to manipulate maps on Android.
 - [MapLibre Compose Playground](https://github.com/Rallista/maplibre-compose-playground) - A Jetpack Compose library that takes inspiration from Ramani, but leans towards API similarity with the SwiftUI DSL and de-emphasizes drawing/editing.
-
-### Compose Multiplatform
-
-- [MapLibre Compose](https://github.com/sargunv/maplibre-compose) - a Compose Multiplatform library to add interactive vector tile maps to your Android and iOS app.
 - [SKAMIR Maps](https://github.com/skamirmaps/skamirmaps) - Kotlin Multiplatform wrapper for MapLibre Native
 
 ### Python
