@@ -290,6 +290,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Herb Atlas](https://herbatlas.fyi) ([Code](https://github.com/tinykite/herb-atlas)) - Collaborative project mapping medicinal herb farms with a focus on sustainable + regenerative practices.
 - [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
 - [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
+- [Ace](https://bdlucas1.github.io/ace) - Free golf app using OpenStreetMap data to provide on-course diagrams, distances, and elevations. Runs entirely in the browser using MapLibre GL JS.
 
 ## Demos / Examples
 
