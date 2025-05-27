@@ -260,6 +260,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side raster creation with MapLibre GL native.
 - [Versatiles](https://versatiles.org/) - [Node](https://github.com/versatiles-org/node-versatiles-server) and [Rust](https://github.com/versatiles-org/versatiles-rs) implementation of the versatiles tile server
 - [mvt server](https://github.com/mvt-proj/mvt-rs/tree/main) A simple and high-speed vector tile server (and more) developed in Rust, using the Salvo web framework.
+- [BBOX Server](https://github.com/bbox-services/bbox) OGC API compliant (features, maps, assets, processes, routing) server written in Rust.
 
 ## Utilities
 
