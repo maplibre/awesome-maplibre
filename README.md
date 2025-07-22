@@ -140,6 +140,7 @@ are designated with a ✅, and hosted projects with a 💙.
 <!-- [JAVASCRIPT-PLUGINS]:BEGIN -->
 ## User Interface Plugins
 
+- [maplibre-transition](https://github.com/popkinj/maplibre-transition) - A plugin for smooth transitions between map styles. [demo](https://observablehq.com/d/b9a97acdf712a77b)
 - 💙 [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
 - [any-routing](https://github.com/marucjmar/any-routing) - A modular plugin for calculating routes.
 - [Gauge Legend](https://github.com/AbelVM/gauge_legend) - Dynamic gauge legend for MapLibre GL JS
@@ -174,7 +175,6 @@ are designated with a ✅, and hosted projects with a 💙.
 
 ## Map Rendering Plugins
 
-- [maplibre-transition](https://github.com/popkinj/maplibre-transition) - A plugin for smooth transitions between map styles. [demo](https://observablehq.com/d/b9a97acdf712a77b)
 - 💙 [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - A plugin for rendering MapLibre styles in [Leaflet](https://leafletjs.com).
 - [deck.gl](https://github.com/visgl/deck.gl) - Adds advanced WebGL visualization layers.
 - [flowmap.blue](https://github.com/ilyabo/flowmap.blue) - Render a geographic flow map visualization from a spreadsheet published on Google Sheets.
