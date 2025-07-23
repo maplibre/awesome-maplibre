@@ -294,6 +294,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
 - [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
 - [Ace](https://bdlucas1.github.io/ace) - Free on-course golf scorecard app uses OpenStreetMap data to provide course diagrams, distances, and elevations. Runs entirely in the browser on your mobile phone using MapLibre GL JS.
+- [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
 
 ## Demos / Examples
 
