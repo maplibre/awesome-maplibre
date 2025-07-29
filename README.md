@@ -58,14 +58,11 @@ are designated with a ✅, and hosted projects with a 💙.
 
 - 💙 [MapLibre SwiftUI DSL](https://github.com/maplibre/swiftui-dsl) - A Swift package bridging the gap between MapLibre Native and SwiftUI with MapKit-like ease of use.
 
-### Jetpack Compose
+### Jetpack Compose or Compose Multiplatform
 
+- 💙 [MapLibre Compose](https://github.com/sargunv/maplibre-compose) - a Compose Multiplatform library to add interactive vector tile maps to your Android and iOS app.
 - [Ramani Maps](https://github.com/ramani-maps/ramani-maps) - A Jetpack Compose library to manipulate maps on Android.
 - [MapLibre Compose Playground](https://github.com/Rallista/maplibre-compose-playground) - A Jetpack Compose library that takes inspiration from Ramani, but leans towards API similarity with the SwiftUI DSL and de-emphasizes drawing/editing.
-
-### Compose Multiplatform
-
-- [MapLibre Compose](https://github.com/sargunv/maplibre-compose) - a Compose Multiplatform library to add interactive vector tile maps to your Android and iOS app.
 - [SKAMIR Maps](https://github.com/skamirmaps/skamirmaps) - Kotlin Multiplatform wrapper for MapLibre Native
 
 ### Python
@@ -158,6 +155,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-preload](https://github.com/AbelVM/maplibre-preload) - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibre GL JS.
 - [maplibre-gl-basemaps](https://github.com/ka7eh/maplibre-gl-basemaps) - A plugin for switching between raster basemaps.
 - [maplibre-gl-export](https://github.com/watergis/maplibre-gl-export) - Adds a control that exports the map as a PDF or images such as PNG, JPEG and SVG.
+- [maplibre-gl-map-to-image](https://github.com/Willjfield/maplibre-gl-map-to-image) - Creates static image data from a map and sets it as the src of a target html image element. Similar to maplibre-gl-export but intended for use cases where you are embedding the image in a document rather than printing full page.
 - [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 - [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity) - A plugin to switch layer like Leaflet.control.layers, and update opacities. [demo](https://mug-jp.github.io/maplibre-gl-opacity/)
 - [maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
@@ -166,6 +164,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibregl-minimap](https://github.com/JabSYsEmb/maplibregl-minimap) - Customizable minimap Control for maplibregl.
 - [maplibre-gl-style-flipper](https://github.com/geoglify/maplibre-gl-style-flipper) - A custom control to switch between different map styles in MapLibre GL JS.
 - [maplibre-google-streetview](https://github.com/rezw4n/maplibre-google-streetview) - Plugin that integrates Google Street View into any MapLibre map.
+- [maplibre-transition](https://github.com/popkinj/maplibre-transition) - A plugin for smooth transitions between map styles. [demo](https://observablehq.com/d/b9a97acdf712a77b)
 
 
 ## Geocoding & Search Plugins
@@ -220,6 +219,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [turf](https://turfjs.org/) - provides advanced geospatial analysis tools.
 - [Maperture](https://github.com/stamen/maperture) - A web application for comparing webmap styles.
 - [geojson-map-fit-mercator](https://github.com/tjdavey/geojson-map-fit-mercator) - Finds the optimal bearing, zoom and center point for fitting a set of GeoJSON features in a Mapbox GL or MapLibre GL viewport. [demo](https://tristandavey.com/geojson-map-fit-mercator/)
+- [maplibre-legend](https://github.com/mvt-proj/maplibre-legend) - Legends generator from a style.json developed in Rust. [crate](https://crates.io/crates/maplibre-legend)
 
 ## Development Tools Plugins
 
@@ -249,6 +249,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Protomaps](https://protomaps.com/)
 - [Stadia Maps](https://stadiamaps.com/)
 - [TomTom](https://www.tomtom.com/products/maps/)
+- [Tuiles en Liberté](https://tuiles.enliberte.fr/)
 - [Tracestrack Maps](https://tracestrack.com/)
 - [Versatiles](https://versatiles.org/) - Free vector tile provider based on the [shortbread](https://shortbread-tiles.org/) specification
 
@@ -259,9 +260,10 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server, supports tile generation and mbtiles tooling.
 - [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) - Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
 - [chiitiler](https://github.com/Kanahiro/chiitiler) - chiitiler - "Tiny MapLibre Server" is alternative to Tileserver GL, designed to runs on serverless infrastructures. [demo](https://spatialty-io.github.io/chiitiler-demo/)
-- [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side rasterizing with MapLibre GL native.
+- [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side raster creation with MapLibre GL native.
 - [Versatiles](https://versatiles.org/) - [Node](https://github.com/versatiles-org/node-versatiles-server) and [Rust](https://github.com/versatiles-org/versatiles-rs) implementation of the versatiles tile server
 - [mvt server](https://github.com/mvt-proj/mvt-rs/tree/main) A simple and high-speed vector tile server (and more) developed in Rust, using the Salvo web framework.
+- [BBOX Server](https://github.com/bbox-services/bbox) OGC API compliant (features, maps, assets, processes, routing) server written in Rust.
 
 ## Utilities
 
@@ -280,6 +282,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
+- [SharpMap](https://sharpmap.app/info), ultra-accurate 2D and 3D topographic mountain maps powered by MapLibre.
 - [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
 - [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
@@ -291,6 +294,10 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
 - [Herb Atlas](https://herbatlas.fyi) ([Code](https://github.com/tinykite/herb-atlas)) - Collaborative project mapping medicinal herb farms with a focus on sustainable + regenerative practices.
 - [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
+- [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
+- [Ace](https://bdlucas1.github.io/ace) - Free on-course golf scorecard app uses OpenStreetMap data to provide course diagrams, distances, and elevations. Runs entirely in the browser on your mobile phone using MapLibre GL JS.
+- [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
+- [Peripleo](https://github.com/britishlibrary/peripleo) - Reusable web map interface with configurable markers, filters, search and more. Open-source and runs on GH pages, all you need is a spreadsheet.
 
 ## Demos / Examples
 
