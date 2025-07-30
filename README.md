@@ -173,7 +173,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-search-box](https://github.com/stadiamaps/maplibre-search-box) - Adds a control for searching for places using Stadia Maps.
 - [maptiler-geocoding-control](https://github.com/maptiler/maptiler-geocoding-control) - Adds a geocoding control for searching for places using MapTiler API. [docs](https://docs.maptiler.com/sdk-js/modules/geocoding/)
 
-
 ## Map Rendering Plugins
 
 - 💙 [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - A plugin for rendering MapLibre styles in [Leaflet](https://leafletjs.com).
@@ -192,7 +191,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-gleo](https://gitlab.com/IvanSanchez/maplibre-gleo) - Adds symbols using the "gleo" WebGL map rendering library.
 - [maplibre-contourmap](https://github.com/AbelVM/maplibre-contourmap) - Renders contour lines from vector sources in MapLibre GL JS. [demo](https://abelvm.github.io/maplibre-contourmap/example/)
 - [maplibre-three-plugin](https://github.com/dvt3d/maplibre-three-plugin) - A bridge plugin that cleverly connects MapLibre GL JS with Three.js, enabling developers to implement 3D rendering and animation on maps.
-
 
 ## Layer Types Plugins
 
