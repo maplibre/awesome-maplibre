@@ -79,6 +79,10 @@ are designated with a ✅, and hosted projects with a 💙.
 
 - [mapgl](https://github.com/walkerke/mapgl) - R bindings for MapLibre GL JS with docs at [walker-data.com/mapgl](https://walker-data.com/mapgl)
 
+### Rust
+
+- 💙 [maplibre-native-rs](https://github.com/maplibre/maplibre-native-rs) - Rust bindings for MapLibre Native
+
 ### JavaScript
 
 <!-- [JAVASCRIPT-BINDINGS]:BEGIN -->
@@ -254,7 +258,7 @@ are designated with a ✅, and hosted projects with a 💙.
 
 ## Tile Servers
 
-- 💙 [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server, supports tile generation and mbtiles tooling.
+- 💙 [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server with support for tile generation and mbtiles tooling.
 - [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) - Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
 - [chiitiler](https://github.com/Kanahiro/chiitiler) - chiitiler - "Tiny MapLibre Server" is alternative to Tileserver GL, designed to runs on serverless infrastructures. [demo](https://spatialty-io.github.io/chiitiler-demo/)
 - [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side raster creation with MapLibre GL native.
