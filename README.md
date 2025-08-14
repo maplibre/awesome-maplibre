@@ -98,6 +98,7 @@ are designated with a ✅, and hosted projects with a 💙.
 #### [Echarts](https://echarts.apache.org/en/index.html)
 
 - [echartslayer](https://github.com/lzxue/echartLayer) - Provides an echarts integration.
+- [@naivemap/maplibre-gl-echarts-layer](https://www.naivemap.com/maplibre-gl-layers/api/echarts-layer/) - Integrate Apache ECharts' Lines and Scatter charts.
 
 #### [Elm](https://elm-lang.org)
 
