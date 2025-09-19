@@ -156,6 +156,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-valhalla](https://github.com/watergis/mapbox-gl-valhalla) - Adds a control to provide isochrone features from valhalla server.
 - [mapboxgl-minimap](https://github.com/aesqe/mapboxgl-minimap) - Adds a control to show a miniature overview of the current map.
 - [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
+- [map-gl-style-switcher](https://github.com/muimsd/map-gl-style-switcher) - A customizable style switcher control for MapLibre GL JS, also has a `react-map-gl` wrapper.
 - [maplibre-geoman](https://github.com/geoman-io/maplibre-geoman) - Plugin for drawing and editing geometry layers. [demo](https://geoman.io/demo/maplibre)
 - [maplibre-preload](https://github.com/AbelVM/maplibre-preload) - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibre GL JS.
 - [maplibre-gl-basemaps](https://github.com/ka7eh/maplibre-gl-basemaps) - A plugin for switching between raster basemaps.
