@@ -58,14 +58,11 @@ are designated with a ✅, and hosted projects with a 💙.
 
 - 💙 [MapLibre SwiftUI DSL](https://github.com/maplibre/swiftui-dsl) - A Swift package bridging the gap between MapLibre Native and SwiftUI with MapKit-like ease of use.
 
-### Jetpack Compose
+### Jetpack Compose or Compose Multiplatform
 
+- 💙 [MapLibre Compose](https://github.com/sargunv/maplibre-compose) - a Compose Multiplatform library to add interactive vector tile maps to your Android and iOS app.
 - [Ramani Maps](https://github.com/ramani-maps/ramani-maps) - A Jetpack Compose library to manipulate maps on Android.
 - [MapLibre Compose Playground](https://github.com/Rallista/maplibre-compose-playground) - A Jetpack Compose library that takes inspiration from Ramani, but leans towards API similarity with the SwiftUI DSL and de-emphasizes drawing/editing.
-
-### Compose Multiplatform
-
-- [MapLibre Compose](https://github.com/sargunv/maplibre-compose) - a Compose Multiplatform library to add interactive vector tile maps to your Android and iOS app.
 - [SKAMIR Maps](https://github.com/skamirmaps/skamirmaps) - Kotlin Multiplatform wrapper for MapLibre Native
 
 ### Python
@@ -82,6 +79,10 @@ are designated with a ✅, and hosted projects with a 💙.
 
 - [mapgl](https://github.com/walkerke/mapgl) - R bindings for MapLibre GL JS with docs at [walker-data.com/mapgl](https://walker-data.com/mapgl)
 
+### Rust
+
+- 💙 [maplibre-native-rs](https://github.com/maplibre/maplibre-native-rs) - Rust bindings for MapLibre Native
+
 ### JavaScript
 
 <!-- [JAVASCRIPT-BINDINGS]:BEGIN -->
@@ -97,6 +98,7 @@ are designated with a ✅, and hosted projects with a 💙.
 #### [Echarts](https://echarts.apache.org/en/index.html)
 
 - [echartslayer](https://github.com/lzxue/echartLayer) - Provides an echarts integration.
+- [@naivemap/maplibre-gl-echarts-layer](https://www.naivemap.com/maplibre-gl-layers/api/echarts-layer/) - Integrate Apache ECharts' Lines and Scatter charts.
 
 #### [Elm](https://elm-lang.org)
 
@@ -154,10 +156,12 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-valhalla](https://github.com/watergis/mapbox-gl-valhalla) - Adds a control to provide isochrone features from valhalla server.
 - [mapboxgl-minimap](https://github.com/aesqe/mapboxgl-minimap) - Adds a control to show a miniature overview of the current map.
 - [maplibre-compass-pro](https://github.com/jedluk/maplibre-compass-pro) - old fashioned compass (with compass rose) for Maplibre GL. [demo](https://codesandbox.io/p/sandbox/peaceful-mirzakhani-tv38ck)
+- [map-gl-style-switcher](https://github.com/muimsd/map-gl-style-switcher) - A customizable style switcher control for MapLibre GL JS, also has a `react-map-gl` wrapper.
 - [maplibre-geoman](https://github.com/geoman-io/maplibre-geoman) - Plugin for drawing and editing geometry layers. [demo](https://geoman.io/demo/maplibre)
 - [maplibre-preload](https://github.com/AbelVM/maplibre-preload) - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibre GL JS.
 - [maplibre-gl-basemaps](https://github.com/ka7eh/maplibre-gl-basemaps) - A plugin for switching between raster basemaps.
 - [maplibre-gl-export](https://github.com/watergis/maplibre-gl-export) - Adds a control that exports the map as a PDF or images such as PNG, JPEG and SVG.
+- [maplibre-gl-map-to-image](https://github.com/Willjfield/maplibre-gl-map-to-image) - Creates static image data from a map and sets it as the src of a target html image element. Similar to maplibre-gl-export but intended for use cases where you are embedding the image in a document rather than printing full page.
 - [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 - [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity) - A plugin to switch layer like Leaflet.control.layers, and update opacities. [demo](https://mug-jp.github.io/maplibre-gl-opacity/)
 - [maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
@@ -165,13 +169,16 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Terra Draw](https://www.github.com/JamesLMilner/terra-draw) - The library has a MapLibre GL JS adapter to provide drawing and geometry editing functionality to the map
 - [maplibregl-minimap](https://github.com/JabSYsEmb/maplibregl-minimap) - Customizable minimap Control for maplibregl.
 - [maplibre-gl-style-flipper](https://github.com/geoglify/maplibre-gl-style-flipper) - A custom control to switch between different map styles in MapLibre GL JS.
+- [maplibre-google-streetview](https://github.com/rezw4n/maplibre-google-streetview) - Plugin that integrates Google Street View into any MapLibre map.
+- [maplibre-transition](https://github.com/popkinj/maplibre-transition) - A plugin for smooth transitions between map styles. [demo](https://observablehq.com/d/b9a97acdf712a77b)
+- [maplibre-gl-layers-control](https://github.com/mvt-proj/maplibre-gl-layers-control) - It allows to show/hide layers, opacity control and integration with legends.
+- [maplibre-ui-translations](https://github.com/spwoodcock/maplibre-ui-translations) - Community translations for the default MapLibre UI.
 
 ## Geocoding & Search Plugins
 - [mapbox.photon](https://github.com/watergis/mapbox.photon) - Adds a control to provide a geocoding feature from Photon API.
 - 💙 [maplibre-gl-geocoder](https://github.com/maplibre/maplibre-gl-geocoder) - Adds a geocoder control.
 - [maplibre-search-box](https://github.com/stadiamaps/maplibre-search-box) - Adds a control for searching for places using Stadia Maps.
 - [maptiler-geocoding-control](https://github.com/maptiler/maptiler-geocoding-control) - Adds a geocoding control for searching for places using MapTiler API. [docs](https://docs.maptiler.com/sdk-js/modules/geocoding/)
-
 
 ## Map Rendering Plugins
 
@@ -182,6 +189,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [L7-maplibre-gl](https://github.com/antvis/l7) - Adds large-scale WebGL-powered geospatial data visualization framework to maplibre-gl.[demo](https://l7.antv.antgroup.com/examples/map/map/#maplibre)
 - [mapbox-gl-language](https://github.com/mapbox/mapbox-gl-language/) - Automatically localizes the map into the user’s language.
 - [mapbox-gl-rtl-text](https://github.com/mapbox/mapbox-gl-rtl-text) - Adds right-to-left text support.
+- [maplibre-gl-complex-text](https://github.com/wipfli/maplibre-gl-complex-text) - Adds support for some complex scripts including Khmer and Devanagari.
 - [mapbox-gl-traffic](https://github.com/mapbox/mapbox-gl-traffic) - Hide and show traffic layers on your map with an optional toggle button.
 - [maplibre-adiff-viewer](https://github.com/OSMCha/maplibre-adiff-viewer/) – Visualizes OpenStreetMap augmented diffs.
 - [maplibre-contour](https://github.com/onthegomap/maplibre-contour) - Renders contour lines from raster DEM tiles in MapLibre GL JS.
@@ -190,6 +198,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [geogrid-maplibre-gl](https://github.com/falseinput/geogrid-maplibre-gl) - Renders customizable graticule (geographic grid).
 - [maplibre-gleo](https://gitlab.com/IvanSanchez/maplibre-gleo) - Adds symbols using the "gleo" WebGL map rendering library.
 - [maplibre-contourmap](https://github.com/AbelVM/maplibre-contourmap) - Renders contour lines from vector sources in MapLibre GL JS. [demo](https://abelvm.github.io/maplibre-contourmap/example/)
+- [maplibre-three-plugin](https://github.com/dvt3d/maplibre-three-plugin) - A bridge plugin that cleverly connects MapLibre GL JS with Three.js, enabling developers to implement 3D rendering and animation on maps.
 
 ## Layer Types Plugins
 
@@ -198,9 +207,11 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-esri-sources](https://github.com/frontiersi/mapbox-gl-esri-sources) - A library for making it easier to use Esri services in MapLibre GL JS. Supports Esri Map Services (dynamic & tiled), Esri Vector Tile Services & Esri Vector Basemap Styles.
 - [mapbox-gl-flatgeobuf](https://github.com/rowanwins/mapbox-gl-flatgeobuf) - A library for retrieving features from FlatGeobuf file using a tiled approach. Compatible with MapLibre GL JS and Mapbox GL JS.
 - [mapbox-gl-ogc-feature-collection](https://github.com/mkeller3/mapbox-gl-ogc-feature-collection) - A small package for requesting geojson from an OGC Feature API endpoint to serve tiles in MapBox/MapLibre.
+- [maplibre-cog-protocol](https://github.com/geomatico/maplibre-cog-protocol) - Custom protocol to load Cloud Optimized GeoTIFFs (COG) in Maplibre GL JS.
 - [maplibre-google-maps](https://github.com/traccar/maplibre-google-maps) - A library for integrating Google Maps as raster layers into MapLibre GL JS. It uses the new Google Map Tiles API.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 - [PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/main/js) - A library that uses addProtocol to read PMTIles. a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
+- [@naivemap/maplibre-gl-image-layer](https://www.naivemap.com/maplibre-gl-layers/api/image-layer/) - A versatile layer for displaying georeferenced images with various projections (using proj4js) on the map.
 
 ## Utility Libraries
 
@@ -215,6 +226,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [turf](https://turfjs.org/) - provides advanced geospatial analysis tools.
 - [Maperture](https://github.com/stamen/maperture) - A web application for comparing webmap styles.
 - [geojson-map-fit-mercator](https://github.com/tjdavey/geojson-map-fit-mercator) - Finds the optimal bearing, zoom and center point for fitting a set of GeoJSON features in a Mapbox GL or MapLibre GL viewport. [demo](https://tristandavey.com/geojson-map-fit-mercator/)
+- [maplibre-legend](https://github.com/mvt-proj/maplibre-legend) - Legends generator from a style.json developed in Rust. [crate](https://crates.io/crates/maplibre-legend)
 
 ## Development Tools Plugins
 
@@ -244,6 +256,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Protomaps](https://protomaps.com/)
 - [Stadia Maps](https://stadiamaps.com/)
 - [TomTom](https://www.tomtom.com/products/maps/)
+- [Tuiles en Liberté](https://tuiles.enliberte.fr/)
 - [Tracestrack Maps](https://tracestrack.com/)
 - [Versatiles](https://versatiles.org/) - Free vector tile provider based on the [shortbread](https://shortbread-tiles.org/) specification
 
@@ -251,12 +264,13 @@ are designated with a ✅, and hosted projects with a 💙.
 
 ## Tile Servers
 
-- 💙 [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server, supports tile generation and mbtiles tooling.
+- 💙 [Martin](https://github.com/maplibre/martin) - A PostGIS, MBtiles and PMtiles tile server with support for tile generation and mbtiles tooling.
 - [Headless Node Renderer](https://github.com/ConservationMetrics/mapgl-tile-renderer) - Headless Node.js MapGL renderer for generating MBTiles with styled raster tiles.
 - [chiitiler](https://github.com/Kanahiro/chiitiler) - chiitiler - "Tiny MapLibre Server" is alternative to Tileserver GL, designed to runs on serverless infrastructures. [demo](https://spatialty-io.github.io/chiitiler-demo/)
-- [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side rasterizing with MapLibre GL native.
+- [TileServer GL](https://github.com/maptiler/tileserver-gl) - Vector tile server from MBTiles archives + server-side raster creation with MapLibre GL native.
 - [Versatiles](https://versatiles.org/) - [Node](https://github.com/versatiles-org/node-versatiles-server) and [Rust](https://github.com/versatiles-org/versatiles-rs) implementation of the versatiles tile server
 - [mvt server](https://github.com/mvt-proj/mvt-rs/tree/main) A simple and high-speed vector tile server (and more) developed in Rust, using the Salvo web framework.
+- [BBOX Server](https://github.com/bbox-services/bbox) OGC API compliant (features, maps, assets, processes, routing) server written in Rust.
 
 ## Utilities
 
@@ -265,6 +279,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Ultra](https://overpass-ultra.us/) - A web-based IDE for making maps with MapLibre, supporting a variety of query & file types such as Overpass, ohsome, GeoJSON, KML, and more. [docs](https://overpass-ultra.us/docs)
 - [Libre-studio](https://github.com/BleenIT/libre-studio) - A web-based management layer for Maplibre Martin, allowing the management of map sources, sprites and font glyphs, for ready-to-use custom maps.
 - [Mapforge](https://mapforge.org) - Open Source map vector layer editor with live collaboration and sharing. Uses MapLibre GL JS.
+- [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) - An interactive sandbox to tune vector tiles.
 
 ## Users
 
@@ -275,6 +290,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
+- [SharpMap](https://sharpmap.app/info), ultra-accurate 2D and 3D topographic mountain maps powered by MapLibre.
 - [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
 - [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
@@ -286,6 +302,10 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
 - [Herb Atlas](https://herbatlas.fyi) ([Code](https://github.com/tinykite/herb-atlas)) - Collaborative project mapping medicinal herb farms with a focus on sustainable + regenerative practices.
 - [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
+- [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
+- [Ace](https://bdlucas1.github.io/ace) - Free on-course golf scorecard app uses OpenStreetMap data to provide course diagrams, distances, and elevations. Runs entirely in the browser on your mobile phone using MapLibre GL JS.
+- [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
+- [Peripleo](https://github.com/britishlibrary/peripleo) - Reusable web map interface with configurable markers, filters, search and more. Open-source and runs on GH pages, all you need is a spreadsheet.
 
 ## Demos / Examples
 
