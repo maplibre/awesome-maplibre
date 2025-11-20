@@ -284,31 +284,31 @@ are designated with a ✅, and hosted projects with a 💙.
 
 ## Users
 
-- [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
+- [Ace](https://bdlucas1.github.io/ace) - Free on-course golf scorecard app uses OpenStreetMap data to provide course diagrams, distances, and elevations. Runs entirely in the browser on your mobile phone using MapLibre GL JS.
+- [Cartes](https://cartes.app) — French alternative to Google Maps based on a fully open source stack
+- [Famxplor](https://famxplor.com/), interactive world map of activities for family vacations, powered by MapLibre with [Svelte MapLibre](https://github.com/dimfeld/svelte-maplibre)
+- [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
+- [Herb Atlas](https://herbatlas.fyi) ([Code](https://github.com/tinykite/herb-atlas)) - Collaborative project mapping medicinal herb farms with a focus on sustainable + regenerative practices.
 - [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel. Migrated to [MapLibre](https://github.com/IsraelHikingMap/Site/issues/1532).
+- [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
+- [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
 - [MapLibre Storytelling](https://github.com/digidem/maplibre-storymap) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
-- [OpenStreetMap Americana Style](https://github.com/osm-americana/openstreetmap-americana#openstreetmap-americana-style) - A quintessentially American map style, powered by [MapLibre](https://github.com/osm-americana/openstreetmap-americana#technology-stack)
+- [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
-- [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
-- [SharpMap](https://sharpmap.app/info), ultra-accurate 2D and 3D topographic mountain maps powered by MapLibre.
-- [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
-- [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
-- [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
-- [Queering the Map](https://www.queeringthemap.com) ([Code](https://github.com/radical-data/queering-the-map)) - A crowd-sourced platform for anonymously pinning queer experiences on a global map.
 - [OpenHistoricalMap](https://www.openhistoricalmap.org/) – collaborative project to map the history of the world in detail, powered by MapLibre with maplibre-gl-leaflet
-- [Famxplor](https://famxplor.com/), interactive world map of activities for family vacations, powered by MapLibre with [Svelte MapLibre](https://github.com/dimfeld/svelte-maplibre)
-- [StreetComplete](https://streetcomplete.app) — Easy to use mobile OpenStreetMap editor used for mapping in the field
-- [Cartes](https://cartes.app) — French alternative to Google Maps based on a fully open source stack
-- [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
-- [Herb Atlas](https://herbatlas.fyi) ([Code](https://github.com/tinykite/herb-atlas)) - Collaborative project mapping medicinal herb farms with a focus on sustainable + regenerative practices.
-- [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
-- [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
-- [Ace](https://bdlucas1.github.io/ace) - Free on-course golf scorecard app uses OpenStreetMap data to provide course diagrams, distances, and elevations. Runs entirely in the browser on your mobile phone using MapLibre GL JS.
-- [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
+- [OpenStreetMap Americana Style](https://github.com/osm-americana/openstreetmap-americana#openstreetmap-americana-style) - A quintessentially American map style, powered by [MapLibre](https://github.com/osm-americana/openstreetmap-americana#technology-stack)
 - [Peripleo](https://github.com/britishlibrary/peripleo) - Reusable web map interface with configurable markers, filters, search and more. Open-source and runs on GH pages, all you need is a spreadsheet.
-- [Utopia Map](https://github.com/utopia-os/utopia-map) ([Website](https://utopia-map.org)) - Collaborative map-based app for decentralized coordination and real-life networking.<br>
+- [Queering the Map](https://www.queeringthemap.com) ([Code](https://github.com/radical-data/queering-the-map)) - A crowd-sourced platform for anonymously pinning queer experiences on a global map.
+- [SharpMap](https://sharpmap.app/info), ultra-accurate 2D and 3D topographic mountain maps powered by MapLibre.
+- [StreetComplete](https://streetcomplete.app) — Easy to use mobile OpenStreetMap editor used for mapping in the field
+- [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
+- [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
+- [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
+- [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for decentralized coordination and real-life networking.<br>
   Built with MapLibre GL JS, it enables communities to create custom map instances with interactive layers for managing members, activities, and resources.
+- [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
+- [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
 
 ## Demos / Examples
 
