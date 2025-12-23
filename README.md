@@ -183,7 +183,9 @@ are designated with a ✅, and hosted projects with a 💙.
 ## Map Rendering Plugins
 
 - 💙 [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - A plugin for rendering MapLibre styles in [Leaflet](https://leafletjs.com).
+- [Americana Shield Renderer](https://www.npmjs.com/package/@americana/maplibre-shield-generator) – Renders route markers for highway systems around the world.
 - [deck.gl](https://github.com/visgl/deck.gl) - Adds advanced WebGL visualization layers.
+- [Diplomat](https://github.com/osm-americana/diplomat/) – Automatically localizes the map into the user’s language.
 - [flowmap.blue](https://github.com/ilyabo/flowmap.blue) - Render a geographic flow map visualization from a spreadsheet published on Google Sheets.
 - [H3J / H3T](https://github.com/INSPIDE/h3j-h3t) - Light [H3](https://h3geo.org/) data formats for client side geometry generation and rendering using MapLibre GL JS
 - [L7-maplibre-gl](https://github.com/antvis/l7) - Adds large-scale WebGL-powered geospatial data visualization framework to maplibre-gl.[demo](https://l7.antv.antgroup.com/examples/map/map/#maplibre)
