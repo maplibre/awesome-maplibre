@@ -202,6 +202,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-contourmap](https://github.com/AbelVM/maplibre-contourmap) - Renders contour lines from vector sources in MapLibre GL JS. [demo](https://abelvm.github.io/maplibre-contourmap/example/)
 - [maplibre-three-plugin](https://github.com/dvt3d/maplibre-three-plugin) - A bridge plugin that cleverly connects MapLibre GL JS with Three.js, enabling developers to implement 3D rendering and animation on maps.
 - [maplibre-gl-teritorio-cluster](https://github.com/teritorio/maplibre-gl-teritorio-cluster) - Clustering plugin implementing a MapLibre GL Layer with configurable HTML clustering renderer and support of events.
+- [maplibre-glass-css](https://github.com/corb555/maplibre-glass-css) - A glass UI theme for standard MapLibre controls.
 
 ## Layer Types Plugins
 
