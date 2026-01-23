@@ -209,6 +209,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Allmaps Maplibre](https://github.com/allmaps/allmaps/tree/main/packages/maplibre) - A package for displaying georeferenced [IIIF](https://iiif.io/) images by loading [Georeference Annotations](https://preview.iiif.io/api/georef/extension/georef/) and using WebGL to transform and overlay the images on their correct geographical position.
 - [mapbox-gl-arcgis-featureserver](https://github.com/rowanwins/mapbox-gl-arcgis-featureserver) - A library for retrieving features from an ArcGIS FeatureServer or MapServer. This library makes tiled requests rather than simply requesting every feature.
 - [mapbox-gl-esri-sources](https://github.com/frontiersi/mapbox-gl-esri-sources) - A library for making it easier to use Esri services in MapLibre GL JS. Supports Esri Map Services (dynamic & tiled), Esri Vector Tile Services & Esri Vector Basemap Styles.
+- [esri-gl](https://github.com/muimsd/esri-gl) - A module for making it easier to use Esri services in MapLibre GL JS, alternative to esri-leaflet for WebGL.
 - [mapbox-gl-flatgeobuf](https://github.com/rowanwins/mapbox-gl-flatgeobuf) - A library for retrieving features from FlatGeobuf file using a tiled approach. Compatible with MapLibre GL JS and Mapbox GL JS.
 - [mapbox-gl-ogc-feature-collection](https://github.com/mkeller3/mapbox-gl-ogc-feature-collection) - A small package for requesting geojson from an OGC Feature API endpoint to serve tiles in MapBox/MapLibre.
 - [maplibre-cog-protocol](https://github.com/geomatico/maplibre-cog-protocol) - Custom protocol to load Cloud Optimized GeoTIFFs (COG) in Maplibre GL JS.
@@ -225,6 +226,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-layer-groups](https://github.com/mapbox/mapbox-gl-layer-groups) - Manages layer groups.
 - [mapbox-gl-sync-move](https://github.com/mapbox/mapbox-gl-sync-move) - Syncs movement between multiple maps.
 - [mapbox-gl-utils](https://github.com/stevage/map-gl-utils) - Manage layers, sources, and properties with syntactic sugar and convenience functions.
+- [map-gl-offline](https://github.com/muimsd/map-gl-offline) - A TypeScript-compatible npm package for MapLibre GL JS that enables comprehensive offline storage and usage of vector/raster tiles.
 - [maplibregl-mapbox-request-transformer](https://github.com/rowanwins/maplibregl-mapbox-request-transformer) - This library provides a request transforming function enabling the consumption of MapboxGL Styles in MapLibreGL.
 - [maplibregl-theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Web app. [Theme customizer](https://maplibre-theme.pentatrion.com/)
 - [simplespec-to-gl-style](https://github.com/mapbox/simplespec-to-gl-style) - Converts GeoJSON styles with [simplestyle-spec](https://github.com/mapbox/simplestyle-spec/) to a MapLibre GL Style.
