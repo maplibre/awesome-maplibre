@@ -24,7 +24,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [Maputnik](https://github.com/maplibre/maputnik) - A visual style editor for MapLibre GL JS. Hosted at [maplibre.org/maputnik](https://maplibre.org/maputnik)
 - [Theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Js Web app. [demo](https://maplibre-theme.pentatrion.com/)
 - [MapLibre VSCode Extension](https://github.com/Kanahiro/maplibre-vscode-extension) - VSCode Extension for viewing/editing MapLibre Style.
-- [QGIS2VectorTiles](https://gallpeters.github.io/QGIS2VectorTiles/) - A QGIS plugin exporting the current project into a styled vector tile package including a style document, sprites and a MapLibre viewer.
+- [QGIS2VectorTiles](https://gallpeters.github.io/QGIS2VectorTiles/) - A QGIS plugin exporting the current project into a styled vector tile package including a style document, sprite and a MapLibre viewer.
 
 ### Font Glyph Generation
 
