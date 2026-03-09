@@ -205,6 +205,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-gl-teritorio-cluster](https://github.com/teritorio/maplibre-gl-teritorio-cluster) - Clustering plugin implementing a MapLibre GL Layer with configurable HTML clustering renderer and support of events.
 - [maplibre-glass-css](https://github.com/corb555/maplibre-glass-css) - A glass UI theme for standard MapLibre controls.
 - [maplibre-merge-protocol](https://github.com/indus/maplibre-merge-protocol) - A custom protocol for merging geometry with attributes from multiple tilesets in MapLibre. [demo](https://maplibre-merge-protocol.js.org/)
+- [backproj/maplibre-proj](https://github.com/willcohen/backproj) - Display MapLibre maps in any CRS supported by [PROJ](https://proj.org/), using [proj-wasm](https://github.com/willcohen/clj-proj) (PROJ transpiled to WebAssembly). [demo](https://willcohen.github.io/backproj/)
 
 ## Layer Types Plugins
 
