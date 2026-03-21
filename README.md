@@ -307,6 +307,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
 - [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
 - [MapLibre Storytelling](https://github.com/digidem/maplibre-storymap) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
+- [MGuide](https://mguide.app) - Interactive campus map for the University of Michigan with 354 buildings, real-time bus tracking (GTFS-RT), walking directions, and 6-language support.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive MapLibre-based geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai))
