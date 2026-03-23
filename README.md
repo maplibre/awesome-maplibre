@@ -260,6 +260,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [HERE](https://www.here.com/docs/bundle/vector-tile-api-developer-guide/page/README.html)
 - [**JawgMaps**](https://www.jawg.io/)
 - [Mapbox](https://www.mapbox.com/)
+- [MapMetrics GL / MapAtlas](https://mapatlas.eu) - Mapbox GL style-spec compatible mapping service with built-in MVT tiles, geocoding, routing, and search. [GitHub](https://github.com/MapMetrics/mapmetrics-gl)
 - [MapTiler](https://www.maptiler.com/)
 - [**Mierune**](https://www.mierune.co.jp/?lang=en)
 - [OpenFreeMap](https://openfreemap.org/)
