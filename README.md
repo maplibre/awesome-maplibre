@@ -332,3 +332,4 @@ are designated with a ✅, and hosted projects with a 💙.
 ## Demos / Examples
 
 - [Expo MapLibre native + web demo](https://github.com/Jaza/expo-maplibre-native-plus-web-demo) - Demo Expo app using [maplibre-react-native](https://github.com/maplibre/maplibre-react-native) for native, and falling back to [react-map-gl](https://github.com/visgl/react-map-gl) with [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) for web.
+- [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with GMPE intensity computation, infrastructure impact assessment, and real-time P/S wave propagation. Built with MapLibre GL JS 5 + deck.gl 9. [demo](https://namazue.dev)
