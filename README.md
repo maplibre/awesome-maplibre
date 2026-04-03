@@ -168,6 +168,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
 - [route-snapper](https://github.com/dabreegster/route_snapper) - Draw routes and areas snapped to roads.
 - [Terra Draw](https://www.github.com/JamesLMilner/terra-draw) - The library has a MapLibre GL JS adapter to provide drawing and geometry editing functionality to the map
+- [maplibre-gl-multiple-color-draw](https://github.com/kashishgadhiya/maplibre-gl-multiple-color-draw) - Draw lines, polygons, and freehand shapes with individual colors per feature. Includes React hook, TypeScript support, and GeoJSON export. [npm](https://www.npmjs.com/package/maplibre-gl-multiple-color-draw) · [demo](https://maplibre-gl-multiple-color-draw-dem.vercel.app/)
 - [maplibregl-minimap](https://github.com/JabSYsEmb/maplibregl-minimap) - Customizable minimap Control for maplibregl.
 - [maplibre-gl-style-flipper](https://github.com/geoglify/maplibre-gl-style-flipper) - A custom control to switch between different map styles in MapLibre GL JS.
 - [maplibre-pegman](https://github.com/rezw4n/maplibre-pegman) - Plugin that integrates Google Street View into any MapLibre map.
