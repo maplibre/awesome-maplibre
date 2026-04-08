@@ -310,6 +310,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
 - [MapLibre Storytelling](https://github.com/digidem/maplibre-storymap) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
+- [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with GMPE intensity computation, infrastructure impact assessment, and real-time P/S wave propagation. Built with MapLibre GL JS 5 + deck.gl 9. [demo](https://namazue.dev)
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive MapLibre-based geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai))
 - [Pumperly](https://pumperly.com) ([Code](https://github.com/GeiserX/pumperly)) - Open-source fuel price comparison and EV charging route planner covering 36 countries. Features route planning, station clustering, and price color scales. Self-hostable, GPL-3.0.
@@ -332,4 +333,3 @@ are designated with a ✅, and hosted projects with a 💙.
 ## Demos / Examples
 
 - [Expo MapLibre native + web demo](https://github.com/Jaza/expo-maplibre-native-plus-web-demo) - Demo Expo app using [maplibre-react-native](https://github.com/maplibre/maplibre-react-native) for native, and falling back to [react-map-gl](https://github.com/visgl/react-map-gl) with [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) for web.
-- [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with GMPE intensity computation, infrastructure impact assessment, and real-time P/S wave propagation. Built with MapLibre GL JS 5 + deck.gl 9. [demo](https://namazue.dev)
