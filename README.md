@@ -307,9 +307,10 @@ are designated with a ✅, and hosted projects with a 💙.
   Features interactive vector maps with location pins, time filters, and historical map overlays.<br>
   Migrated from Leaflet to MapLibre GL JS in the [v25.7.0 Release](https://github.com/gramps-project/gramps-web/releases/tag/v25.7.0) for performance reasons.
 - [Herb Atlas](https://herbatlas.fyi) ([Code](https://github.com/tinykite/herb-atlas)) - Collaborative project mapping medicinal herb farms with a focus on sustainable + regenerative practices.
-- [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel. Migrated to [MapLibre](https://github.com/IsraelHikingMap/Site/issues/1532).
+- [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel.
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
 - [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
+- [Mapeak](https://mapeak.com) - a world wide navigation app that supports open data by uploading images to wikimedia and data to OSM. It has the fastest known map updates with offline maps which are updated on a daily bases and online maps that updates 3 times a day. It has planning capbilities, search and everything you need to enjoy the outdoor.
 - [MapLibre Storytelling](https://github.com/digidem/maplibre-storymap) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
 - [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with seismic intensity modeling, infrastructure impact assessment, and real-time P/S wave propagation. Built with MapLibre GL JS 5 + deck.gl 9. [demo](https://namazue.dev)
