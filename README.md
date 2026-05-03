@@ -300,6 +300,7 @@ are designated with a ✅, and hosted projects with a 💙.
 
 - [Ace](https://bdlucas1.github.io/ace) - Free on-course golf scorecard app uses OpenStreetMap data to provide course diagrams, distances, and elevations. Runs entirely in the browser on your mobile phone using MapLibre GL JS.
 - [Cartes](https://cartes.app) — French alternative to Google Maps based on a fully open source stack
+- [Climate Action Navigator](https://climate-action.heigit.org/) - Interactive dashboard that translates high-resolution geospatial data into neighborhood-level insights for targeted urban climate action.
 - [Famxplor](https://famxplor.com/), interactive world map of activities for family vacations, powered by MapLibre with [Svelte MapLibre](https://github.com/dimfeld/svelte-maplibre)
 - [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
 - [Gramps Web](https://www.grampsweb.org/) ([Code](https://github.com/gramps-project/gramps-web)) - Modern web app for collaborative genealogy and family history research.<br>
