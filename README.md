@@ -307,6 +307,7 @@ are designated with a ✅, and hosted projects with a 💙.
   Features interactive vector maps with location pins, time filters, and historical map overlays.<br>
   Migrated from Leaflet to MapLibre GL JS in the [v25.7.0 Release](https://github.com/gramps-project/gramps-web/releases/tag/v25.7.0) for performance reasons.
 - [Herb Atlas](https://herbatlas.fyi) ([Code](https://github.com/tinykite/herb-atlas)) - Collaborative project mapping medicinal herb farms with a focus on sustainable + regenerative practices.
+- [Hory.app](https://hory.app) — Web/iOS/Android app for logging mountain summit visits, backed by a database of 350,000+ mountains worldwide. Uses MapLibre GL JS for online and offline maps.
 - [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel.
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
 - [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
