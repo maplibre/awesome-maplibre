@@ -231,6 +231,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-layer-groups](https://github.com/mapbox/mapbox-gl-layer-groups) - Manages layer groups.
 - [mapbox-gl-sync-move](https://github.com/mapbox/mapbox-gl-sync-move) - Syncs movement between multiple maps.
 - [mapbox-gl-utils](https://github.com/stevage/map-gl-utils) - Manage layers, sources, and properties with syntactic sugar and convenience functions.
+- [Styl](https://github.com/navidnabavi/styl) - A fast, opinionated linter, validator, and formatter for Mapbox GL and MapLibre GL style JSON files, written in Rust
 - [map-gl-offline](https://github.com/muimsd/map-gl-offline) - A TypeScript-compatible npm package for MapLibre GL JS that enables comprehensive offline storage and usage of vector/raster tiles.
 - [maplibregl-mapbox-request-transformer](https://github.com/rowanwins/maplibregl-mapbox-request-transformer) - This library provides a request transforming function enabling the consumption of MapboxGL Styles in MapLibreGL.
 - [maplibregl-theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Web app. [Theme customizer](https://maplibre-theme.pentatrion.com/)
