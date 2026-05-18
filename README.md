@@ -314,6 +314,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
 - [Mapeak](https://mapeak.com) - a world wide navigation app that supports open data by uploading images to wikimedia and data to OSM. It has the fastest known map updates with offline maps which are updated on a daily bases and online maps that updates 3 times a day. It has planning capabilities, search and everything you need to enjoy the outdoors!
 - [MapLibre Storytelling](https://github.com/digidem/maplibre-storymap) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
+- [Mappi Studio](https://mappi.studio) - An online map animation creator. Create cinematic travel routes, fly-over animations, and 4K map videos in your browser.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
 - [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with seismic intensity modeling, infrastructure impact assessment, and real-time P/S wave propagation. Built with MapLibre GL JS 5 + deck.gl 9. [demo](https://namazue.dev)
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
