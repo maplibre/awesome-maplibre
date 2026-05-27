@@ -44,6 +44,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [MapLibre Navigation SDK for Android](https://github.com/maplibre/maplibre-navigation-android) - Turn-by-turn navigation built on MapLibre; a FOSS fork of Mapbox Navigation
 - 💙 [MapLibre GL Directions](https://github.com/maplibre/maplibre-gl-directions) - A plugin to show routing directions on a MapLibre GL JS map
 - [Ferrostar](https://github.com/stadiamaps/ferrostar) - A turn-by-turn navigation SDK built from the ground up using MapLibre on iOS, Android, and the web.
+- [OMT Router](https://abelvm.github.io/omt-router/) - Fast, accurate client-side routing engine for OpenMapTiles
 
 ## Bindings
 
