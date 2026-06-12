@@ -264,6 +264,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Geoapify](https://www.geoapify.com/map-tiles/)
 - [HERE](https://www.here.com/docs/bundle/vector-tile-api-developer-guide/page/README.html)
 - [**JawgMaps**](https://www.jawg.io/)
+- [LatLng](https://www.latlng.work/free-maps-api/) - MapLibre-compatible OSM vector tiles, map styles, and static maps.
 - [Mapbox](https://www.mapbox.com/)
 - [MapMetrics GL / MapAtlas](https://mapatlas.eu) - Mapbox GL style-spec compatible mapping service with built-in MVT tiles, geocoding, routing, and search. [GitHub](https://github.com/MapMetrics/mapmetrics-gl)
 - [MapTiler](https://www.maptiler.com/)
