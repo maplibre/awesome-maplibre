@@ -330,6 +330,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Paddling Spots](https://paddlingspots.com) - Platform to share paddle spots, find rentals and explore locations on the map. Uses MapLibre and ngx-maplibre-gl.
 - [Peripleo](https://github.com/britishlibrary/peripleo) - Reusable web map interface with configurable markers, filters, search and more. Open-source and runs on GH pages, all you need is a spreadsheet.
 - [Queering the Map](https://www.queeringthemap.com) ([Code](https://github.com/radical-data/queering-the-map)) - A crowd-sourced platform for anonymously pinning queer experiences on a global map.
+- [Room TBA](https://room-tba.uplbtools.me) ([Code](https://github.com/uplbtools/room-tba)) - Open-source UPLB campus room finder with MapLibre GL JS, class schedules, jeepney routes, and offline PWA sync via PGlite.
 - [SharpMap](https://sharpmap.app/info), ultra-accurate 2D and 3D topographic mountain maps powered by MapLibre.
 - [StreetComplete](https://streetcomplete.app) — Easy to use mobile OpenStreetMap editor used for mapping in the field
 - [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
