@@ -214,6 +214,7 @@ are designated with a ✅, and hosted projects with a 💙.
 ## Layer Types Plugins
 
 - [Allmaps Maplibre](https://github.com/allmaps/allmaps/tree/main/packages/maplibre) - A package for displaying georeferenced [IIIF](https://iiif.io/) images by loading [Georeference Annotations](https://preview.iiif.io/api/georef/extension/georef/) and using WebGL to transform and overlay the images on their correct geographical position.
+- [mapbox-exif-layer](https://github.com/zwang-geog/mapbox-exif-layer) - Custom layers for wind particles from JPEG or GeoTIFF, smooth non-blocky weather display, and small whole-file GeoTIFF preview; MapLibre globe supported. [demo](https://www.mapbox-exif-layer.com/maplibre-gl-js-globe-projection-demo/index.html)
 - [mapbox-gl-arcgis-featureserver](https://github.com/rowanwins/mapbox-gl-arcgis-featureserver) - A library for retrieving features from an ArcGIS FeatureServer or MapServer. This library makes tiled requests rather than simply requesting every feature.
 - [mapbox-gl-esri-sources](https://github.com/frontiersi/mapbox-gl-esri-sources) - A library for making it easier to use Esri services in MapLibre GL JS. Supports Esri Map Services (dynamic & tiled), Esri Vector Tile Services & Esri Vector Basemap Styles.
 - [esri-gl](https://github.com/muimsd/esri-gl) - A module for making it easier to use Esri services in MapLibre GL JS, alternative to esri-leaflet for WebGL.
