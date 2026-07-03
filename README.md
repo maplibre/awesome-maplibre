@@ -330,6 +330,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [OpenStreetMap Americana Style](https://github.com/osm-americana/openstreetmap-americana#openstreetmap-americana-style) - A quintessentially American map style, powered by [MapLibre](https://github.com/osm-americana/openstreetmap-americana#technology-stack)
 - [Paddling Spots](https://paddlingspots.com) - Platform to share paddle spots, find rentals and explore locations on the map. Uses MapLibre and ngx-maplibre-gl.
 - [Peripleo](https://github.com/britishlibrary/peripleo) - Reusable web map interface with configurable markers, filters, search and more. Open-source and runs on GH pages, all you need is a spreadsheet.
+- Plantaube (https://plantaube.com) – A free Webtool to create custom urban maps and site plans out of OSM-data. Optimized for Urban Planners and Architects.
 - [Queering the Map](https://www.queeringthemap.com) ([Code](https://github.com/radical-data/queering-the-map)) - A crowd-sourced platform for anonymously pinning queer experiences on a global map.
 - [Room TBA](https://room-tba.uplbtools.me) ([Code](https://github.com/uplbtools/room-tba)) - Open-source campus room finder for a Philippine university with MapLibre GL JS, class schedules, transit routes, and offline PWA sync via PGlite.
 - [SharpMap](https://sharpmap.app/info), ultra-accurate 2D and 3D topographic mountain maps powered by MapLibre.
