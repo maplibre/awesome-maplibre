@@ -326,6 +326,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with seismic intensity modeling, infrastructure impact assessment, and real-time P/S wave propagation. Built with MapLibre GL JS 5 + deck.gl 9. [demo](https://namazue.dev)
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive MapLibre-based geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai))
+- [PlaySG](https://playsg.sg) - Map of every playground in Singapore (~2,300) for parents - shade, water play, age fit and ratings. MapLibre GL JS with weekly-refreshed OpenStreetMap data.
 - [Pumperly](https://pumperly.com) ([Code](https://github.com/GeiserX/pumperly)) - Open-source fuel price comparison and EV charging route planner covering 36 countries. Features route planning, station clustering, and price color scales. Self-hostable, GPL-3.0.
 - NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
 - [OpenHistoricalMap](https://www.openhistoricalmap.org/) – collaborative project to map the history of the world in detail, powered by MapLibre with maplibre-gl-leaflet
