@@ -25,7 +25,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - [MapPoster](https://mapposter.xyz/) - A custom city map editor that uses MapLibre GL JS for artistic themes.
 - [Theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Js Web app. [demo](https://maplibre-theme.pentatrion.com/)
 - [MapLibre VSCode Extension](https://github.com/Kanahiro/maplibre-vscode-extension) - VSCode Extension for viewing/editing MapLibre Style.
-- [QGIS2VectorTiles](https://gallpeters.github.io/QGIS2VectorTiles/) - A QGIS plugin exporting the current project into a styled vector tile package including a style document, sprite and a MapLibre viewer.
 
 ### Font Glyph Generation
 
@@ -303,6 +302,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Mapforge](https://mapforge.org) - Open Source map vector layer editor with live collaboration and sharing. Uses MapLibre GL JS.
 - [tilefeed](https://github.com/muimsd/tilefeed) - PostGIS vector tile pipeline — generates MBTiles via Tippecanoe with incremental updates via PostgreSQL LISTEN/NOTIFY.
 - [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) - An interactive sandbox to tune vector tiles.
+- [QGIS2VectorTiles](https://gallpeters.github.io/QGIS2VectorTiles/) - An end-to-end QGIS plugin that exports styled projects into a complete, efficient MapLibre package (tiles, style sheets, sprites, glyphs, and a ready-to-use web viewer) with tight data-style coupling, guaranteeing the output contains only the required data and styling.
 
 ## Users
 
