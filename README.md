@@ -7,7 +7,6 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 MapLibre [Core projects](https://github.com/maplibre/maplibre/blob/main/PROJECT_TIERS.md)
 are designated with a ✅, and hosted projects with a 💙.
 
-
 ## Map Rendering
 
 - ✅ [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) - A map SDK for rendering maps on the Web.
@@ -143,8 +142,8 @@ are designated with a ✅, and hosted projects with a 💙.
 
 <!-- [JAVASCRIPT-BINDINGS]:END -->
 
-
 <!-- [JAVASCRIPT-PLUGINS]:BEGIN -->
+
 ## User Interface Plugins
 
 - 💙 [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
@@ -173,12 +172,13 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibregl-minimap](https://github.com/JabSYsEmb/maplibregl-minimap) - Customizable minimap Control for maplibregl.
 - [maplibre-gl-style-flipper](https://github.com/geoglify/maplibre-gl-style-flipper) - A custom control to switch between different map styles in MapLibre GL JS.
 - [maplibre-pegman](https://github.com/rezw4n/maplibre-pegman) - Plugin that integrates Google Street View into any MapLibre map.
-- [maplibre-transition](https://github.com/popkinj/maplibre-transition) - A plugin for smooth transitions between map styles. [demo](https://observablehq.com/d/b9a97acdf712a77b)
+- [maplibre-transition](https://github.com/popkinj/maplibre-transition) - A plugin for smooth transitions between map styles. [demo](https://popkinj.github.io/maplibre-transition/)
 - [maplibre-gl-layers-control](https://github.com/mvt-proj/maplibre-gl-layers-control) - It allows to show/hide layers, opacity control and integration with legends.
 - [maplibre-label-callout](https://github.com/leoneljdias/maplibre-label-callout) - Labels with connector lines for MapLibre GL JS. [demo](https://leoneljdias.github.io/maplibre-label-callout/demo/) · [npm](https://www.npmjs.com/package/@leoneljdias/maplibre-label-callout)
 - [maplibre-ui-translations](https://github.com/spwoodcock/maplibre-ui-translations) - Community translations for the default MapLibre UI.
 
 ## Geocoding & Search Plugins
+
 - [mapbox.photon](https://github.com/watergis/mapbox.photon) - Adds a control to provide a geocoding feature from Photon API.
 - 💙 [maplibre-gl-geocoder](https://github.com/maplibre/maplibre-gl-geocoder) - Adds a geocoder control.
 - [maplibre-search-box](https://github.com/stadiamaps/maplibre-search-box) - Adds a control for searching for places using Stadia Maps.
@@ -253,7 +253,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-gl-inspect](https://github.com/acalcutt/maplibre-gl-inspect) - Adds an inspect control to view vector source features and properties.
 
 <!-- [JAVASCRIPT-PLUGINS]:END -->
-
 
 ## Map/Tile Providers
 
