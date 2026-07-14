@@ -342,6 +342,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [StreetComplete](https://streetcomplete.app) — Easy to use mobile OpenStreetMap editor used for mapping in the field
 - [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
 - [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
+- [Trainrouter](https://trainrouter.com) - Interactive atlas of 767 notable train routes across 118 countries, colour-coded by type on OpenFreeMap tiles. Built with MapLibre GL JS; free rail dataset as GeoJSON/CSV.
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
 - [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for decentralized coordination and real-life networking.<br>
   Built with MapLibre GL JS, it enables communities to create custom map instances with interactive layers for managing members, activities, and resources.
