@@ -348,6 +348,7 @@ are designated with a ✅, and hosted projects with a 💙.
   Built with MapLibre GL JS, it enables communities to create custom map instances with interactive layers for managing members, activities, and resources.
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
 - [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
+- [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (hydrogeological risk, real estate prices, demographics) into a per-parcel profile covering 85 million cadastral parcels, with a free REST API. Uses MapLibre GL JS.
 
 ## Demos / Examples
 
