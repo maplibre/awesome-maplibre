@@ -166,6 +166,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-gl-map-to-image](https://github.com/Willjfield/maplibre-gl-map-to-image) - Creates static image data from a map and sets it as the src of a target html image element. Similar to maplibre-gl-export but intended for use cases where you are embedding the image in a document rather than printing full page.
 - [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 - [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity) - A plugin to switch layer like Leaflet.control.layers, and update opacities. [demo](https://mug-jp.github.io/maplibre-gl-opacity/)
+- [maplibre-gl-photosphere](https://github.com/clement-igonet/maplibre-plugin-photosphere) - A plugin to enter an immersive 360° photosphere anchored at a geographic point, look around, and exit back to the map. [demo](https://clement-igonet.github.io/maplibre-plugin-photosphere/)
 - [maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - A plugin to easily animate temporal data. [demo](https://mug-jp.github.io/maplibre-gl-temporal-control/raster.html)
 - [route-snapper](https://github.com/dabreegster/route_snapper) - Draw routes and areas snapped to roads.
 - [Terra Draw](https://www.github.com/JamesLMilner/terra-draw) - The library has a MapLibre GL JS adapter to provide drawing and geometry editing functionality to the map
