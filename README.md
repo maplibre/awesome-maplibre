@@ -300,6 +300,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Ultra](https://overpass-ultra.us/) - A web-based IDE for making maps with MapLibre, supporting a variety of query & file types such as Overpass, ohsome, GeoJSON, KML, and more. [docs](https://overpass-ultra.us/docs)
 - [Libre-studio](https://github.com/BleenIT/libre-studio) - A web-based management layer for Maplibre Martin, allowing the management of map sources, sprites and font glyphs, for ready-to-use custom maps.
 - [Mapforge](https://mapforge.org) - Open Source map vector layer editor with live collaboration and sharing. Uses MapLibre GL JS.
+- [Planisfy](https://github.com/giseity/planisfy) - Self-hostable platform layer for MapLibre workflows, including styles, vector tiles, API keys, usage tracking, jobs, routing/geocoding integrations, and map service operations.
 - [tilefeed](https://github.com/muimsd/tilefeed) - PostGIS vector tile pipeline — generates MBTiles via Tippecanoe with incremental updates via PostgreSQL LISTEN/NOTIFY.
 - [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) - An interactive sandbox to tune vector tiles.
 - [QGIS2VectorTiles](https://gallpeters.github.io/QGIS2VectorTiles/) - An end-to-end QGIS plugin that exports styled projects into a complete, efficient MapLibre package (tiles, style sheets, sprites, glyphs, and a ready-to-use web viewer) with tight data-style coupling, guaranteeing the output contains only the required data and styling.
