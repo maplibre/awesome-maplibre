@@ -7,7 +7,6 @@ A collection of awesome things that use or support [MapLibre](https://maplibre.o
 MapLibre [Core projects](https://github.com/maplibre/maplibre/blob/main/PROJECT_TIERS.md)
 are designated with a ✅, and hosted projects with a 💙.
 
-
 ## Map Rendering
 
 - ✅ [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) - A map SDK for rendering maps on the Web.
@@ -143,8 +142,8 @@ are designated with a ✅, and hosted projects with a 💙.
 
 <!-- [JAVASCRIPT-BINDINGS]:END -->
 
-
 <!-- [JAVASCRIPT-PLUGINS]:BEGIN -->
+
 ## User Interface Plugins
 
 - 💙 [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
@@ -174,12 +173,13 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibregl-minimap](https://github.com/JabSYsEmb/maplibregl-minimap) - Customizable minimap Control for maplibregl.
 - [maplibre-gl-style-flipper](https://github.com/geoglify/maplibre-gl-style-flipper) - A custom control to switch between different map styles in MapLibre GL JS.
 - [maplibre-pegman](https://github.com/rezw4n/maplibre-pegman) - Plugin that integrates Google Street View into any MapLibre map.
-- [maplibre-transition](https://github.com/popkinj/maplibre-transition) - A plugin for smooth transitions between map styles. [demo](https://observablehq.com/d/b9a97acdf712a77b)
+- [maplibre-transition](https://github.com/popkinj/maplibre-transition) - A plugin for smooth transitions between map styles. [demo](https://popkinj.github.io/maplibre-transition/)
 - [maplibre-gl-layers-control](https://github.com/mvt-proj/maplibre-gl-layers-control) - It allows to show/hide layers, opacity control and integration with legends.
 - [maplibre-label-callout](https://github.com/leoneljdias/maplibre-label-callout) - Labels with connector lines for MapLibre GL JS. [demo](https://leoneljdias.github.io/maplibre-label-callout/demo/) · [npm](https://www.npmjs.com/package/@leoneljdias/maplibre-label-callout)
 - [maplibre-ui-translations](https://github.com/spwoodcock/maplibre-ui-translations) - Community translations for the default MapLibre UI.
 
 ## Geocoding & Search Plugins
+
 - [mapbox.photon](https://github.com/watergis/mapbox.photon) - Adds a control to provide a geocoding feature from Photon API.
 - 💙 [maplibre-gl-geocoder](https://github.com/maplibre/maplibre-gl-geocoder) - Adds a geocoder control.
 - [maplibre-search-box](https://github.com/stadiamaps/maplibre-search-box) - Adds a control for searching for places using Stadia Maps.
@@ -255,7 +255,6 @@ are designated with a ✅, and hosted projects with a 💙.
 
 <!-- [JAVASCRIPT-PLUGINS]:END -->
 
-
 ## Map/Tile Providers
 
 - 💙 [MapLibre Demotiles](https://github.com/maplibre/demotiles) - A simple, XYZ MVT tileset for demonstration projects.
@@ -301,6 +300,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Ultra](https://overpass-ultra.us/) - A web-based IDE for making maps with MapLibre, supporting a variety of query & file types such as Overpass, ohsome, GeoJSON, KML, and more. [docs](https://overpass-ultra.us/docs)
 - [Libre-studio](https://github.com/BleenIT/libre-studio) - A web-based management layer for Maplibre Martin, allowing the management of map sources, sprites and font glyphs, for ready-to-use custom maps.
 - [Mapforge](https://mapforge.org) - Open Source map vector layer editor with live collaboration and sharing. Uses MapLibre GL JS.
+- [Planisfy](https://github.com/giseity/planisfy) - Self-hostable platform layer for MapLibre workflows, including styles, vector tiles, API keys, usage tracking, jobs, routing/geocoding integrations, and map service operations.
 - [tilefeed](https://github.com/muimsd/tilefeed) - PostGIS vector tile pipeline — generates MBTiles via Tippecanoe with incremental updates via PostgreSQL LISTEN/NOTIFY.
 - [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) - An interactive sandbox to tune vector tiles.
 - [QGIS2VectorTiles](https://gallpeters.github.io/QGIS2VectorTiles/) - An end-to-end QGIS plugin that exports styled projects into a complete, efficient MapLibre package (tiles, style sheets, sprites, glyphs, and a ready-to-use web viewer) with tight data-style coupling, guaranteeing the output contains only the required data and styling.
@@ -349,6 +349,7 @@ are designated with a ✅, and hosted projects with a 💙.
   Built with MapLibre GL JS, it enables communities to create custom map instances with interactive layers for managing members, activities, and resources.
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
 - [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
+- [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (hydrogeological risk, real estate prices, demographics) into a per-parcel profile covering 85 million cadastral parcels, with a free REST API. Uses MapLibre GL JS.
 
 ## Demos / Examples
 
