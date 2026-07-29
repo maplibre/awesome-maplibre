@@ -311,6 +311,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Castlemap](https://thecastlemap.com) - Interactive night-map of 2,400 castles, fortresses and palaces across 131 countries, generated from Wikidata. Built with MapLibre GL JS on OpenFreeMap tiles; free castle dataset as GeoJSON/CSV.
 - [Climate Action Navigator](https://climate-action.heigit.org/) - Interactive dashboard that translates high-resolution geospatial data into neighborhood-level insights for targeted urban climate action.
 - [Famxplor](https://famxplor.com/), interactive world map of activities for family vacations, powered by MapLibre with [Svelte MapLibre](https://github.com/dimfeld/svelte-maplibre)
+- [FilmMap](https://thefilmmap.com) - Interactive night-map of 2,521 real filming locations across 94 countries, joined to the 4,446 films, series and video games recorded at them. Every pin is a Wikidata "filming location" statement, so each links back to its source. Built with MapLibre GL JS on OpenFreeMap tiles.
 - [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
 - [Gramps Web](https://www.grampsweb.org/) ([Code](https://github.com/gramps-project/gramps-web)) - Modern web app for collaborative genealogy and family history research.<br>
   Features interactive vector maps with location pins, time filters, and historical map overlays.<br>
