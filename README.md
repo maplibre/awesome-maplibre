@@ -230,6 +230,7 @@ are designated with a ✅, and hosted projects with a 💙.
 
 ## Utility Libraries
 
+- [@honua/sdk-js](https://github.com/honua-io/honua-sdk-js) - Typed multi-protocol data client for MapLibre: query ArcGIS/Esri GeoServices, OGC API, WFS, WMS, OData, and GeoParquet services and mount results as MapLibre sources, plus an ArcGIS-to-MapLibre migration codemod. [demo](https://honua-io.github.io/honua-sdk-js/guides/quickstart.html)
 - [expression-jamsession](https://github.com/mapbox/expression-jamsession/) - Converts [Mapbox Studio formulas](https://www.mapbox.com/help/studio-manual-styles/#use-a-formula) into [expressions](https://maplibre.org/maplibre-style-spec/expressions/).
 - [mapbox-choropleth](https://github.com/stevage/mapbox-choropleth) - Create a choropleth layer from a CSV source and a geometry source.
 - [mapbox-gl-layer-groups](https://github.com/mapbox/mapbox-gl-layer-groups) - Manages layer groups.
