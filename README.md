@@ -305,6 +305,8 @@ are designated with a ✅, and hosted projects with a 💙.
 - [tilefeed](https://github.com/muimsd/tilefeed) - PostGIS vector tile pipeline — generates MBTiles via Tippecanoe with incremental updates via PostgreSQL LISTEN/NOTIFY.
 - [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) - An interactive sandbox to tune vector tiles.
 - [QGIS2VectorTiles](https://gallpeters.github.io/QGIS2VectorTiles/) - An end-to-end QGIS plugin that exports styled projects into a complete, efficient MapLibre package (tiles, style sheets, sprites, glyphs, and a ready-to-use web viewer) with tight data-style coupling, guaranteeing the output contains only the required data and styling.
+- [MapLibre MCP Server](https://github.com/CodeStorm-Hub/maplibre_mcp) - All-in-One Model Context Protocol (MCP) server for MapLibre WebGL, Native C++, Flutter widgets, PMTiles archives, and Martin Rust tile servers.
+
 
 ## Users
 
