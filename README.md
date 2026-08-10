@@ -270,8 +270,8 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Mapbox](https://www.mapbox.com/)
 - [MapMetrics GL / MapAtlas](https://mapatlas.eu) - Mapbox GL style-spec compatible mapping service with built-in MVT tiles, geocoding, routing, and search. [GitHub](https://github.com/MapMetrics/mapmetrics-gl)
 - [MapTiler](https://www.maptiler.com/)
-- [Mapoolkit.com](https://www.maptoolkit.com/) - Maptoolkit Enterprise
-- [Mapoolkit.org](https://www.maptoolkit.org/) - Maptoolkit Community License, free vector tile provider
+- [Maptoolkit.com](https://www.maptoolkit.com/) - Maptoolkit Enterprise
+- [Maptoolkit.org](https://www.maptoolkit.org/) - Maptoolkit Community License, free vector tile provider
 - [Mercator](https://mercator.blue/) - Gridded earth data (weather, ocean, air quality, elevation) as value-encoded Web Mercator tiles, with an open-source MapLibre SDK for colormapped rasters, wind and current streamlines, arrows and contours.
 - [**Mierune**](https://www.mierune.co.jp/?lang=en)
 - [OpenFreeMap](https://openfreemap.org/)
