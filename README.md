@@ -277,6 +277,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [OpenFreeMap](https://openfreemap.org/)
 - [OSM Americana Community Vector Tile Server](https://tile.ourmap.us/)
 - [Protomaps](https://protomaps.com/)
+- [Seamap](https://openwaters.io/charts/seamap) - Open source nautical chart tiles and MapLibre style, rendered weekly from OpenStreetMap seamark data.
 - [Seascape](https://openwaters.io/charts/seascape) - Open source global bathymetry tiles with a ready-made nautical style.
 - [Stadia Maps](https://stadiamaps.com/)
 - [TomTom](https://www.tomtom.com/products/maps/)
