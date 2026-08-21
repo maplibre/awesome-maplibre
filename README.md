@@ -270,6 +270,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [LatLng](https://www.latlng.work/free-maps-api/) - MapLibre-compatible OSM vector tiles, map styles, and static maps.
 - [Mapbox](https://www.mapbox.com/)
 - [MapMetrics GL / MapAtlas](https://mapatlas.eu) - Mapbox GL style-spec compatible mapping service with built-in MVT tiles, geocoding, routing, and search. [GitHub](https://github.com/MapMetrics/mapmetrics-gl)
+- [Mapterhorn](https://github.com/mapterhorn/mapterhorn) - Free, open, regularly-rebuilt global elevation (Terrarium-encoded) tile source.
 - [MapTiler](https://www.maptiler.com/)
 - [Maptoolkit.com](https://www.maptoolkit.com/) - Maptoolkit Enterprise
 - [Maptoolkit.org](https://www.maptoolkit.org/) - Maptoolkit Community License, free vector tile provider
@@ -306,6 +307,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Libre-studio](https://github.com/BleenIT/libre-studio) - A web-based management layer for Maplibre Martin, allowing the management of map sources, sprites and font glyphs, for ready-to-use custom maps.
 - [Mapforge](https://mapforge.org) - Open Source map vector layer editor with live collaboration and sharing. Uses MapLibre GL JS.
 - [Planisfy](https://github.com/giseity/planisfy) - Self-hostable platform layer for MapLibre workflows, including styles, vector tiles, API keys, usage tracking, jobs, routing/geocoding integrations, and map service operations.
+- [terrain-viewer](https://terrain-viewer.iconem.com/) - Explore and compare terrain DTM (TMS, remote/local COGs etc) with interactive hillshade, color-relief, contours, basemap and terrain analysis (slope, curvature, TPI, TRI, roughness etc) and relief visualization (Sky View Factor, openness, Local Relief Model).
 - [tilefeed](https://github.com/muimsd/tilefeed) - PostGIS vector tile pipeline — generates MBTiles via Tippecanoe with incremental updates via PostgreSQL LISTEN/NOTIFY.
 - [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) - An interactive sandbox to tune vector tiles.
 - [QGIS2VectorTiles](https://gallpeters.github.io/QGIS2VectorTiles/) - An end-to-end QGIS plugin that exports styled projects into a complete, efficient MapLibre package (tiles, style sheets, sprites, glyphs, and a ready-to-use web viewer) with tight data-style coupling, guaranteeing the output contains only the required data and styling.
