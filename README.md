@@ -205,6 +205,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-gl-vector-text-protocol](https://github.com/jimmyrocks/maplibre-gl-vector-text-protocol) - Supports `CSV`, `TSV`, `Topojson`, `KML`, `GPX`, and `TCX` formats using the addProtocol feature.
 - [geogrid-maplibre-gl](https://github.com/falseinput/geogrid-maplibre-gl) - Renders customizable graticule (geographic grid).
 - [maplibre-gleo](https://gitlab.com/IvanSanchez/maplibre-gleo) - Adds symbols using the "gleo" WebGL map rendering library.
+- [maplibre-image-plugins](https://github.com/lucaswoj/maplibre-image-plugins) - Animated icons from GIF, animated WebP, APNG, or AVIF files, plus a pulsing location dot, rendered on the GPU via `StyleImageWebGLData`. [demo](https://lucaswoj.github.io/maplibre-image-plugins/)
 - [maplibre-contourmap](https://github.com/AbelVM/maplibre-contourmap) - Renders contour lines from vector sources in MapLibre GL JS. [demo](https://abelvm.github.io/maplibre-contourmap/example/)
 - [maplibre-three-plugin](https://github.com/dvt3d/maplibre-three-plugin) - A bridge plugin that cleverly connects MapLibre GL JS with Three.js, enabling developers to implement 3D rendering and animation on maps.
 - [maplibre-gl-teritorio-cluster](https://github.com/teritorio/maplibre-gl-teritorio-cluster) - Clustering plugin implementing a MapLibre GL Layer with configurable HTML clustering renderer and support of events.
