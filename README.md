@@ -230,6 +230,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 - [PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/main/js) - A library that uses addProtocol to read PMTIles. a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
 - [@naivemap/maplibre-gl-image-layer](https://www.naivemap.com/map-gl-layers/api/maplibre-gl-image-layer/) - A versatile layer for displaying georeferenced images with various projections (using proj4js) on the map.
+- [veritiles](https://github.com/guillaumemichel/veritiles) - Verified [PMTiles](https://github.com/protomaps/PMTiles) from untrusted static hosting [demo](https://guillaumemichel.github.io/ipfs-pmtiles-demo/)
 
 ## Utility Libraries
 
@@ -339,6 +340,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Mappi Studio](https://mappi.studio) - An online map animation creator. Create cinematic travel routes, fly-over animations, and 4K map videos in your browser.
 - [MerryMap](https://merrymap.co) - Crowd-sourced map of neighborhood Christmas-light displays across ten US metros, with a browsable city guide per metro. Built with MapLibre GL JS on OpenFreeMap tiles, runtime-restyled dark for night viewing.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
+- [MTL Explorer](https://github.com/mindalyze-com/mtl-explorer) ([demo](https://mtl-demo.mindalyze.com/mtl/)) - A self-hosted GPS track archive that uses MapLibre GL JS for 2D and 3D map exploration, activity replay, track analysis, and route planning.
 - [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with seismic intensity modeling, infrastructure impact assessment, and real-time P/S wave propagation. Built with MapLibre GL JS 5 + deck.gl 9. [demo](https://namazue.dev)
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive MapLibre-based geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai))
