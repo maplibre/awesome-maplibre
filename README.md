@@ -229,6 +229,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 - [PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/main/js) - A library that uses addProtocol to read PMTIles. a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
 - [@naivemap/maplibre-gl-image-layer](https://www.naivemap.com/map-gl-layers/api/maplibre-gl-image-layer/) - A versatile layer for displaying georeferenced images with various projections (using proj4js) on the map.
+- [veritiles](https://github.com/guillaumemichel/veritiles) - Verified [PMTiles](https://github.com/protomaps/PMTiles) from untrusted static hosting [demo](https://guillaumemichel.github.io/ipfs-pmtiles-demo/)
 
 ## Utility Libraries
 
