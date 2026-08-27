@@ -17,6 +17,7 @@ are designated with a ✅, and hosted projects with a 💙.
 ## Map Styling
 
 - ✅ [MapLibre style specification](https://github.com/maplibre/maplibre-style-spec) - The MapLibre Style Specification, a JSON-based format for styling maps.
+- [Expressive](github.com/falseinput/expressive) - A DSL that compiles to MapLibre style JSON, with variables, color functions, zoom curves and imports. [demo](https://falseinput.github.io/expressive/)
 
 ### Style Editors
 
