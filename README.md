@@ -42,6 +42,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [MapLibre Navigation SDK for iOS](https://github.com/maplibre/maplibre-navigation-ios) - Turn-by-turn navigation built on MapLibre; a FOSS fork of Mapbox Navigation
 - 💙 [MapLibre Navigation SDK for Android](https://github.com/maplibre/maplibre-navigation-android) - Turn-by-turn navigation built on MapLibre; a FOSS fork of Mapbox Navigation
 - 💙 [MapLibre GL Directions](https://github.com/maplibre/maplibre-gl-directions) - A plugin to show routing directions on a MapLibre GL JS map
+- [any-routing](https://marucjmar.github.io/any-routing/) - A modular plugin for calculating routes.
 - [Ferrostar](https://github.com/stadiamaps/ferrostar) - A turn-by-turn navigation SDK built from the ground up using MapLibre on iOS, Android, and the web.
 - [OMT Router](https://abelvm.github.io/omt-router/) - Fast, accurate client-side routing engine for OpenMapTiles
 
@@ -148,7 +149,6 @@ are designated with a ✅, and hosted projects with a 💙.
 ## User Interface Plugins
 
 - 💙 [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
-- [any-routing](https://github.com/marucjmar/any-routing) - A modular plugin for calculating routes.
 - [Gauge Legend](https://github.com/AbelVM/gauge_legend) - Dynamic gauge legend for MapLibre GL JS
 - [mapbox-gl-controls](https://github.com/bravecow/mapbox-gl-controls) - Adds controls for a ruler, style inspector, localization, and style switcher.
 - [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) - Adds support for drawing and editing features on maps.
