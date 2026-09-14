@@ -22,6 +22,7 @@ are designated with a ✅, and hosted projects with a 💙.
 ### Style Editors
 
 - 💙 [Maputnik](https://github.com/maplibre/maputnik) - A visual style editor for MapLibre GL JS. Hosted at [maplibre.org/maputnik](https://maplibre.org/maputnik)
+- [Maputnik inline](https://github.com/marucjmar/maputnik-inline-plugin) - Inline [Maputnik](https://github.com/maplibre/maputnik) style editor control.
 - [MapPoster](https://mapposter.xyz/) - A custom city map editor that uses MapLibre GL JS for artistic themes.
 - [Theme](https://github.com/lhapaipai/maplibre-theme) - Custom themes for your MapLibre GL Js Web app. [demo](https://maplibre-theme.pentatrion.com/)
 - [MapLibre VSCode Extension](https://github.com/Kanahiro/maplibre-vscode-extension) - VSCode Extension for viewing/editing MapLibre Style.
