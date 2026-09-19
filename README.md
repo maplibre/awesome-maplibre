@@ -369,6 +369,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
 - [World Train Map](https://worldtrainmap.com) - Interactive atlas of over a thousand notable train routes worldwide, colour-coded by type on OpenFreeMap tiles. Built with MapLibre GL JS; free rail dataset as GeoJSON/CSV.
 - [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
+- [Yapmap](https://yapmap.cc) - Free, voice-controlled 3D world map: tap to talk and an AI guide flies the globe anywhere, drops pins, draws routes and narrates each place. Built with MapLibre GL JS 5, with deck.gl Tile3DLayer over Google Photorealistic 3D Tiles for close-up city dives. Runs in the browser, no account.
 - [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (hydrogeological risk, real estate prices, demographics) into a per-parcel profile covering 85 million cadastral parcels, with a free REST API. Uses MapLibre GL JS.
 
 ## Demos / Examples
