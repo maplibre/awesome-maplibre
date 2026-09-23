@@ -230,6 +230,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-google-maps](https://github.com/traccar/maplibre-google-maps) - A library for integrating Google Maps as raster layers into MapLibre GL JS. It uses the new Google Map Tiles API.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 - [PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/main/js) - A library that uses addProtocol to read PMTIles. a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
+- [s57-parser](https://github.com/devladpopov/s57-parser/tree/master/packages/maplibre) - Parses S-57 and S-101 nautical charts (ENC `.000` files) in the browser and adds them to the map as GeoJSON layers or as an S-52 styled canvas layer. [demo](https://devladpopov.github.io/s57-parser/maplibre.html)
 - [@naivemap/maplibre-gl-image-layer](https://www.naivemap.com/map-gl-layers/api/maplibre-gl-image-layer/) - A versatile layer for displaying georeferenced images with various projections (using proj4js) on the map.
 - [veritiles](https://github.com/guillaumemichel/veritiles) - Verified [PMTiles](https://github.com/protomaps/PMTiles) from untrusted static hosting [demo](https://guillaumemichel.github.io/ipfs-pmtiles-demo/)
 
