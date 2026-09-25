@@ -365,6 +365,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [SharpMap](https://sharpmap.app/info), ultra-accurate 2D and 3D topographic mountain maps powered by MapLibre.
 - [StreetComplete](https://streetcomplete.app) — Easy to use mobile OpenStreetMap editor used for mapping in the field
 - [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
+- [Tel Aviv 2035](https://tlvnext.com/?lang=en) ([Build Day code](https://github.com/benjddd/fable-build-day-tlv-2026)) - Independent 3D map of Tel Aviv-Yafo: every building at its recorded height on the municipality’s aerial photos (1997–2025), beside what building permits and statutory plans allow on the same ground. Built with MapLibre GL JS fill-extrusion on the city’s open GIS data; Hebrew and English, free, no account.
 - [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
 - [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for decentralized coordination and real-life networking.<br>
