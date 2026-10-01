@@ -32,6 +32,10 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre.
 - [SDF Font Tools](https://github.com/stadiamaps/sdf_font_tools) - A CLI tool for generating SDF fontstacks from fonts (similar to FontMaker), as well as crates which let you build fontstacks on the fly (used in MapLibre Martin).
 
+### Pattern Generation
+
+- [Stipple](https://github.com/francoisbl/stipple) - A library to generate hatch, dot, grid, crosshatch, text and custom SVG fill patterns for MapLibre GL JS. [demo](https://stipple.pages.dev/)
+
 ### Sprite Generation
 
 - [Spreet](https://github.com/flother/spreet) - Spreet is a command-line tool that creates a spritesheet (aka texture atlas) from a directory of SVG images.
