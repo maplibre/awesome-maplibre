@@ -371,6 +371,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
 - [Tel Aviv 2035](https://tlvnext.com/?lang=en) ([Build Day code](https://github.com/benjddd/fable-build-day-tlv-2026)) - Independent 3D map of Tel Aviv-Yafo: every building at its recorded height on the municipality’s aerial photos (1997–2025), beside what building permits and statutory plans allow on the same ground. Built with MapLibre GL JS fill-extrusion on the city’s open GIS data; Hebrew and English, free, no account.
 - [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
+- [TopoLines](https://www.topolines.app) - Web tool that traces contour lines from real elevation data (GEDTM30 worldwide, national lidar in several countries) and exports them as SVG, PNG, DXF or GeoJSON. The editor's light and dark vector basemap runs on MapLibre GL JS with OpenFreeMap tiles.
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
 - [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for decentralized coordination and real-life networking.<br>
   Built with MapLibre GL JS, it enables communities to create custom map instances with interactive layers for managing members, activities, and resources.
