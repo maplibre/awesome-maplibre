@@ -373,6 +373,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
 - [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for decentralized coordination and real-life networking.<br>
   Built with MapLibre GL JS, it enables communities to create custom map instances with interactive layers for managing members, activities, and resources.
+- [VivaMap](https://vivamap.ch) - Quality-of-life map of every Swiss commune (tax, public transport, schools, noise, air quality, sunshine, nature, restaurants, healthcare) and every Dutch municipality ([vivamap.nl](https://vivamap.nl)). Scores are computed on an H3 hexagon grid and rendered with MapLibre GL JS, deck.gl and PMTiles on a static site.
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
 - [World Train Map](https://worldtrainmap.com) - Interactive atlas of over a thousand notable train routes worldwide, colour-coded by type on OpenFreeMap tiles. Built with MapLibre GL JS; free rail dataset as GeoJSON/CSV.
 - [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
