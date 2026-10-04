@@ -32,10 +32,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [Font Maker](https://github.com/maplibre/font-maker) - web app to convert font files into SDF fontstacks for use in MapLibre.
 - [SDF Font Tools](https://github.com/stadiamaps/sdf_font_tools) - A CLI tool for generating SDF fontstacks from fonts (similar to FontMaker), as well as crates which let you build fontstacks on the fly (used in MapLibre Martin).
 
-### Pattern Generation
-
-- [Stipple](https://github.com/francoisbl/stipple) - A library to generate hatch, dot, grid, crosshatch, text and custom SVG fill patterns for MapLibre GL JS. [demo](https://stipple.pages.dev/)
-
 ### Sprite Generation
 
 - [Spreet](https://github.com/flother/spreet) - Spreet is a command-line tool that creates a spritesheet (aka texture atlas) from a directory of SVG images.
@@ -258,6 +254,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-legend](https://github.com/mvt-proj/maplibre-legend) - Legends generator from a style.json developed in Rust. [crate](https://crates.io/crates/maplibre-legend)
 - [maplibre-gl-video-export](https://github.com/bjperson/maplibre-gl-video-export) - Export map animations to videos (WebM VP9, MP4 H.264) with preset animations, waypoints, and geographic constraints.
 - [mapbox-expr-lang](https://github.com/amine-a11/mapbox-expr-lang) - A small language that compiles readable code into Mapbox/MapLibre expressions. [playground](https://amine-a11.github.io/mapbox-expr-lang/playground)
+- [Stipple](https://github.com/francoisbl/stipple) - A library with an [interactive playground](https://stipple.pages.dev/) for generating hatches, dots, grids, crosshatches, text and custom SVG fill patterns for MapLibre GL JS.
 
 
 ## Development Tools Plugins
