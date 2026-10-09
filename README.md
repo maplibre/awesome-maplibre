@@ -357,7 +357,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive MapLibre-based geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai))
 - [PlaySG](https://playsg.sg) - Map of every playground in Singapore (~2,300) for parents - shade, water play, age fit and ratings. MapLibre GL JS with weekly-refreshed OpenStreetMap data.
-- [Pumperly](https://pumperly.com) ([Code](https://github.com/GeiserX/pumperly)) - Open-source fuel price comparison and EV charging route planner covering 36 countries. Features route planning, station clustering, and price color scales. Self-hostable, GPL-3.0.
+- [Pumperly](https://pumperly.com) ([Code](https://github.com/GeiserX/pumperly)) - Open-source fuel price comparison and EV charging route planner with live prices from 22 countries. Features route planning, station clustering, and price color scales. Self-hostable, AGPL-3.0.
 - NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
 - [OpenHistoricalMap](https://www.openhistoricalmap.org/) – collaborative project to map the history of the world in detail, powered by MapLibre with maplibre-gl-leaflet
 - [OpenStreetMap Americana Style](https://github.com/osm-americana/openstreetmap-americana#openstreetmap-americana-style) - A quintessentially American map style, powered by [MapLibre](https://github.com/osm-americana/openstreetmap-americana#technology-stack)
