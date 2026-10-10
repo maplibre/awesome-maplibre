@@ -216,7 +216,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - [backproj/maplibre-proj](https://github.com/willcohen/backproj) - Display MapLibre maps in any CRS supported by [PROJ](https://proj.org/), using [proj-wasm](https://github.com/willcohen/clj-proj) (PROJ transpiled to WebAssembly). [demo](https://willcohen.github.io/backproj/)
 - [maplibre-gl-mask-plugin](https://codeberg.org/mguihal/maplibre-gl-mask-plugin) - Renders a mask around a geojson feature in MapLibre GL JS. [demo](https://mguihal.codeberg.page/maplibre-gl-mask-plugin)
 - [maplibre-gl-lanes](https://github.com/c0nsumer/maplibre-gl-lanes) - Draws routes that share paths as ordered parallel lanes, the transit-map look, with crossing minimization, smooth junctions, and constant pixel spacing at every zoom. [demo](https://c0nsumer.github.io/maplibre-gl-lanes/)
-- [maplibre-landmarks](https://github.com/am2222/maplibre-landmarks) - 3D [Open Landmarks](https://open-landmarks.benmaps.fr) models, real roof shapes, trees, volumetric fog and clouds, rain, snow, animated water and power lines, rendered with [three.js](https://threejs.org) as custom layers. [demo](https://am2222.github.io/maplibre-landmarks/demo/)
 
 ## Layer Types Plugins
 
@@ -229,6 +228,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-ogc-feature-collection](https://github.com/mkeller3/mapbox-gl-ogc-feature-collection) - A small package for requesting geojson from an OGC Feature API endpoint to serve tiles in MapBox/MapLibre.
 - [maplibre-cog-protocol](https://github.com/geomatico/maplibre-cog-protocol) - Custom protocol to load Cloud Optimized GeoTIFFs (COG) in Maplibre GL JS.
 - [maplibre-gl-lidar](https://github.com/opengeos/maplibre-gl-lidar) - A MapLibre GL JS plugin for rendering LIDAR point cloud data.
+- [maplibre-landmarks](https://github.com/am2222/maplibre-landmarks) - 3D [Open Landmarks](https://open-landmarks.benmaps.fr) models, real roof shapes, trees, volumetric fog and clouds, rain, snow, animated water and power lines, rendered with [three.js](https://threejs.org) as custom layers. [demo](https://am2222.github.io/maplibre-landmarks/demo/)
 - [maplibre-google-maps](https://github.com/traccar/maplibre-google-maps) - A library for integrating Google Maps as raster layers into MapLibre GL JS. It uses the new Google Map Tiles API.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 - [PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/main/js) - A library that uses addProtocol to read PMTIles. a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
