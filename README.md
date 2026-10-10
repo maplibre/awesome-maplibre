@@ -216,6 +216,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [backproj/maplibre-proj](https://github.com/willcohen/backproj) - Display MapLibre maps in any CRS supported by [PROJ](https://proj.org/), using [proj-wasm](https://github.com/willcohen/clj-proj) (PROJ transpiled to WebAssembly). [demo](https://willcohen.github.io/backproj/)
 - [maplibre-gl-mask-plugin](https://codeberg.org/mguihal/maplibre-gl-mask-plugin) - Renders a mask around a geojson feature in MapLibre GL JS. [demo](https://mguihal.codeberg.page/maplibre-gl-mask-plugin)
 - [maplibre-gl-lanes](https://github.com/c0nsumer/maplibre-gl-lanes) - Draws routes that share paths as ordered parallel lanes, the transit-map look, with crossing minimization, smooth junctions, and constant pixel spacing at every zoom. [demo](https://c0nsumer.github.io/maplibre-gl-lanes/)
+- [maplibre-landmarks](https://github.com/am2222/maplibre-landmarks) - 3D [Open Landmarks](https://open-landmarks.benmaps.fr) models, real roof shapes, trees, volumetric fog and clouds, rain, snow, animated water and power lines, rendered with [three.js](https://threejs.org) as custom layers. [demo](https://am2222.github.io/maplibre-landmarks/demo/)
 
 ## Layer Types Plugins
 
