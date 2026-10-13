@@ -228,6 +228,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-ogc-feature-collection](https://github.com/mkeller3/mapbox-gl-ogc-feature-collection) - A small package for requesting geojson from an OGC Feature API endpoint to serve tiles in MapBox/MapLibre.
 - [maplibre-cog-protocol](https://github.com/geomatico/maplibre-cog-protocol) - Custom protocol to load Cloud Optimized GeoTIFFs (COG) in Maplibre GL JS.
 - [maplibre-gl-lidar](https://github.com/opengeos/maplibre-gl-lidar) - A MapLibre GL JS plugin for rendering LIDAR point cloud data.
+- [maplibre-landmarks](https://github.com/am2222/maplibre-landmarks) - 3D [Open Landmarks](https://open-landmarks.benmaps.fr) models, real roof shapes, trees, volumetric fog and clouds, rain, snow, animated water and power lines, rendered with [three.js](https://threejs.org) as custom layers. [demo](https://am2222.github.io/maplibre-landmarks/demo/)
 - [maplibre-google-maps](https://github.com/traccar/maplibre-google-maps) - A library for integrating Google Maps as raster layers into MapLibre GL JS. It uses the new Google Map Tiles API.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 - [PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/main/js) - A library that uses addProtocol to read PMTIles. a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
@@ -346,6 +347,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
 - [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
 - [Lifemap](https://lifemap.org.uk/) - Independent, non-commercial map of Office for National Statistics life expectancy and healthy life expectancy across UK councils, with 95% confidence intervals, trends, postcode lookup and a page per council. MapLibre GL JS paints a single choropleth on ONS boundaries with no basemap, in a colour-blind-safe ColorBrewer palette, beside a keyboard-accessible table view. Free, no account; open CSV/JSON downloads under the Open Government Licence.
+- [Live Atlas](https://www.liveatlas.earth) - Free interactive globe of live earthquakes, erupting volcanoes, cyclones, wildfires and tectonic plates, built on open data (EN/FR).
 - [Mapeak](https://mapeak.com) - a world wide navigation app that supports open data by uploading images to wikimedia and data to OSM. It has the fastest known map updates with offline maps which are updated on a daily bases and online maps that updates 3 times a day. It has planning capabilities, search and everything you need to enjoy the outdoors!
 - [MapLibre Storytelling](https://github.com/digidem/maplibre-storymap) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
 - [Mappi Studio](https://mappi.studio) - An online map animation creator. Create cinematic travel routes, fly-over animations, and 4K map videos in your browser.
@@ -378,6 +380,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
 - [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for decentralized coordination and real-life networking.<br>
   Built with MapLibre GL JS, it enables communities to create custom map instances with interactive layers for managing members, activities, and resources.
+- [Vienna Living Map](https://viennalivingmap.com) - Free housing map of Vienna: hours of direct sun per address and floor, calculated in the browser from measured building heights, plus noise, green space, transit and summer heat. Built with MapLibre GL JS on self-hosted PMTiles; no account, no cookies.
 - [VivaMap](https://vivamap.ch) - Quality-of-life map of every Swiss commune (tax, public transport, schools, noise, air quality, sunshine, nature, restaurants, healthcare) and every Dutch municipality ([vivamap.nl](https://vivamap.nl)). Scores are computed on an H3 hexagon grid and rendered with MapLibre GL JS, deck.gl and PMTiles on a static site.
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
 - [World Train Map](https://worldtrainmap.com) - Interactive atlas of over a thousand notable train routes worldwide, colour-coded by type on OpenFreeMap tiles. Built with MapLibre GL JS; free rail dataset as GeoJSON/CSV.
