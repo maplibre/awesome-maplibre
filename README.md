@@ -327,6 +327,7 @@ are designated with a ✅, and hosted projects with a 💙.
 ## Users
 
 - [Ace](https://bdlucas1.github.io/ace) - Free on-course golf scorecard app uses OpenStreetMap data to provide course diagrams, distances, and elevations. Runs entirely in the browser on your mobile phone using MapLibre GL JS.
+- [biblical-atlas](https://biblical-atlas.geiser.cloud/) ([Code](https://github.com/GeiserX/biblical-atlas)) - Bible atlas in Spanish where the map and the timeline follow one date: pick a year and see who was alive, where they were and what was happening. Every fact links to its source, and places whose location is uncertain are drawn as areas or candidates. Static site built with MapLibre GL JS.
 - [Cartes](https://cartes.app) — French alternative to Google Maps based on a fully open source stack
 - [Castlemap](https://thecastlemap.com) - Interactive night-map of thousands of castles, fortresses and palaces worldwide, generated from Wikidata. Built with MapLibre GL JS on OpenFreeMap tiles; free castle dataset as GeoJSON/CSV.
 - [Climate Action Navigator](https://climate-action.heigit.org/) - Interactive dashboard that translates high-resolution geospatial data into neighborhood-level insights for targeted urban climate action.
