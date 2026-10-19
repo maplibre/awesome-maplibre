@@ -18,6 +18,7 @@ are designated with a ✅, and hosted projects with a 💙.
 
 - ✅ [MapLibre style specification](https://github.com/maplibre/maplibre-style-spec) - The MapLibre Style Specification, a JSON-based format for styling maps.
 - [Expressive](https://github.com/falseinput/expressive) - A DSL that compiles to MapLibre style JSON, with variables, color functions, zoom curves and imports. [demo](https://falseinput.github.io/expressive/)
+- [maplibre-expr](https://github.com/builtbyfield/maplibre-expr) - Type-safe MapLibre style expressions for TypeScript, so a broken expression shows up in your editor or your tests, not as a missing layer on the map. [demo](https://builtbyfield.github.io/maplibre-expr/)
 
 ### Style Editors
 
