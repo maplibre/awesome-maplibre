@@ -188,6 +188,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [maplibre-gl-geocoder](https://github.com/maplibre/maplibre-gl-geocoder) - Adds a geocoder control.
 - [maplibre-search-box](https://github.com/stadiamaps/maplibre-search-box) - Adds a control for searching for places using Stadia Maps.
 - [maptiler-geocoding-control](https://github.com/maptiler/maptiler-geocoding-control) - Adds a geocoding control for searching for places using MapTiler API. [docs](https://docs.maptiler.com/sdk-js/modules/geocoding/)
+- [opengeocoding-maplibre](https://github.com/Mokto/opengeocoding-maplibre) - Adds address search and free autocomplete from OpenGeocoding to maplibre-gl-geocoder.
 
 ## Map Rendering Plugins
 
