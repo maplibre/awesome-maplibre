@@ -266,6 +266,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-fps](https://github.com/MazeMap/mapbox-gl-fps) - A frames-per-seconds GUI control and measurer with statistic report output.
 - [mapgrab](https://mapgrab.github.io/) - A tool for creating end-to-end (e2e) map tests using popular testing frameworks like Playwright, Cypress, and Selenium.
 - [maplibre-gl-inspect](https://github.com/acalcutt/maplibre-gl-inspect) - Adds an inspect control to view vector source features and properties.
+- [geowright](https://github.com/geowright/geowright) - Grey-box Playwright testing for MapLibre canvas maps: query rendered features by layer and id, assert on them, and click or drag through real input. [docs](https://geowright.dev) · [npm](https://www.npmjs.com/package/geowright)
 
 <!-- [JAVASCRIPT-PLUGINS]:END -->
 
