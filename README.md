@@ -365,6 +365,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
 - [MTL Explorer](https://github.com/mindalyze-com/mtl-explorer) ([demo](https://mtl-demo.mindalyze.com/mtl/)) - A self-hosted GPS track archive that uses MapLibre GL JS for 2D and 3D map exploration, activity replay, track analysis, and route planning.
 - [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with seismic intensity modeling, infrastructure impact assessment, and real-time P/S wave propagation. Built with MapLibre GL JS 5 + deck.gl 9. [demo](https://namazue.dev)
+- [Nesso](https://nesso.fit) - Home-hunting app. MapLibre GL JS draws an OpenStreetMap basemap from one PMTiles archive per city, district polygons, and H3 cells of walk times computed from OpenStreetMap data, loaded by viewport.
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive MapLibre-based geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai))
 - [PlaySG](https://playsg.sg) - Map of every playground in Singapore (~2,300) for parents - shade, water play, age fit and ratings. MapLibre GL JS with weekly-refreshed OpenStreetMap data.
