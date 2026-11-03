@@ -13,6 +13,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - ✅ [MapLibre Native](https://github.com/maplibre/maplibre-gl-native) - A maps SDK for rendering maps on devices, in apps, and on the server.
 - 💙 [MapLibre RS](https://github.com/maplibre/maplibre-rs) - Experimental map rendering library written in Rust.
 - ✅ [MapLibre Plugins for Android](https://github.com/maplibre/maplibre-plugins-android) - A collection of plugins for MapLibre on Android; the annotation plugin is a core project.
+- [Ortho Earth](https://github.com/kenjiyoshidahome2026-bit/ortho-earth) - Renders MapLibre styles on an always-spherical WebGPU/WebGL2 globe, with an Equal Earth flat map.
 
 ## Map Styling
 
