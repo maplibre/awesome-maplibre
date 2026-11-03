@@ -277,6 +277,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [MapLibre Demotiles](https://github.com/maplibre/demotiles) - A simple, XYZ MVT tileset for demonstration projects.
 - [**Amazon Location Services**](https://aws.amazon.com/location/)
 - [**Azure Maps**](https://azure.microsoft.com/en-us/products/azure-maps)
+- [DeltaBreen](https://maps.deltabreen.eu/) - Hosted OpenStreetMap vector and raster tiles with MapLibre styles, a style designer, geocoding and routing.
 - [Esri](https://developers.arcgis.com/maplibre-gl-js/)
 - [Geofabrik](https://www.geofabrik.de/maps/vectortiles.html)
 - [Geoapify](https://www.geoapify.com/map-tiles/)
