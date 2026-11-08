@@ -285,6 +285,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [**JawgMaps**](https://www.jawg.io/)
 - [LatLng](https://www.latlng.work/free-maps-api/) - MapLibre-compatible OSM vector tiles, map styles, and static maps.
 - [Mapbox](https://www.mapbox.com/)
+- [MapIron](https://mapiron.com/docs/maplibre) - Hosted OpenStreetMap vector and raster tiles with MapLibre styles, plus static map images and geocoding, on plans with hard monthly caps.
 - [MapMetrics GL / MapAtlas](https://mapatlas.eu) - Mapbox GL style-spec compatible mapping service with built-in MVT tiles, geocoding, routing, and search. [GitHub](https://github.com/MapMetrics/mapmetrics-gl)
 - [Mapterhorn](https://github.com/mapterhorn/mapterhorn) - Free, open, regularly-rebuilt global elevation (Terrarium-encoded) tile source.
 - [MapTiler](https://www.maptiler.com/)
@@ -294,7 +295,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - [**Mierune**](https://www.mierune.co.jp/?lang=en)
 - [OpenFreeMap](https://openfreemap.org/)
 - [OSM Americana Community Vector Tile Server](https://tile.ourmap.us/)
-- [PinSharing](https://pinsharing.com/docs/maplibre) - Hosted OpenStreetMap vector and raster tiles with MapLibre styles, plus static map images and geocoding, on plans with hard monthly caps.
 - [Protomaps](https://protomaps.com/)
 - [Seamap](https://openwaters.io/charts/seamap) - Open source nautical chart tiles and MapLibre style, rendered weekly from OpenStreetMap seamark data.
 - [Seascape](https://openwaters.io/charts/seascape) - Open source global bathymetry tiles with a ready-made nautical style.
