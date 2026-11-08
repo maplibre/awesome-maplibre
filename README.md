@@ -386,6 +386,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Room TBA](https://room-tba.uplb.tools) ([Code](https://github.com/uplbtools/room-tba)) - Open-source campus room finder for a Philippine university with MapLibre GL JS, class schedules, transit routes, and offline PWA sync via PGlite.
 - [SharpMap](https://sharpmap.app/info), ultra-accurate 2D and 3D topographic mountain maps powered by MapLibre.
 - [Star Ninja](https://stars.2pm.ninja/?ref=awesome) - Free web map for planning a stargazing outing. Shows light-pollution darkness bands, a short cloud forecast and the moonless hours for any spot. Built with MapLibre GL JS on OpenFreeMap tiles.
+- [Stories](https://getstories.app) - Self-guided audio walking and driving tours of US cities and roads. Tour pages draw the route and stops with MapLibre GL JS on OpenFreeMap tiles, and the iOS app shows the same map in a WebView.
 - [StreetComplete](https://streetcomplete.app) — Easy to use mobile OpenStreetMap editor used for mapping in the field
 - [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
 - [Tel Aviv 2035](https://tlvnext.com/?lang=en) ([Build Day code](https://github.com/benjddd/fable-build-day-tlv-2026)) - Independent 3D map of Tel Aviv-Yafo: every building at its recorded height on the municipality’s aerial photos (1997–2025), beside what building permits and statutory plans allow on the same ground. Built with MapLibre GL JS fill-extrusion on the city’s open GIS data; Hebrew and English, free, no account.
