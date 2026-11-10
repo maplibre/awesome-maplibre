@@ -379,6 +379,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
 - [OpenHistoricalMap](https://www.openhistoricalmap.org/) – collaborative project to map the history of the world in detail, powered by MapLibre with maplibre-gl-leaflet
 - [OpenStreetMap Americana Style](https://github.com/osm-americana/openstreetmap-americana#openstreetmap-americana-style) - A quintessentially American map style, powered by [MapLibre](https://github.com/osm-americana/openstreetmap-americana#technology-stack)
+- [Outdoor Pitstop](https://outdoorpitstop.com/en-gb) - Benches, drinking water and public toilets for walkers and cyclists in 44 European countries, on one map built with MapLibre GL JS and OpenFreeMap tiles. Also iOS and Android apps.
 - [Paddling Spots](https://paddlingspots.com) - Platform to share paddle spots, find rentals and explore locations on the map. Uses MapLibre and ngx-maplibre-gl.
 - [Peripleo](https://github.com/britishlibrary/peripleo) - Reusable web map interface with configurable markers, filters, search and more. Open-source and runs on GH pages, all you need is a spreadsheet.
 - Plantaube (https://plantaube.com) – A free Webtool to create custom urban maps and site plans out of OSM-data. Optimized for Urban Planners and Architects.
