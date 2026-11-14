@@ -287,6 +287,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Mapbox](https://www.mapbox.com/)
 - [MapIron](https://mapiron.com/docs/maplibre) - Hosted OpenStreetMap vector and raster tiles with MapLibre styles, plus static map images and geocoding, on plans with hard monthly caps.
 - [MapMetrics GL / MapAtlas](https://mapatlas.eu) - Mapbox GL style-spec compatible mapping service with built-in MVT tiles, geocoding, routing, and search. [GitHub](https://github.com/MapMetrics/mapmetrics-gl)
+- [MapScale](https://mapscale.io/) - Hosted Thailand MapLibre styles and OpenMapTiles-profile vector tiles with Thai/English geocoding, autocomplete, routing and static maps.
 - [Mapterhorn](https://github.com/mapterhorn/mapterhorn) - Free, open, regularly-rebuilt global elevation (Terrarium-encoded) tile source.
 - [MapTiler](https://www.maptiler.com/)
 - [Maptoolkit.com](https://www.maptoolkit.com/) - Maptoolkit Enterprise
