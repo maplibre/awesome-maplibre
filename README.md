@@ -349,6 +349,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Famxplor](https://famxplor.com/), interactive world map of activities for family vacations, powered by MapLibre with [Svelte MapLibre](https://github.com/dimfeld/svelte-maplibre)
 - [FilmMap](https://thefilmmap.com) - Interactive night-map of thousands of real filming locations worldwide, joined to the films, series, games, anime and manga recorded at them. Every pin is a Wikidata "filming location" statement, so each links back to its source; games and anime are placed instead by where they are set, because neither is filmed anywhere, and the two claims are never mixed. Built with MapLibre GL JS on OpenFreeMap tiles.
 - [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
+- [Fuelconomy](https://fuelconomy.com) - Free map of fuel prices at filling stations in twelve European countries, from official government data, with country, city and border-crossing comparisons. Built with MapLibre GL JS on OpenFreeMap tiles.
 - [GeoLens](https://github.com/geolens-io/geolens) - Self-hosted geospatial catalog and map builder. Map editing and shared maps run on MapLibre GL JS. [demo](https://demo.getgeolens.com)
 - [Gramps Web](https://www.grampsweb.org/) ([Code](https://github.com/gramps-project/gramps-web)) - Modern web app for collaborative genealogy and family history research.<br>
   Features interactive vector maps with location pins, time filters, and historical map overlays.<br>
