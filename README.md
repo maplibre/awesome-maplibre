@@ -337,6 +337,7 @@ are designated with a ✅, and hosted projects with a 💙.
 
 - [Ace](https://bdlucas1.github.io/ace) - Free on-course golf scorecard app uses OpenStreetMap data to provide course diagrams, distances, and elevations. Runs entirely in the browser on your mobile phone using MapLibre GL JS.
 - [Adrenalin Spots](https://adrenalinspots.com) - World map of where to go kitesurfing, surfing, skiing, climbing, diving, sailing and more in each month, built with MapLibre GL JS and OpenFreeMap.
+- [ailiste](https://ailiste.app) - Free map of new builds in Cyprus: 3,613 buildings, 672 of them photographed on site with the date, each with the construction stage seen there, its developer and every listing for it, over a choropleth of asking prices per m² by district. Built with MapLibre GL JS 6 on CARTO basemaps and Land Registry district polygons; a static Astro site in six languages.
 - [Atlas](https://www.transitatlas.fyi) - Free web map of how often transit is scheduled to run across every agency in a region, built from public transit schedule data and MapLibre GL JS.
 - [biblical-atlas](https://biblical-atlas.geiser.cloud/) ([Code](https://github.com/GeiserX/biblical-atlas)) - Bible atlas in Spanish where the map and the timeline follow one date: pick a year and see who was alive, where they were and what was happening. Every fact links to its source, and places whose location is uncertain are drawn as areas or candidates. Static site built with MapLibre GL JS.
 - [Cartes](https://cartes.app) — French alternative to Google Maps based on a fully open source stack
