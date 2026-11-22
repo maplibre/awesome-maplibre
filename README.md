@@ -424,3 +424,4 @@ are designated with a ✅, and hosted projects with a 💙.
 ## Demos / Examples
 
 - [Expo MapLibre native + web demo](https://github.com/Jaza/expo-maplibre-native-plus-web-demo) - Demo Expo app using [maplibre-react-native](https://github.com/maplibre/maplibre-react-native) for native, and falling back to [react-map-gl](https://github.com/visgl/react-map-gl) with [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) for web.
+- [gta6-map](https://github.com/wesomitsu/gta6-map) - Neon 3D MapLibre GL JS styles with place pins and stays and food demos. [demo](https://wesomitsu.github.io/gta6-map/)
