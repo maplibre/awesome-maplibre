@@ -13,11 +13,13 @@ are designated with a ✅, and hosted projects with a 💙.
 - ✅ [MapLibre Native](https://github.com/maplibre/maplibre-gl-native) - A maps SDK for rendering maps on devices, in apps, and on the server.
 - 💙 [MapLibre RS](https://github.com/maplibre/maplibre-rs) - Experimental map rendering library written in Rust.
 - ✅ [MapLibre Plugins for Android](https://github.com/maplibre/maplibre-plugins-android) - A collection of plugins for MapLibre on Android; the annotation plugin is a core project.
+- [Ortho Earth](https://github.com/kenjiyoshidahome2026-bit/ortho-earth) - Renders MapLibre styles on an always-spherical WebGPU/WebGL2 globe, with an Equal Earth flat map.
 
 ## Map Styling
 
 - ✅ [MapLibre style specification](https://github.com/maplibre/maplibre-style-spec) - The MapLibre Style Specification, a JSON-based format for styling maps.
 - [Expressive](https://github.com/falseinput/expressive) - A DSL that compiles to MapLibre style JSON, with variables, color functions, zoom curves and imports. [demo](https://falseinput.github.io/expressive/)
+- [maplibre-expr](https://github.com/builtbyfield/maplibre-expr) - Type-safe MapLibre style expressions for TypeScript, so a broken expression shows up in your editor or your tests, not as a missing layer on the map. [demo](https://builtbyfield.github.io/maplibre-expr/)
 
 ### Style Editors
 
@@ -180,6 +182,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-gl-layers-control](https://github.com/mvt-proj/maplibre-gl-layers-control) - It allows to show/hide layers, opacity control and integration with legends.
 - [maplibre-label-callout](https://github.com/leoneljdias/maplibre-label-callout) - Labels with connector lines for MapLibre GL JS. [demo](https://leoneljdias.github.io/maplibre-label-callout/demo/) · [npm](https://www.npmjs.com/package/@leoneljdias/maplibre-label-callout)
 - [maplibre-ui-translations](https://github.com/spwoodcock/maplibre-ui-translations) - Community translations for the default MapLibre UI.
+- [location-picker](https://github.com/cyphercodes/location-picker) - A form field for picking one point: the user pans the map under a fixed pin and the form submits its latitude/longitude. Web component and class with a MapLibre GL JS provider (bring your own `maplibre-gl`). [docs](https://github.com/cyphercodes/location-picker/blob/master/docs/providers.md#maplibre)
 
 ## Geocoding & Search Plugins
 
@@ -187,6 +190,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [maplibre-gl-geocoder](https://github.com/maplibre/maplibre-gl-geocoder) - Adds a geocoder control.
 - [maplibre-search-box](https://github.com/stadiamaps/maplibre-search-box) - Adds a control for searching for places using Stadia Maps.
 - [maptiler-geocoding-control](https://github.com/maptiler/maptiler-geocoding-control) - Adds a geocoding control for searching for places using MapTiler API. [docs](https://docs.maptiler.com/sdk-js/modules/geocoding/)
+- [opengeocoding-maplibre](https://github.com/Mokto/opengeocoding-maplibre) - Adds address search and free autocomplete from OpenGeocoding to maplibre-gl-geocoder.
 
 ## Map Rendering Plugins
 
@@ -215,6 +219,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-merge-protocol](https://github.com/indus/maplibre-merge-protocol) - A custom protocol for merging geometry with attributes from multiple tilesets in MapLibre. [demo](https://maplibre-merge-protocol.js.org/)
 - [backproj/maplibre-proj](https://github.com/willcohen/backproj) - Display MapLibre maps in any CRS supported by [PROJ](https://proj.org/), using [proj-wasm](https://github.com/willcohen/clj-proj) (PROJ transpiled to WebAssembly). [demo](https://willcohen.github.io/backproj/)
 - [maplibre-gl-mask-plugin](https://codeberg.org/mguihal/maplibre-gl-mask-plugin) - Renders a mask around a geojson feature in MapLibre GL JS. [demo](https://mguihal.codeberg.page/maplibre-gl-mask-plugin)
+- [maplibre-gl-lanes](https://github.com/c0nsumer/maplibre-gl-lanes) - Draws routes that share paths as ordered parallel lanes, the transit-map look, with crossing minimization, smooth junctions, and constant pixel spacing at every zoom. [demo](https://c0nsumer.github.io/maplibre-gl-lanes/)
 
 ## Layer Types Plugins
 
@@ -227,6 +232,9 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-ogc-feature-collection](https://github.com/mkeller3/mapbox-gl-ogc-feature-collection) - A small package for requesting geojson from an OGC Feature API endpoint to serve tiles in MapBox/MapLibre.
 - [maplibre-cog-protocol](https://github.com/geomatico/maplibre-cog-protocol) - Custom protocol to load Cloud Optimized GeoTIFFs (COG) in Maplibre GL JS.
 - [maplibre-gl-lidar](https://github.com/opengeos/maplibre-gl-lidar) - A MapLibre GL JS plugin for rendering LIDAR point cloud data.
+- [maplibre-gl-dot-density](https://github.com/zwang-geog/maplibre-gl-dot-density) - Custom dot density layer painting 1-pixel dots inside polygon vector tiles (PMTiles or XYZ), so populated places look lit and sparsely populated places look dim. [demo](https://zwang-geog.github.io/maplibre-gl-dot-density/)
+- [maplibre-gl-pie-charts](https://github.com/zwang-geog/maplibre-gl-pie-charts) - Custom layer drawing one pie or donut chart per feature from 2 to 8 numeric attributes, for comparing share patterns across geographic units. [demo](https://zwang-geog.github.io/maplibre-gl-pie-charts/demos/us-education/)
+- [maplibre-landmarks](https://github.com/am2222/maplibre-landmarks) - 3D [Open Landmarks](https://open-landmarks.benmaps.fr) models, real roof shapes, trees, volumetric fog and clouds, rain, snow, animated water and power lines, rendered with [three.js](https://threejs.org) as custom layers. [demo](https://am2222.github.io/maplibre-landmarks/demo/)
 - [maplibre-google-maps](https://github.com/traccar/maplibre-google-maps) - A library for integrating Google Maps as raster layers into MapLibre GL JS. It uses the new Google Map Tiles API.
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 - [PMTiles for MapLibre](https://github.com/protomaps/PMTiles/tree/main/js) - A library that uses addProtocol to read PMTIles. a single-file format for hosting tilesets without a server or API, just S3 or other storage providers.
@@ -253,6 +261,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-legend](https://github.com/mvt-proj/maplibre-legend) - Legends generator from a style.json developed in Rust. [crate](https://crates.io/crates/maplibre-legend)
 - [maplibre-gl-video-export](https://github.com/bjperson/maplibre-gl-video-export) - Export map animations to videos (WebM VP9, MP4 H.264) with preset animations, waypoints, and geographic constraints.
 - [mapbox-expr-lang](https://github.com/amine-a11/mapbox-expr-lang) - A small language that compiles readable code into Mapbox/MapLibre expressions. [playground](https://amine-a11.github.io/mapbox-expr-lang/playground)
+- [Stipple](https://github.com/francoisbl/stipple) - A library with an [interactive playground](https://stipple.pages.dev/) for generating hatches, dots, grids, crosshatches, text and custom SVG fill patterns for MapLibre GL JS.
 
 
 ## Development Tools Plugins
@@ -261,6 +270,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [mapbox-gl-fps](https://github.com/MazeMap/mapbox-gl-fps) - A frames-per-seconds GUI control and measurer with statistic report output.
 - [mapgrab](https://mapgrab.github.io/) - A tool for creating end-to-end (e2e) map tests using popular testing frameworks like Playwright, Cypress, and Selenium.
 - [maplibre-gl-inspect](https://github.com/acalcutt/maplibre-gl-inspect) - Adds an inspect control to view vector source features and properties.
+- [geowright](https://github.com/geowright/geowright) - Grey-box Playwright testing for MapLibre canvas maps: query rendered features by layer and id, assert on them, and click or drag through real input. [docs](https://geowright.dev) · [npm](https://www.npmjs.com/package/geowright)
 
 <!-- [JAVASCRIPT-PLUGINS]:END -->
 
@@ -269,6 +279,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - 💙 [MapLibre Demotiles](https://github.com/maplibre/demotiles) - A simple, XYZ MVT tileset for demonstration projects.
 - [**Amazon Location Services**](https://aws.amazon.com/location/)
 - [**Azure Maps**](https://azure.microsoft.com/en-us/products/azure-maps)
+- [DeltaBreen](https://maps.deltabreen.eu/) - Hosted OpenStreetMap vector and raster tiles with MapLibre styles, a style designer, geocoding and routing.
 - [Esri](https://developers.arcgis.com/maplibre-gl-js/)
 - [Geofabrik](https://www.geofabrik.de/maps/vectortiles.html)
 - [Geoapify](https://www.geoapify.com/map-tiles/)
@@ -276,7 +287,9 @@ are designated with a ✅, and hosted projects with a 💙.
 - [**JawgMaps**](https://www.jawg.io/)
 - [LatLng](https://www.latlng.work/free-maps-api/) - MapLibre-compatible OSM vector tiles, map styles, and static maps.
 - [Mapbox](https://www.mapbox.com/)
+- [MapIron](https://mapiron.com/docs/maplibre) - Hosted OpenStreetMap vector and raster tiles with MapLibre styles, plus static map images and geocoding, on plans with hard monthly caps.
 - [MapMetrics GL / MapAtlas](https://mapatlas.eu) - Mapbox GL style-spec compatible mapping service with built-in MVT tiles, geocoding, routing, and search. [GitHub](https://github.com/MapMetrics/mapmetrics-gl)
+- [MapScale](https://mapscale.io/) - Hosted Thailand MapLibre styles and OpenMapTiles-profile vector tiles with Thai/English geocoding, autocomplete, routing and static maps.
 - [Mapterhorn](https://github.com/mapterhorn/mapterhorn) - Free, open, regularly-rebuilt global elevation (Terrarium-encoded) tile source.
 - [MapTiler](https://www.maptiler.com/)
 - [Maptoolkit.com](https://www.maptoolkit.com/) - Maptoolkit Enterprise
@@ -324,54 +337,93 @@ are designated with a ✅, and hosted projects with a 💙.
 ## Users
 
 - [Ace](https://bdlucas1.github.io/ace) - Free on-course golf scorecard app uses OpenStreetMap data to provide course diagrams, distances, and elevations. Runs entirely in the browser on your mobile phone using MapLibre GL JS.
+- [Adrenalin Spots](https://adrenalinspots.com) - World map of where to go kitesurfing, surfing, skiing, climbing, diving, sailing and more in each month, built with MapLibre GL JS and OpenFreeMap.
+- [ailiste](https://ailiste.app) - Free map of new builds in Cyprus: each building with its developer and every listing for it, many photographed on site with the date and the construction stage seen there, over a choropleth of asking prices per m² by district. Built with MapLibre GL JS on CARTO basemaps and Land Registry district polygons; a multilingual static Astro site.
+- [Atlas](https://www.transitatlas.fyi) - Free web map of how often transit is scheduled to run across every agency in a region, built from public transit schedule data and MapLibre GL JS.
+- [biblical-atlas](https://biblical-atlas.geiser.cloud/) ([Code](https://github.com/GeiserX/biblical-atlas)) - Bible atlas in Spanish where the map and the timeline follow one date: pick a year and see who was alive, where they were and what was happening. Every fact links to its source, and places whose location is uncertain are drawn as areas or candidates. Static site built with MapLibre GL JS.
 - [Cartes](https://cartes.app) — French alternative to Google Maps based on a fully open source stack
 - [Castlemap](https://thecastlemap.com) - Interactive night-map of thousands of castles, fortresses and palaces worldwide, generated from Wikidata. Built with MapLibre GL JS on OpenFreeMap tiles; free castle dataset as GeoJSON/CSV.
 - [Climate Action Navigator](https://climate-action.heigit.org/) - Interactive dashboard that translates high-resolution geospatial data into neighborhood-level insights for targeted urban climate action.
+- [CoworkingView](https://coworkingview.com/en) - Directory of shared workspaces and private offices in cities such as Berlin, Madrid, Barcelona, London and Amsterdam. The listing pages pair a result list with an interactive map built with MapLibre GL JS on OpenFreeMap vector tiles, and results can be narrowed to the visible map area.
+- [CrimesLog](https://crimeslog.com) - Crime statistics and trends for US, UK and Canadian neighbourhoods, mapped.
+- [Earth Marquee](https://earthmarquee.com) - 3D model of the whole Earth in the browser, with OpenStreetMap buildings, the real positions of the sun, moon and stars, and live weather for every city. Built with MapLibre GL JS (globe) and three.js custom layers on OpenFreeMap tiles.
+- [Earth Plotter](https://earthplotter.org) ([Code](https://github.com/stemanfredi/earth-plotter)) - Free map of the world's land and sea from open data: relief, depth shading, isobaths and seamarks, in one static page with no account or key. Measure and draw on it, export the view as GIS data, and save areas for offline use. Built with MapLibre GL JS on OpenFreeMap tiles.
 - [eatlocal](https://eatlocal.dk) - Independent guide to restaurants, bakeries, brunch places and bars in the four largest Danish cities, in Danish and English. Places are plotted with MapLibre GL JS, and addresses, coordinates and opening hours come from OpenStreetMap.
 - [Famxplor](https://famxplor.com/), interactive world map of activities for family vacations, powered by MapLibre with [Svelte MapLibre](https://github.com/dimfeld/svelte-maplibre)
 - [FilmMap](https://thefilmmap.com) - Interactive night-map of thousands of real filming locations worldwide, joined to the films, series, games, anime and manga recorded at them. Every pin is a Wikidata "filming location" statement, so each links back to its source; games and anime are placed instead by where they are set, because neither is filmed anywhere, and the two claims are never mixed. Built with MapLibre GL JS on OpenFreeMap tiles.
 - [Flitsmeister](https://www.flitsmeister.com/) - Navigation app for Android and iOS, with real-time traffic information. Uses MapLibre Native, MapLibre Navigation.
+- [Fuelconomy](https://fuelconomy.com) - Free map of fuel prices at filling stations in twelve European countries, from official government data, with country, city and border-crossing comparisons. Built with MapLibre GL JS on OpenFreeMap tiles.
 - [GeoLens](https://github.com/geolens-io/geolens) - Self-hosted geospatial catalog and map builder. Map editing and shared maps run on MapLibre GL JS. [demo](https://demo.getgeolens.com)
 - [Gramps Web](https://www.grampsweb.org/) ([Code](https://github.com/gramps-project/gramps-web)) - Modern web app for collaborative genealogy and family history research.<br>
   Features interactive vector maps with location pins, time filters, and historical map overlays.<br>
   Migrated from Leaflet to MapLibre GL JS in the [v25.7.0 Release](https://github.com/gramps-project/gramps-web/releases/tag/v25.7.0) for performance reasons.
 - [GroundwaterCast UK](https://groundwatercast.com) ([Code](https://github.com/dominicm2023/groundwatercast-uk)) - Daily probabilistic groundwater forecasts for 1,300+ monitored boreholes in England, built entirely on open data. Uses MapLibre GL JS for the national borehole explorer and landing-page map.
 - [Grundradar](https://grundradar.de/) - Free German land-parcel due-diligence tool using MapLibre GL JS to combine cadastral context, official land values, planning constraints, and environmental risk checks from public data.
+- [H1DR4 Public Incident Map](https://h1dr4.dev/map) - Free map for browsing reported incidents and inspecting public case files with source-linked timelines. Uses MapLibre GL JS on OpenFreeMap tiles.
 - [Herb Atlas](https://herbatlas.fyi) ([Code](https://github.com/tinykite/herb-atlas)) - Collaborative project mapping medicinal herb farms with a focus on sustainable + regenerative practices.
+- [HIFLD Next](https://hifld.publicenvirodata.org) ([Code](https://github.com/Public-Environmental-Data-Partners/hifld-next)) - Free catalog of US infrastructure datasets from the Homeland Infrastructure Foundation-Level Data (HIFLD) collection, maintained by Public Environmental Data Partners. Each dataset can be previewed on a MapLibre GL JS map drawn from PMTiles vector tiles and downloaded as GeoParquet; also served through OGC API - Features and an MCP server.
 - [Hory.app](https://hory.app) — Web/iOS/Android app for logging mountain summit visits, backed by a database of 350,000+ mountains worldwide. Uses MapLibre GL JS for online and offline maps.
+- [House Planner](https://app.homedesignsai.pro) ([Code](https://github.com/egmalt/house-planner)) - Self-hosted planner for a private house: the true-scale floor plan is overlaid on satellite imagery with MapLibre GL JS, geo-referenced by the plan origin and rotation, with the parcel boundary from GeoJSON.
 - [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel.
 - [kanari](https://kanari.io) ([Code](https://github.com/vria-consulting/vria-fire-detect)) - Free near-real-time world map of wildfire ignitions: NASA FIRMS, GOES and Meteosat MTG hotspots clustered into fire events, AI-verified witness reports, live firefighting aircraft (ADS-B), one permanent page per significant fire. MapLibre GL JS on CARTO/OSM tiles; open data CSV (CC BY 4.0), REST API and MCP server, in 4 languages.
 - [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
+- [Klaps](https://klaps.space) ([Code](https://github.com/klaps-hq/klaps.space)) - Non-commercial, open-source guide to special screenings and classic films in Polish art-house cinemas. MapLibre GL JS on CARTO basemaps draws a map of every cinema in the guide and a location map on each cinema page, next to the screening listings.
 - [Kurviger](https://kurviger.com/) - Motorcycle Routeplanning and Navigation app for Android and iOS. Uses MapLibre Native, MapLibre Navigation.
+- [Lifemap](https://lifemap.org.uk/) - Independent, non-commercial map of Office for National Statistics life expectancy and healthy life expectancy across UK councils, with 95% confidence intervals, trends, postcode lookup and a page per council. MapLibre GL JS paints a single choropleth on ONS boundaries with no basemap, in a colour-blind-safe ColorBrewer palette, beside a keyboard-accessible table view. Free, no account; open CSV/JSON downloads under the Open Government Licence.
+- [Live Atlas](https://www.liveatlas.earth) - Free interactive globe of live earthquakes, erupting volcanoes, cyclones, wildfires and tectonic plates, built on open data (EN/FR).
+- [London Tourist Map](https://londontouristmap.com/) - Free interactive London tourist map with hidden gems, opening hours, ticket prices and themed maps. Built with MapLibre GL JS on OpenStreetMap data with Astro.
+- [Map Animation Studio](https://map-animation.com/) - Browser-based map video editor built with MapLibre GL JS, with animated travel routes, camera moves and region highlights. [Illustrated route tutorial](https://map-animation.com/guides/animate-a-route).
 - [Mapeak](https://mapeak.com) - a world wide navigation app that supports open data by uploading images to wikimedia and data to OSM. It has the fastest known map updates with offline maps which are updated on a daily bases and online maps that updates 3 times a day. It has planning capabilities, search and everything you need to enjoy the outdoors!
 - [MapLibre Storytelling](https://github.com/digidem/maplibre-storymap) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
+- [maplog](https://maplog.app) - Travel map app for iPhone, iPad and Android: every country, region and city you've visited, filled in from your photos or a Google Maps Timeline export. The flat map is MapLibre Native (via MapLibre React Native) on a bundled Protomaps PMTiles basemap, so it works offline.
 - [Mappi Studio](https://mappi.studio) - An online map animation creator. Create cinematic travel routes, fly-over animations, and 4K map videos in your browser.
+- [Maps of Ages](https://mapsofages.com/en/) - Free world-history map built on the original text of 92 historical sources: turn the year to see borders and events across the whole world, with atlases for World War I, Napoleon and the Age of Discovery. Built with MapLibre GL JS on its own historical border data.
+- [Maps of Movies](https://mapsofmovies.com) - Free map of where films were really shot, scene by scene, next to where each story is set, with sources for each point. Built with MapLibre GL JS on OpenFreeMap tiles.
+- [Maps of Music](https://mapsofmusic.org) - Free map of where albums were recorded: the studios and cities in session order, with sources for each point. Built with MapLibre GL JS on OpenFreeMap tiles.
+- [Maptale](https://maptale.io/en) ([demo](https://maptale.io/en/tour/rinjani)) - Turns a recorded GPS tour (hike, ride or trip) into a cinematic 3D flight over satellite imagery and real terrain, stopping at the places where the photos were taken. Each tour is shared as a link that plays in any browser. Built with MapLibre GL JS 6 and terrain, with the photo pins drawn by a three.js custom layer; an Android app records the tours. Sample tours play without an account.
+- [MapToNap](https://maptonap.com) - Site analysis maps and 3D site models for architects and urban designers: type an address and get figure-ground, land use, street hierarchy, sun and other analysis drawings. The site map is drawn with MapLibre GL JS on OpenFreeMap tiles.
 - [MerryMap](https://merrymap.co) - Crowd-sourced map of neighborhood Christmas-light displays across ten US metros, with a browsable city guide per metro. Built with MapLibre GL JS on OpenFreeMap tiles, runtime-restyled dark for night viewing.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
 - [MTL Explorer](https://github.com/mindalyze-com/mtl-explorer) ([demo](https://mtl-demo.mindalyze.com/mtl/)) - A self-hosted GPS track archive that uses MapLibre GL JS for 2D and 3D map exploration, activity replay, track analysis, and route planning.
+- [NajamStanova.com](https://najamstanova.com/en/commute-map) - Long-term rental flats in Zagreb, Croatia, from agency websites and landlords, with a commute map that colours every neighbourhood by its door-to-door public transport time to a place you type. Built with MapLibre GL JS on OpenFreeMap tiles.
 - [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with seismic intensity modeling, infrastructure impact assessment, and real-time P/S wave propagation. Built with MapLibre GL JS 5 + deck.gl 9. [demo](https://namazue.dev)
+- [Nesso](https://nesso.fit) - Home-hunting app. MapLibre GL JS draws an OpenStreetMap basemap from one PMTiles archive per city, district polygons, and H3 cells of walk times computed from OpenStreetMap data, loaded by viewport.
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive MapLibre-based geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai))
 - [PlaySG](https://playsg.sg) - Map of every playground in Singapore (~2,300) for parents - shade, water play, age fit and ratings. MapLibre GL JS with weekly-refreshed OpenStreetMap data.
-- [Pumperly](https://pumperly.com) ([Code](https://github.com/GeiserX/pumperly)) - Open-source fuel price comparison and EV charging route planner covering 36 countries. Features route planning, station clustering, and price color scales. Self-hostable, GPL-3.0.
+- [Pumperly](https://pumperly.com) ([Code](https://github.com/GeiserX/pumperly)) - Open-source fuel price comparison and EV charging route planner. Features route planning, station clustering, and price color scales. Self-hostable.
 - NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
 - [OpenHistoricalMap](https://www.openhistoricalmap.org/) – collaborative project to map the history of the world in detail, powered by MapLibre with maplibre-gl-leaflet
 - [OpenStreetMap Americana Style](https://github.com/osm-americana/openstreetmap-americana#openstreetmap-americana-style) - A quintessentially American map style, powered by [MapLibre](https://github.com/osm-americana/openstreetmap-americana#technology-stack)
+- [Outdoor Pitstop](https://outdoorpitstop.com/en-gb) - Benches, drinking water and public toilets for walkers and cyclists in 44 European countries, on one map built with MapLibre GL JS and OpenFreeMap tiles. Also iOS and Android apps.
 - [Paddling Spots](https://paddlingspots.com) - Platform to share paddle spots, find rentals and explore locations on the map. Uses MapLibre and ngx-maplibre-gl.
 - [Peripleo](https://github.com/britishlibrary/peripleo) - Reusable web map interface with configurable markers, filters, search and more. Open-source and runs on GH pages, all you need is a spreadsheet.
 - Plantaube (https://plantaube.com) – A free Webtool to create custom urban maps and site plans out of OSM-data. Optimized for Urban Planners and Architects.
+- [TectonicPlateMap.org](https://tectonicplatemap.org/) - Interactive Earth geophysics and seismology web app exploring all 52 tectonic plates (PB2002), fault boundaries, live USGS earthquakes, and active volcanoes. Built with MapLibre GL JS with offline vector tile support.
 - [Queering the Map](https://www.queeringthemap.com) ([Code](https://github.com/radical-data/queering-the-map)) - A crowd-sourced platform for anonymously pinning queer experiences on a global map.
 - [Radatlas](https://radatlas.at) - Every named cycle route in Austria on one map, with stages, elevation profiles and GPX/TCX downloads. Geometry from OpenStreetMap, terrain and base map from Austrian open government data. Built with MapLibre GL JS and PMTiles; the pitched 3D view can be flattened for riders it makes queasy, and the site meets WCAG 2.2 AA.
 - [Room TBA](https://room-tba.uplb.tools) ([Code](https://github.com/uplbtools/room-tba)) - Open-source campus room finder for a Philippine university with MapLibre GL JS, class schedules, transit routes, and offline PWA sync via PGlite.
 - [SharpMap](https://sharpmap.app/info), ultra-accurate 2D and 3D topographic mountain maps powered by MapLibre.
+- [Slopie](https://slopie.app) - Free 3D map of more than 4,000 ski resorts in 69 countries: every run and lift on the real terrain, from OpenStreetMap data via OpenSkiMap. Built with MapLibre GL JS; the iOS app shows the same map.
+- [Star Ninja](https://stars.2pm.ninja/?ref=awesome) - Free web map for planning a stargazing outing. Shows light-pollution darkness bands, a short cloud forecast and the moonless hours for any spot. Built with MapLibre GL JS on OpenFreeMap tiles.
+- [Stories](https://getstories.app) - Self-guided audio walking and driving tours of US cities and roads. Tour pages draw the route and stops with MapLibre GL JS on OpenFreeMap tiles, and the iOS app shows the same map in a WebView.
 - [StreetComplete](https://streetcomplete.app) — Easy to use mobile OpenStreetMap editor used for mapping in the field
 - [TatraMap.eu](https://tatramap.eu/#/teren-3d), a 3D map of Tatra Mountains powered by MapLibre.
 - [Tel Aviv 2035](https://tlvnext.com/?lang=en) ([Build Day code](https://github.com/benjddd/fable-build-day-tlv-2026)) - Independent 3D map of Tel Aviv-Yafo: every building at its recorded height on the municipality’s aerial photos (1997–2025), beside what building permits and statutory plans allow on the same ground. Built with MapLibre GL JS fill-extrusion on the city’s open GIS data; Hebrew and English, free, no account.
 - [The Wikipedia app for Android](https://github.com/wikimedia/apps-android-wikipedia) uses to display articles with coordinates.
+- [Tickerkarte](https://tickerkarte.de) - Public police press releases from across Germany on one map, geocoded to street level where the release allows, with per-city, per-district and per-topic pages, RSS feeds and an embeddable widget. MapLibre GL JS on OpenFreeMap tiles, with official accident and crime statistics as toggleable layers.
+- [Timeflies Today](https://timeflies.today) - Interactive globe of where the sun and moon are at any moment: twilight bands, solar eclipse coverage down to totality, lunar eclipses, sky view and sun path at street level. Each pixel computes its own sun altitude in a custom WebGL layer on MapLibre GL JS's globe; ephemerides computed with the astronomia library.
+- [TopoLines](https://www.topolines.app) - Web tool that traces contour lines from real elevation data (a global bare-earth terrain model, plus national lidar in several countries) and exports them as SVG, PNG, DXF or GeoJSON. The editor's light and dark vector basemap runs on MapLibre GL JS with OpenFreeMap tiles.
 - [TravelerMap.net](http://travelermap.net), a website which allows to explore National Parks
 - [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for decentralized coordination and real-life networking.<br>
   Built with MapLibre GL JS, it enables communities to create custom map instances with interactive layers for managing members, activities, and resources.
+- [Vienna Living Map](https://viennalivingmap.com) - Free housing map of Vienna: hours of direct sun per address and floor, calculated in the browser from measured building heights, plus noise, green space, transit and summer heat. Built with MapLibre GL JS on self-hosted PMTiles; no account, no cookies.
+- [VivaMap](https://vivamap.ch) - Quality-of-life map of every Swiss commune (tax, public transport, schools, noise, air quality, sunshine, nature, restaurants, healthcare) and every Dutch municipality ([vivamap.nl](https://vivamap.nl)). Scores are computed on an H3 hexagon grid and rendered with MapLibre GL JS, deck.gl and PMTiles on a static site.
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre Native.
+- [Walkably](https://walkably.org) - Free walkability map of Europe: type any address and see how walkable it is. Every street is scored from OpenStreetMap data.
+- [What's On Miami](https://whatsonmiami.com/map/) - Free 3D map of Miami: OpenStreetMap buildings, live aircraft drawn with three.js at their real altitude, a beach mode with the sea right now, and 43 lost and standing landmarks. Built with MapLibre GL JS on OpenFreeMap tiles; no account.
+- [What's On Vegas](https://whatsonvegas.com/map/) - Free 3D map of the Las Vegas Strip: OpenStreetMap buildings, every big hotel with what rooms cost each night, events and nightlife, and the planes and helicopters overhead drawn with three.js at their real altitude. Built with MapLibre GL JS on OpenFreeMap tiles; no account.
+- [Where Boats Anchor](https://whereboatsanchor.com) - Free worldwide map of where boats anchored overnight, from AIS, with the wind each night. MapLibre GL JS with a PMTiles basemap and ocean depth contours, served from Cloudflare R2; no account.
 - [World Train Map](https://worldtrainmap.com) - Interactive atlas of over a thousand notable train routes worldwide, colour-coded by type on OpenFreeMap tiles. Built with MapLibre GL JS; free rail dataset as GeoJSON/CSV.
 - [Wynd's](https://wynds.com.au/) - Property research website in Australia with flood risk, bushfire risk and school zone maps built with MapLibre JS.
 - [Yapmap](https://yapmap.cc) - Free, voice-controlled 3D world map: tap to talk and an AI guide flies the globe anywhere, drops pins, draws routes and narrates each place. Built with MapLibre GL JS 5, with deck.gl Tile3DLayer over Google Photorealistic 3D Tiles for close-up city dives. Runs in the browser, no account.
@@ -380,3 +432,4 @@ are designated with a ✅, and hosted projects with a 💙.
 ## Demos / Examples
 
 - [Expo MapLibre native + web demo](https://github.com/Jaza/expo-maplibre-native-plus-web-demo) - Demo Expo app using [maplibre-react-native](https://github.com/maplibre/maplibre-react-native) for native, and falling back to [react-map-gl](https://github.com/visgl/react-map-gl) with [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) for web.
+- [gta6-map](https://github.com/wesomitsu/gta6-map) - Neon 3D MapLibre GL JS styles with place pins and stays and food demos. [demo](https://wesomitsu.github.io/gta6-map/)
