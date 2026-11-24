@@ -332,6 +332,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) - An interactive sandbox to tune vector tiles.
 - [QGIS2VectorTiles](https://gallpeters.github.io/QGIS2VectorTiles/) - An end-to-end QGIS plugin that exports styled projects into a complete, efficient MapLibre package (tiles, style sheets, sprites, glyphs, and a ready-to-use web viewer) with tight data-style coupling, guaranteeing the output contains only the required data and styling.
 - [MapLibre MCP Server](https://github.com/CodeStorm-Hub/maplibre_mcp) - All-in-One Model Context Protocol (MCP) server for MapLibre WebGL, Native C++, Flutter widgets, PMTiles archives, and Martin Rust tile servers.
+- [Map Studio](https://devenzi.com/map-studio.html) ([WordPress.org](https://wordpress.org/plugins/devenzi-map-studio/)) - Free WordPress plugin that puts MapLibre GL JS maps on OpenFreeMap tiles into any site, with a full-screen editor for places, areas and routes, a store finder and 3D buildings. No API key.
 
 
 ## Users
@@ -373,7 +374,6 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Live Atlas](https://www.liveatlas.earth) - Free interactive globe of live earthquakes, erupting volcanoes, cyclones, wildfires and tectonic plates, built on open data (EN/FR).
 - [London Tourist Map](https://londontouristmap.com/) - Free interactive London tourist map with hidden gems, opening hours, ticket prices and themed maps. Built with MapLibre GL JS on OpenStreetMap data with Astro.
 - [Map Animation Studio](https://map-animation.com/) - Browser-based map video editor built with MapLibre GL JS, with animated travel routes, camera moves and region highlights. [Illustrated route tutorial](https://map-animation.com/guides/animate-a-route).
-- [Map Studio](https://devenzi.com/map-studio.html) ([WordPress.org](https://wordpress.org/plugins/devenzi-map-studio/)) - Free WordPress plugin that puts MapLibre GL JS maps on OpenFreeMap tiles into any site, with a full-screen editor for places, areas and routes, a store finder and 3D buildings. No API key.
 - [Mapeak](https://mapeak.com) - a world wide navigation app that supports open data by uploading images to wikimedia and data to OSM. It has the fastest known map updates with offline maps which are updated on a daily bases and online maps that updates 3 times a day. It has planning capabilities, search and everything you need to enjoy the outdoors!
 - [MapLibre Storytelling](https://github.com/digidem/maplibre-storymap) - a storytelling template using MapLibre GL JS which can be hosted as static HTML or using Node.
 - [maplog](https://maplog.app) - Travel map app for iPhone, iPad and Android: every country, region and city you've visited, filled in from your photos or a Google Maps Timeline export. The flat map is MapLibre Native (via MapLibre React Native) on a bundled Protomaps PMTiles basemap, so it works offline.
